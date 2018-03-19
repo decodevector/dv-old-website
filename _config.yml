@@ -22,4 +22,4 @@ jekyll-archives:
     tag: /tags/:name/
 
 sass:
-    sass_dir: ./_scss
+    sass_dir: ./_sass
