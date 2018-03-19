@@ -43,8 +43,9 @@ $on-laptop:        800px;
   }
 }
 
+// Import partials from the `whiteglass` theme.
+@import "whiteglass";
+
 .site-header{
     background-color: #f0f0f0;
 }
-// Import partials from the `whiteglass` theme.
-@import "whiteglass";
