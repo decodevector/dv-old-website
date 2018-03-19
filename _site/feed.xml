@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-03-20T02:20:20+05:30</updated>
+  <updated>2018-03-20T02:32:09+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -14,6 +14,12 @@
 
   
 
+  
+    <author>
+        <name>Mathscapes Research</name>
+      
+      
+    </author>
   
 
   
