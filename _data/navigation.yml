@@ -7,10 +7,8 @@ main:
   #   url: /about/
   # - title: "Join"
   #   url: /join/
-  - title: "Pset"
-    url: /categories/pset/
-  # - title: "Notes"
-  #   url: /categories/notes/
+  - title: "Notes"
+    url: /notes/
   - title: "Members"
     url: /members/
   - title: "GitHub"

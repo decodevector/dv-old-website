@@ -20,13 +20,6 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
 sass:
     sass_dir: ./_sass
 
