@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2018/03/19/welcome-to-jekyll/</loc>
+<loc>http://localhost:4000/2018/03/19/8-queens/</loc>
+<lastmod>2018-03-19T14:30:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2018/03/19/lwsc1/</loc>
+<lastmod>2018-03-19T14:30:08+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2018/03/19/proj1/</loc>
 <lastmod>2018-03-19T14:30:08+05:30</lastmod>
 </url>
 <url>
@@ -27,5 +35,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/categories/pset/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/notes/</loc>
 </url>
 </urlset>

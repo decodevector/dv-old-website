@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-03-20T13:58:34+05:30</updated>
+  <updated>2018-03-20T16:31:30+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -26,25 +26,119 @@
   
     <entry>
       
-      <title type="html">8 Queens Problem</title>
+      <title type="html">Kinematic quantities of Standard Projectile motion</title>
       
-      <link href="http://localhost:4000/2018/03/19/welcome-to-jekyll/" rel="alternate" type="text/html" title="8 Queens Problem" />
+      <link href="http://localhost:4000/2018/03/19/proj1/" rel="alternate" type="text/html" title="Kinematic quantities of Standard Projectile motion" />
       <published>2018-03-19T14:30:08+05:30</published>
       <updated>2018-03-19T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/19/welcome-to-jekyll</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/19/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated. $a \ne 0$&lt;/p&gt;
+      <id>http://localhost:4000/2018/03/19/proj1</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/proj1/">&lt;p&gt;Given that an object is launched at an initial velocity $v$ with an angle from the horizontal in vacuum system placed on Earth. Gravity is experienced only downwards and may be represented by $a_g$. Derive the following kinematic quantities of a standard projectile motion.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;$a$, Acceleration at any time $t$&lt;br /&gt;
+$v$, Velocity at any time $t$&lt;br /&gt;
+$x$ and $y$, Displacement at any time $t$&lt;br /&gt;
+$T$, Total time of flight&lt;br /&gt;
+$h$, Maximum height of the projectile&lt;br /&gt;
+$d$, Maximum distance of the projectile&lt;/p&gt;</content>
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+      
+      
+      
+      
+      
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content>
+      
+        <category term="pset" />
+      
+        <category term="notes" />
+      
+
+      
+
+      
+        <summary type="html">Given that an object is launched at an initial velocity $v$ with an angle from the horizontal in vacuum system placed on Earth. Gravity is experienced only downwards and may be represented by $a_g$. Derive the following kinematic quantities of a standard projectile motion.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Caroll’s Puzzles</title>
+      
+      <link href="http://localhost:4000/2018/03/19/lwsc1/" rel="alternate" type="text/html" title="Caroll's Puzzles" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/lwsc1</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/lwsc1/">&lt;p&gt;Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.&lt;/p&gt;
+
+&lt;p&gt;Example:
+(a)  All babies are illogical.&lt;br /&gt;
+(b)  Nobody is despised who can manage a crocodile.&lt;br /&gt;
+(c)  Illogical persons are despised.&lt;/p&gt;
+
+&lt;p&gt;Solution:&lt;br /&gt;
+As the subjects of this puzzle are people, we take the universe as the set of all people. We will rewrite each statement in the puzzle as an implication. First, we define simpler statements,&lt;/p&gt;
+
+&lt;p&gt;B: it is a baby&lt;br /&gt;
+L: it is logical&lt;br /&gt;
+M: it can manage a crocodile&lt;br /&gt;
+D: it is despised,&lt;/p&gt;
+
+&lt;p&gt;where “it” in this context refers to a general person. Then the three statements can be rephrased as&lt;/p&gt;
+
+&lt;p&gt;B → ~ L : If it is a baby then it is not logical.&lt;br /&gt;
+M → ~ D : If it can manage a crocodile then it is not despised.&lt;br /&gt;
+~L → D : If it is not logical then it is despised.&lt;/p&gt;
+
+&lt;p&gt;Our aim is to use transitive reasoning several times, stringing together a chain of implications using all the given statements. We have an arrow pointing from B to ~L, and likewise an arrow pointing from ~L to D; thus we are able to start with B and arrive at the conclusion D. However, the second statement is still not utilized. But since any implication is equivalent to its contrapositive, we may replace the second statement with its contrapositive D → ~M. Then we get the transitive reasoning chain.&lt;/p&gt;
+
+&lt;p&gt;B → ~L → D → ~M&lt;/p&gt;
+
+&lt;p&gt;We reason that if B is true, then ~L is true, hence D is true, and therefore ~M is true. Our ultimate conclusion is the statement.&lt;/p&gt;
+
+&lt;p&gt;B → ~ M: If it is a baby then it cannot manage a crocodile.&lt;/p&gt;
+
+&lt;p&gt;In ordinary language, we would more likely rephrase this answer to the puzzle as&lt;/p&gt;
+
+&lt;p&gt;“No baby can manage a crocodile.”&lt;/p&gt;
+
+&lt;p&gt;Alternatively, we could write the answer as the contrapositive statement.&lt;/p&gt;
+
+&lt;p&gt;M → ~ B: If it can manage a crocodile then it is not a baby.&lt;/p&gt;
+
+&lt;p&gt;The translation of words then would be something like&lt;/p&gt;
+
+&lt;p&gt;“Anyone who can manage a crocodile is not a baby.”&lt;/p&gt;
+
+&lt;p&gt;Lewis Carroll created these puzzles. In each puzzle, you are to write the assertions symbolically as implications, along with their contrapositives, and then string together with arrows all the assertions to arrive at a final conclusion. Your answer will be an ultimate implication, which you must then cleverly translate back into ordinary language.&lt;/p&gt;
+
+&lt;p&gt;(a) My saucepans are the only things I have that are made of tin. &lt;br /&gt;
+I find all your presents very useful. &lt;br /&gt;
+None of my saucepans are of the slightest use.&lt;/p&gt;
+
+&lt;p&gt;(b) All writers, who understand human nature, are clever. &lt;br /&gt;
+No one is a true poet unless he can stir the hearts of men. &lt;br /&gt;
+Shakespeare wrote “Hamlet”. &lt;br /&gt;
+No writer, who does not understand human nature, can stir the hearts of men.&lt;br /&gt;
+ None but a true poet could have written “Hamlet”.&lt;/p&gt;
+
+&lt;p&gt;(c) I despise anything that cannot be used as a bridge. &lt;br /&gt;
+Everything, that is worth writing an ode to, would be a welcome gift to me. &lt;br /&gt;
+A rainbow will not bear the weight of a wheelbarrow.&lt;br /&gt;
+ Whatever can be used as a bridge will bear the weight of a wheelbarrow.&lt;br /&gt;
+ I would not take, as a gift, a thing that I despise.&lt;/p&gt;</content>
 
       
       
@@ -67,7 +161,54 @@
       
 
       
-        <summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. $a \ne 0$</summary>
+        <summary type="html">Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">8 Queens Problem</title>
+      
+      <link href="http://localhost:4000/2018/03/19/8-queens/" rel="alternate" type="text/html" title="8 Queens Problem" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/8-queens</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/8-queens/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an $8×8$ chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general n queens problem of placing n non-attacking queens on an $n \times n$ chessboard, for which solutions exist for all natural numbers n with the exception of $n=2$ and $n=3$.&lt;/p&gt;
+
+&lt;h3 id=&quot;history&quot;&gt;History&lt;/h3&gt;
+&lt;p&gt;Chess composer Max Bezzel published the eight queens puzzle in 1848. Franz Nauck published the first solutions in 1850. Nauck also extended the puzzle to the n queens problem, with n queens on a chessboard of $n \times n$ squares.&lt;/p&gt;
+
+&lt;p&gt;Since then, many mathematicians, including Carl Friedrich Gauss, have worked on both the eight queens puzzle and its generalized n-queens version. In 1874, S. Gunther proposed a method using determinants to find solutions. J.W.L. Glaisher refined Gunther’s approach.&lt;/p&gt;
+
+&lt;p&gt;In 1972, Edsger Dijkstra used this problem to illustrate the power of what he called structured programming. He published a highly detailed description of a depth-first backtracking algorithm.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="pset" />
+      
+
+      
+
+      
+        <summary type="html">The eight queens puzzle is the problem of placing eight chess queens on an $8×8$ chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general n queens problem of placing n non-attacking queens on an $n \times n$ chessboard, for which solutions exist for all natural numbers n with the exception of $n=2$ and $n=3$.</summary>
       
 
       

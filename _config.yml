@@ -23,3 +23,21 @@ jekyll-archives:
 
 sass:
     sass_dir: ./_sass
+
+# Social media
+twitter_username: mathscapes
+twitter_image:
+facebook_app_id:
+facebook_image:
+google_analytics:
+comments: false
+
+
+# Markdown settings
+kramdown:
+auto_ids: false
+enable_coderay: false
+entity_output: as_char
+footnote_nr: 1
+smart_quotes: lsquo,rsquo,ldquo,rdquo
+toc_levels: 1..6

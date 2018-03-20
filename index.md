@@ -11,6 +11,3 @@ Theoretical Computer Science is mathematical and abstract in spirit, but it deri
 ### Announcements
 - 21/03/2018: First DV Meetup on 22/03/2018 -- Contact [Simran](mailto:simran.singh9@yahoo.com) or [Apoorva](mailto:apoorva.a1998@gmail.com) for details
 - 20/03/2018: Announcing DecodeVector's website --  [http://mathscapes.xyz/dv](http://mathscapes.xyz/dv)
-
------
-[Contact](mailto:grv@mathscapes.xyz) | [Report a bug](https://github.com/mathscapes/DecodeVector/issues)
