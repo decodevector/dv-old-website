@@ -8,8 +8,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
-paginate_path: /pset/:num/
-paginate: 5
+paginate: 10
 
 jekyll-archives:
   enabled:
@@ -20,6 +19,13 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 sass:
     sass_dir: ./_sass
