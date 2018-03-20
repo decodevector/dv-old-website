@@ -13,7 +13,7 @@ We largely focus on theoretical computer science, or TCS, which is a subset of g
 
 > TCS covers a wide variety of topics including algorithms, data structures, computational complexity, parallel and distributed computation, probabilistic computation, quantum computation, automata theory, information theory, cryptography, program semantics and verification, machine learning, computational biology, computational economics, computational geometry, and computational number theory and algebra. Work in this field is often distinguished by its emphasis on mathematical technique and rigor.
 
-[Learn more on Theoretical Computer Science on Wikipedia →](https://en.wikipedia.org/wiki/Theoretical_computer_science)
+[Learn more about Theoretical Computer Science on Wikipedia →](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 
 ### Announcements
 - 20/03/2018: First DV Meetup on 21/03/2018 -- Contact [Simran](mailto:simran.singh9@yahoo.com) or [Apoorva](mailto:apoorva.a1998@gmail.com) for details
