@@ -5,7 +5,12 @@ permalink: /members/
 ---
 
 ### Active
-@grvashu @vineetarath @simran @apoorva @pranjal
+* Gaurav Singh (@grvashu)
+* Vineeta Rath (@vineetarath)
+* Apoorva A (@apoorva-a98)
+* Simran Singh (@simraan9)
+* Pranjal Jain (@masterpranjal)
 
 ### Past
-@namratarath @haritha
+* Haritha Pitla (@harithapitla)
+* Namrata Rath (@namratarath)
