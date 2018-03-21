@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-03-21T01:27:49+05:30</updated>
+  <updated>2018-03-21T02:13:37+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,99 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Sine Wave</title>
+      
+      <link href="http://localhost:4000/2018/03/19/wave1/" rel="alternate" type="text/html" title="Sine Wave" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/wave1</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/wave1/">&lt;p&gt;Plot sine wave in P5JS.&lt;/p&gt;
+
+&lt;p&gt;A sine wave or sinusoid is a mathematical curve that describes a smooth repetitive oscillation. A sine wave is a continuous wave. It is named after the function sine, of which it is the graph.&lt;/p&gt;
+
+&lt;p&gt;It occurs often in pure and applied mathematics, as well as physics, engineering, signal processing and many other fields. Its most basic form as a function of time $t$ is:&lt;/p&gt;
+
+&lt;p&gt;$y(t) = A\sin(2 \pi f t + \phi) = A\sin(\omega t + \phi)$&lt;/p&gt;
+
+&lt;p&gt;where:&lt;br /&gt;
+$A$ = the amplitude, the peak deviation of the function from zero.&lt;br /&gt;
+$f$ = the ordinary frequency, the number of oscillations (cycles) that occur each second of time.&lt;br /&gt;
+$ω = 2πf$, the angular frequency, the rate of change of the function argument in units of radians per second&lt;br /&gt;
+$\phi$ = the phase specifies (in radians) wherein its cycle the oscillation is at $t = 0$.&lt;br /&gt;
+When $\phi$ is non-zero, the entire waveform appears to be shifted in time by the amount $\frac{\phi}{ω}$ seconds. A negative value represents a delay, and a positive value represents an advance.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="pset" />
+      
+
+      
+
+      
+        <summary type="html">Plot sine wave in P5JS.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Simulating Projectile Motion</title>
+      
+      <link href="http://localhost:4000/2018/03/19/proj3/" rel="alternate" type="text/html" title="Simulating Projectile Motion" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/proj3</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/proj3/">&lt;p&gt;Read the value of initial velocity u and throwing angle theta from the textbook and simulate simple projectile motion in P5JS.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="pset" />
+      
+
+      
+
+      
+        <summary type="html">Read the value of initial velocity u and throwing angle theta from the textbook and simulate simple projectile motion in P5JS.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -162,6 +255,163 @@ A rainbow will not bear the weight of a wheelbarrow.&lt;br /&gt;
 
       
         <summary type="html">Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Elliptical Orbit</title>
+      
+      <link href="http://localhost:4000/2018/03/19/ellip/" rel="alternate" type="text/html" title="Elliptical Orbit" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/ellip</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/ellip/">&lt;p&gt;Simulate a 2-body system where one body (ball) is fixed at the center of the canvas while the other rotates around it in a highly elliptical path.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="pset" />
+      
+
+      
+
+      
+        <summary type="html">Simulate a 2-body system where one body (ball) is fixed at the center of the canvas while the other rotates around it in a highly elliptical path.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Crossing balls</title>
+      
+      <link href="http://localhost:4000/2018/03/19/ball2/" rel="alternate" type="text/html" title="Crossing balls" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/ball2</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/ball2/">&lt;p&gt;In P5JS, write a program that shows a ball moving towards the right, between left and right bounds of the canvas, and another ball moving in opposite direction. Given: Both balls are moving at the same velocity. Ball A and Ball B start at an exact same time from opposite bounds in a canvas of size 600x400 pixels.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="pset" />
+      
+
+      
+
+      
+        <summary type="html">In P5JS, write a program that shows a ball moving towards the right, between left and right bounds of the canvas, and another ball moving in opposite direction. Given: Both balls are moving at the same velocity. Ball A and Ball B start at an exact same time from opposite bounds in a canvas of size 600x400 pixels.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">1 Bit Half Subtractor</title>
+      
+      <link href="http://localhost:4000/2018/03/19/addr1/" rel="alternate" type="text/html" title="1 Bit Half Subtractor" />
+      <published>2018-03-19T14:30:08+05:30</published>
+      <updated>2018-03-19T14:30:08+05:30</updated>
+      <id>http://localhost:4000/2018/03/19/addr1</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/19/addr1/">&lt;p&gt;Draw 1-bit half subtractor using the minimum number of logic gates. The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, $X$ (minuend) and $Y$ (subtrahend) and two outputs $D$ (difference) and $B$ (borrow).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;A&lt;/th&gt;
+      &lt;th&gt;B&lt;/th&gt;
+      &lt;th&gt;C&lt;/th&gt;
+      &lt;th&gt;S&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>grvashu</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="pset" />
+      
+
+      
+
+      
+        <summary type="html">Draw 1-bit half subtractor using the minimum number of logic gates. The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, $X$ (minuend) and $Y$ (subtrahend) and two outputs $D$ (difference) and $B$ (borrow).</summary>
       
 
       
