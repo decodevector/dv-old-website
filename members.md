@@ -10,7 +10,7 @@ permalink: /members/
 * Apoorva A ([@apoorva-a98](https://github.com/apoorva-a98))
 * Simran Singh ([@simraan9](https://github.com/simraan9))
 * Pranjal Jain ([@masterpranjal](https://github.com/masterpranjal))
+* Haritha Pitla ([@harithapitla](https://github.com/harithapitla))
 
 ### Past
-* Haritha Pitla ([@harithapitla](https://github.com/harithapitla))
 * Namrata Rath ([@namratarath](https://github.com/namratarath))
