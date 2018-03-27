@@ -4,18 +4,17 @@ title: "Members"
 permalink: /members/
 ---
 
-### Active
-* Gaurav Singh ([@grvashu](https://github.com/grvashu)) ‣ _Joined on Nov 2017_
-* Vineeta Rath ([@vineetarath](https://github.com/vineetarath)) ‣ _Joined on Nov 2017_
-* Apoorva A ([@apoorva-a98](https://github.com/apoorva-a98)) ‣ _Joined on Jan 2018_
-* Simran Singh ([@simraan9](https://github.com/simraan9)) ‣ _Joined on Jan 2018_
-* Pranjal Jain ([@masterpranjal](https://github.com/masterpranjal)) ‣ _Joined on Feb 2018_
-* Haritha Pitla ([@harithapitla](https://github.com/harithapitla)) ‣ _Joined on Feb 2018_
+| :- | :- | :- | :- |
+| <span class="level-1"> [apoorva-a98 [100]](https://github.com/apoorva-a98) </span> | <span class="level-1"> [simraan9 [100]](https://github.com/simraan9) </span> | <span class="level-0"> [vineetarath [0]](https://github.com/vineetarath) </span> | <span class="level-0"> [masterpranjal [0]](https://github.com/masterpranjal) </span> |
+| <span class="level-0"> [harithapitla [0]](https://github.com/harithapitla) </span> | <span class="level-0"> [renuka [0]](#) </span> | <span class="level-0"> [svojas [0]](#) </span> | <span class="level-0"> [devashree [0]](#) </span>
+| <span class="level-0"> [namratarath [0]](https://github.com/namratarath) </span> | <span class="level-1"> [grvashu [100]](https://github.com/grvashu) </span> | - | - |
 
-### New members
-* Renuka
-* Svojas
-* Devashree
+---
 
-### Past
-* Namrata Rath ([@namratarath](https://github.com/namratarath)) ‣ _Dec 2017_
+| :- | :- | :- | :- |
+| <span class="level-0"> [L0 - Grey [0-99]](#) </span> | <span class="level-1"> [L1 - Black [100-199]](#) </span> | <span class="level-2"> [L2 - Purple [200-399]](#) </span> | <span class="level-3"> [L3 - Blue [400-799]](#) </span> |
+| <span class="level-4"> [L4 - Teal [800-1599]](#) </span> | <span class="level-5"> [L5 - Green [1600-3199]](#) </span> | <span class="level-6"> [L6 - Amber [3200-6399]](#) </span> | <span class="level-7"> [L7 - Red [6400+]](#) </span> |
+
+---
+
+Each Pset problem carries 1 point. 

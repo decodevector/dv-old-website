@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Crossing balls"
-date:   2018-03-19 14:30:08 +0530
-categories: pset
-author: grvashu
----
-In P5JS, write a program that shows a ball moving towards the right, between left and right bounds of the canvas, and another ball moving in opposite direction. Given: Both balls are moving at the same velocity. Ball A and Ball B start at an exact same time from opposite bounds in a canvas of size 600x400 pixels.
