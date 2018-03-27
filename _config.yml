@@ -1,5 +1,6 @@
 title: DecodeVector
 author: Mathscapes Research
+url: http://decodevector.mathscapes.xyz/
 remote-theme: jekyll-whiteglass
 plugins:
   - jekyll-archives

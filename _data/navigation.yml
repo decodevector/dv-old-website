@@ -7,9 +7,11 @@ main:
   #   url: /about/
   # - title: "Join"
   #   url: /join/
+  # - title: "Pset"
+  #   url: /categories/pset/
   - title: "Notes"
-    url: /notes/
+    url: /categories/notes
   - title: "Members"
     url: /members/
-  - title: "GitHub"
-    url: https://github.com/DecodeVector
+  # - title: "GitHub"
+  #   url: #

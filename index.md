@@ -15,6 +15,10 @@ We largely focus on theoretical computer science, or TCS, which is a subset of g
 
 [Learn more about Theoretical Computer Science on Wikipedia →](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 
+### Join DecodeVector
+DecodeVector is open for everyone to join provided you are interested in pursuing theoretical computer science. Members will be required to be physically present in the daily exercises. Contact [Simran](mailto:simran.singh9@yahoo.com) or [Apoorva](mailto:apoorva.a1998@gmail.com) for details.
+
+<!--
 ### Announcements
 - 20/03/2018: First DV Meetup on 21/03/2018 -- Contact [Simran](mailto:simran.singh9@yahoo.com) or [Apoorva](mailto:apoorva.a1998@gmail.com) for details
-- 20/03/2018: Announcing DecodeVector's website --  [http://mathscapes.xyz/dv](http://mathscapes.xyz/dv)
+- 20/03/2018: Announcing DecodeVector's website --  [http://mathscapes.xyz/dv](http://mathscapes.xyz/dv) -->
