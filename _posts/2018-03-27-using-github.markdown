@@ -2,7 +2,7 @@
 layout: post
 title:  "Using GitHub"
 date:   2018-03-27 16:20:08 +0530
-categories: Resources
+categories: Notes Resources
 tags: GitHub Git
 author: Gaurav Singh
 ---

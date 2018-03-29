@@ -8,10 +8,8 @@ main:
   - title: "Join"
     url: /join/
   - title: "Pset"
-    url: /pset/
+    url: /categories/Pset/
   - title: "Notes"
-    url: /notes/
+    url: /categories/Notes/
   - title: "Members"
     url: /members/
-  - title: "GitHub⌃"
-    url: #

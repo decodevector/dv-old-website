@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with p5.js"
 date:   2018-03-28 00:04:08 +0530
-categories: Resources
+categories: Notes Resources
 author: Gaurav Singh
 tags: p5.js Processing JavaScript
 ---

@@ -4,10 +4,11 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
+$base-font-family: 'Fira Sans', sans-serif;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
-$base-font-size:   16px;
-$base-font-weight: 400;
+$body-font-family: 'Fira Sans', sans-serif;
+$base-font-size:   20px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -15,14 +16,14 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fff;
-$brand-color:      #2568ba;
+$brand-color:      #a20025;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -47,11 +48,13 @@ $on-laptop:        800px;
 @import "whiteglass";
 
 .site-header{
-    background-color: #b71c1c  ;
+    background-color:$brand-color;
+    //border-bottom: 2px solid $brand-color;
+    //#E8F5E9 ;
     width:100%;
     position:fixed;
     z-index: 100;
-    opacity: 0.9;
+    opacity: 1;
 }
 
 .post-header{
@@ -62,9 +65,17 @@ $on-laptop:        800px;
 }
 .site-title, .site-title:visited{
     color: white;
+    font-weight: 400;
+}
+.site-nav{
+    line-height: 55px;
 }
 .site-nav .page-link{
-    color: #fff;
+    color: white;
+    font-size: 14px;
+    opacity: 1;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .level-7 a, .level-7 a:visited{
@@ -100,14 +111,18 @@ $on-laptop:        800px;
 }
 
 h1{
-    color: #b71c1c;
+    color: black;
+    font-family: $base-font-family;
+    font-weight: 100;
 }
 
-h1, .page-heading{
-    color: #b71c1c;
+h1.page-heading{
+    color: black;
+    font-family: $base-font-family;
     font-size: 30px;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     line-height: 1;
+    font-weight:300;
 }
 
 .page-content h4{
@@ -115,13 +130,67 @@ h1, .page-heading{
 }
 
 .post-title{
-    font-weight: 900;
+    font-size:48px;
 }
 
 a,a:visited{
-    color:#00BCD4;
+    color:$brand-color;
 }
 
 .site-footer a, .site-footer a:visited{
     color:black;
+}
+
+.site-footer a:hover, .site-footer a:hover{
+    color:$brand-color;
+}
+blockquote{
+    padding: 30px;
+    background-color: #F5F5F5;
+    border-left:none;
+    font-style:normal;
+    letter-spacing: 0px;
+    color: $grey-color;
+    font-weight: 100;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-family: $base-font-family;
+}
+
+hr{
+    margin:30px 0;
+    height:2px;
+    background-color: $grey-color-light;
+}
+h2, h3, h4, h5, h6{
+    font-weight:400;
+}
+
+body{
+    font-family: $body-font-family;
+    font-weight:300;
+}
+
+a.button,a.button:visited{
+    background-color:$brand-color ;
+    color:#fff;
+    margin:10px 0;
+    padding:10px 30px;
+
+}
+a.secondary,a.secondary:visited{
+    background-color:$grey-color-light;
+    color:#000;
+    margin:10px 0;
+    padding:10px 30px;
+}
+a.secondary:hover{
+    text-decoration: none;
+    color:#000;
+    background-color:darken($grey-color-light,10%) ;
+}
+a.button:hover{
+    text-decoration: none;
+    color:#fff;
+    background-color:darken($brand-color,10%) ;
 }

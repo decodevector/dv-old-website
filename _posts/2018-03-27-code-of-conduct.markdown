@@ -2,7 +2,7 @@
 layout: post
 title:  "Code of Conduct"
 date:   2018-03-27 12:04:08 +0530
-categories: Important
+categories: Notes Important
 author: Gaurav Singh
 ---
 
@@ -10,7 +10,7 @@ author: Gaurav Singh
 
 This code of conduct outlines our expectations for participants within the DecodeVector community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
-> Morality cannot be legislated, but behavior can be regulated.
+> "Morality cannot be legislated, but behavior can be regulated."\\
 > -- Dr. Martin Luther King, Jr.
 
 ### Our DecodeVector community strives to:
