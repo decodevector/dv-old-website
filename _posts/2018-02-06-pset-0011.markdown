@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "0011: 1-Bit Full Adder"
+date:   2018-02-06 14:30:08 +0530
+categories: Pset 1-Point
+tags: Logic-Gates
+author: Gaurav Singh
+---
+Design 1-bit full adder using the minimum number of logic gates.
+
+### What are adders?
+An adder is a digital circuit that performs addition of numbers. In many computers and other kinds of processors adders are used in the arithmetic logic units or ALU. They are also utilized in other parts of the processor, where they are used to calculate addresses, table indices, increment and decrement operators, and similar operations.
+
+### Half Adders vs Full Adders
+The half adder adds two single binary digits A and B. It has two outputs, sum $S$ and carry $C$. The carry signal represents an overflow into the next digit of a multi-digit addition. The value of the sum in decimal system is $2C + S$. The simplest half-adder design, pictured on the right, incorporates an XOR gate for $S$ and an AND gate for $C$. The Boolean logic for the sum (in this case $S$) will be $A'B+AB'$ whereas for carry $C$ will be $AB$. With the addition of an OR gate to combine their carry outputs, two half adders can be combined to make a full adder. The half adder adds two input bits and generates a carry and sum, which are the two outputs of a half adder. The input variables of a half adder are called the augend and addend bits. The output variables are the sum and carry.
+
+A full adder adds binary numbers and accounts for values carried in as well as out. A one-bit full-adder adds three one-bit numbers, often written as $A$, $B$, and $C_{in}$; $A$ and $B$ are the operands, and $C_{in}$ is a bit carried in from the previous less-significant stage. The full adder is usually a component in a cascade of adders, which add 8, 16, 32, etc. bit binary numbers. The circuit produces a two-bit output. Output carry and sum typically represented by the signals $C_{out}$ and $S$, where $ sum = 2 C_{out} + S $ in the decimal system.
+
+| $A$ | $B$ | $C_{in}$ | $C_{out}$ | $S$ |
+| - | - | - | - | - |
+| 0 | 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 | 1 |
+| 0 | 1 | 0 | 0 | 1 |
+| 0 | 1 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 1 | 0 |
+| 1 | 1 | 0 | 1 | 0 |
+| 1 | 1 | 1 | 1 | 1 |

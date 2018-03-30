@@ -1,9 +1,0 @@
----
-layout: post
-title:  "[PROJ3] Simulating Projectile Motion"
-date:   2018-02-04 14:30:08 +0530
-categories: Pset 1-Point
-tags: Kinematics p5.js
-author: Gaurav Singh
----
-Read the value of initial velocity $u$ and throwing angle theta from a textbox and simulate simple projectile motion in P5JS.

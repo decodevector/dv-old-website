@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "0017: Smallest Multiple"
+date:   2018-03-20 14:30:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+_The following problem is taken from Project Euler._
+
+$2520$ is the smallest number that can be divided by each of the numbers from $1$ to $10$ without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from $1$ to $20$?

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0013: 4-Bit Full Adder"
+date:   2018-02-07 14:30:08 +0530
+categories: Pset 1-Point
+tags: Logic-Gates
+author: Gaurav Singh
+---
+Design a 4-bit full adder.

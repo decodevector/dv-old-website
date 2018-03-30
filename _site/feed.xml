@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-03-30T13:13:52+05:30</updated>
+  <updated>2018-03-30T16:02:54+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,210 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">0025: Sigma Function</title>
+      
+      <link href="http://localhost:4000/2018/03/30/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
+      <published>2018-03-30T15:10:00+05:30</published>
+      <updated>2018-03-30T15:10:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/30/pset-0025</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
+
+&lt;p&gt;(a) S1: $1, 2, 3,…$&lt;/p&gt;
+
+&lt;p&gt;(b) S2: $3, 5, 7,..$&lt;/p&gt;
+
+&lt;p&gt;(c) S3: $2, 3, 5, 6, 7, 8, 10, 11, 12, 13,…$ (ie. Number that are not squares)&lt;/p&gt;
+
+&lt;p&gt;In each of the following, calculate sum till $n$ terms.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write following sigma functions where $n$ is input argument in each case.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0024: 10001st Prime</title>
+      
+      <link href="http://localhost:4000/2018/03/30/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
+      <published>2018-03-30T15:02:00+05:30</published>
+      <updated>2018-03-30T15:02:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/30/pset-0024</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;By listing the first six prime numbers: $2$, $3$, $5$, $7$, $11$, and $13$, we can see that the 6th prime is $13$.&lt;/p&gt;
+
+&lt;p&gt;What is the $10001$st prime number?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0023: Sum Square Difference</title>
+      
+      <link href="http://localhost:4000/2018/03/30/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
+      <published>2018-03-30T14:35:00+05:30</published>
+      <updated>2018-03-30T14:35:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/30/pset-0023</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The sum of the squares of the first ten natural numbers is,&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;12 + 22 + ... + 102 = 385&lt;/script&gt;
+
+&lt;p&gt;The square of the sum of the first ten natural numbers is,&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;(1 + 2 + ... + 10)2 = 552 = 3025&lt;/script&gt;
+
+&lt;p&gt;Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is $3025 − 385 = 2640$.&lt;/p&gt;
+
+&lt;p&gt;Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0022: Largest Prime Factor</title>
+      
+      <link href="http://localhost:4000/2018/03/30/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
+      <published>2018-03-30T14:20:00+05:30</published>
+      <updated>2018-03-30T14:20:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/30/pset-0022</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The prime factors of $13195$ are $5$, $7$, $13$ and $29$.&lt;/p&gt;
+
+&lt;p&gt;What is the largest prime factor of the number $600851475143$ ?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -402,13 +606,251 @@
   
     <entry>
       
-      <title type="html">[PASCT] Pascal’s Triangle</title>
+      <title type="html">0021: Largest Palindrome Product</title>
       
-      <link href="http://localhost:4000/2018/02/09/pset-pasct/" rel="alternate" type="text/html" title="[PASCT] Pascal's Triangle" />
+      <link href="http://localhost:4000/2018/03/24/pset-0021/" rel="alternate" type="text/html" title="0021: Largest Palindrome Product" />
+      <published>2018-03-24T14:25:00+05:30</published>
+      <updated>2018-03-24T14:25:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/24/pset-0021</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/24/pset-0021/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is $9009 = 91 × 99$.&lt;/p&gt;
+
+&lt;p&gt;Find the largest palindrome made from the product of two 3-digit numbers.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0020: Multiples of 3 and 5</title>
+      
+      <link href="http://localhost:4000/2018/03/23/pset-0020/" rel="alternate" type="text/html" title="0020: Multiples of 3 and 5" />
+      <published>2018-03-23T14:14:00+05:30</published>
+      <updated>2018-03-23T14:14:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/23/pset-0020</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/23/pset-0020/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.&lt;/p&gt;
+
+&lt;p&gt;Find the sum of all the multiples of 3 or 5 below 1000.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0019: Adding Fractions</title>
+      
+      <link href="http://localhost:4000/2018/03/22/pset-0019/" rel="alternate" type="text/html" title="0019: Adding Fractions" />
+      <published>2018-03-22T15:14:00+05:30</published>
+      <updated>2018-03-22T15:14:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/22/pset-0019</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/22/pset-0019/">&lt;p&gt;Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0018: Even Fibonacci Numbers</title>
+      
+      <link href="http://localhost:4000/2018/03/21/pset-0018/" rel="alternate" type="text/html" title="0018: Even Fibonacci Numbers" />
+      <published>2018-03-21T14:17:00+05:30</published>
+      <updated>2018-03-21T14:17:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/21/pset-0018</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/21/pset-0018/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with $1$ and $2$, the first 10 terms will be:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...&lt;/script&gt;
+
+&lt;p&gt;By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0017: Smallest Multiple</title>
+      
+      <link href="http://localhost:4000/2018/03/20/pset-0017/" rel="alternate" type="text/html" title="0017: Smallest Multiple" />
+      <published>2018-03-20T14:30:00+05:30</published>
+      <updated>2018-03-20T14:30:00+05:30</updated>
+      <id>http://localhost:4000/2018/03/20/pset-0017</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/20/pset-0017/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;$2520$ is the smallest number that can be divided by each of the numbers from $1$ to $10$ without any remainder.&lt;/p&gt;
+
+&lt;p&gt;What is the smallest positive number that is evenly divisible by all of the numbers from $1$ to $20$?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0016: Pascal’s Triangle</title>
+      
+      <link href="http://localhost:4000/2018/02/09/pset-0016/" rel="alternate" type="text/html" title="0016: Pascal's Triangle" />
       <published>2018-02-09T14:30:08+05:30</published>
       <updated>2018-02-09T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/09/pset-pasct</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/09/pset-pasct/">&lt;p&gt;In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.&lt;/p&gt;
+      <id>http://localhost:4000/2018/02/09/pset-0016</id>
+      <content type="html" xml:base="http://localhost:4000/2018/02/09/pset-0016/">&lt;p&gt;In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.&lt;/p&gt;
 
 &lt;p&gt;Read a number $N$ in a Python program and print $N$ lines of Pascal’s triangle.&lt;/p&gt;
 
@@ -450,13 +892,13 @@
   
     <entry>
       
-      <title type="html">[SHRM1] Simple Harmonic Motion</title>
+      <title type="html">0015: Simple Harmonic Motion</title>
       
-      <link href="http://localhost:4000/2018/02/09/pset-shrm1/" rel="alternate" type="text/html" title="[SHRM1] Simple Harmonic Motion" />
+      <link href="http://localhost:4000/2018/02/09/pset-0015/" rel="alternate" type="text/html" title="0015: Simple Harmonic Motion" />
       <published>2018-02-09T14:30:08+05:30</published>
       <updated>2018-02-09T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/09/pset-shrm1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/09/pset-shrm1/">&lt;p&gt;In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.&lt;/p&gt;
+      <id>http://localhost:4000/2018/02/09/pset-0015</id>
+      <content type="html" xml:base="http://localhost:4000/2018/02/09/pset-0015/">&lt;p&gt;In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.&lt;/p&gt;
 
 &lt;p&gt;Simple harmonic motion can serve as a mathematical model for a variety of motions, such as the oscillation of a spring. In addition, other phenomena can be approximated by simple harmonic motion, including the motion of a simple pendulum as well as molecular vibration.&lt;/p&gt;
 
@@ -505,13 +947,13 @@
   
     <entry>
       
-      <title type="html">[FACT1] Factorial</title>
+      <title type="html">0014: Factorial</title>
       
-      <link href="http://localhost:4000/2018/02/08/pset-fact1/" rel="alternate" type="text/html" title="[FACT1] Factorial" />
+      <link href="http://localhost:4000/2018/02/08/pset-0014/" rel="alternate" type="text/html" title="0014: Factorial" />
       <published>2018-02-08T14:30:08+05:30</published>
       <updated>2018-02-08T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/08/pset-fact1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/08/pset-fact1/">&lt;p&gt;Write a computer program to read an integer N and print its factorial.&lt;/p&gt;
+      <id>http://localhost:4000/2018/02/08/pset-0014</id>
+      <content type="html" xml:base="http://localhost:4000/2018/02/08/pset-0014/">&lt;p&gt;Write a computer program to read an integer N and print its factorial.&lt;/p&gt;
 
 &lt;h4 id=&quot;test-case&quot;&gt;Test Case&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 3&lt;br /&gt;
@@ -563,13 +1005,13 @@ image&lt;/p&gt;
   
     <entry>
       
-      <title type="html">[ADDR3] 4-Bit Full Adder</title>
+      <title type="html">0013: 4-Bit Full Adder</title>
       
-      <link href="http://localhost:4000/2018/02/07/pset-addr3/" rel="alternate" type="text/html" title="[ADDR3] 4-Bit Full Adder" />
+      <link href="http://localhost:4000/2018/02/07/pset-0013/" rel="alternate" type="text/html" title="0013: 4-Bit Full Adder" />
       <published>2018-02-07T14:30:08+05:30</published>
       <updated>2018-02-07T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/07/pset-addr3</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/07/pset-addr3/">&lt;p&gt;Design a 4-bit full adder.&lt;/p&gt;</content>
+      <id>http://localhost:4000/2018/02/07/pset-0013</id>
+      <content type="html" xml:base="http://localhost:4000/2018/02/07/pset-0013/">&lt;p&gt;Design a 4-bit full adder.&lt;/p&gt;</content>
 
       
       
@@ -607,13 +1049,13 @@ image&lt;/p&gt;
   
     <entry>
       
-      <title type="html">[FUNC1] Functions</title>
+      <title type="html">0012: Functions</title>
       
-      <link href="http://localhost:4000/2018/02/06/pset-func1/" rel="alternate" type="text/html" title="[FUNC1] Functions" />
+      <link href="http://localhost:4000/2018/02/06/pset-0012/" rel="alternate" type="text/html" title="0012: Functions" />
       <published>2018-02-06T14:30:08+05:30</published>
       <updated>2018-02-06T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/06/pset-func1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/06/pset-func1/">&lt;p&gt;In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as “$f$ of $x$”). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.&lt;/p&gt;
+      <id>http://localhost:4000/2018/02/06/pset-0012</id>
+      <content type="html" xml:base="http://localhost:4000/2018/02/06/pset-0012/">&lt;p&gt;In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as “$f$ of $x$”). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.&lt;/p&gt;
 
 &lt;p&gt;Zero of function, also called as root, of a real-, complex- or generally vector-valued function $f$ is a member $x$ of the domain of $f$ such that $f(x)$ vanishes at $x$; that is&lt;/p&gt;
 
@@ -653,613 +1095,6 @@ image&lt;/p&gt;
 
       
         <summary type="html">In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as “$f$ of $x$”). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[ADDR2] 1-Bit Full Adder</title>
-      
-      <link href="http://localhost:4000/2018/02/06/pset-addr2/" rel="alternate" type="text/html" title="[ADDR2] 1-Bit Full Adder" />
-      <published>2018-02-06T14:30:08+05:30</published>
-      <updated>2018-02-06T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/06/pset-addr2</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/06/pset-addr2/">&lt;p&gt;Design 1-bit full adder using the minimum number of logic gates.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-are-adders&quot;&gt;What are adders?&lt;/h3&gt;
-&lt;p&gt;An adder is a digital circuit that performs addition of numbers. In many computers and other kinds of processors adders are used in the arithmetic logic units or ALU. They are also utilized in other parts of the processor, where they are used to calculate addresses, table indices, increment and decrement operators, and similar operations.&lt;/p&gt;
-
-&lt;h3 id=&quot;half-adders-vs-full-adders&quot;&gt;Half Adders vs Full Adders&lt;/h3&gt;
-&lt;p&gt;The half adder adds two single binary digits A and B. It has two outputs, sum $S$ and carry $C$. The carry signal represents an overflow into the next digit of a multi-digit addition. The value of the sum in decimal system is $2C + S$. The simplest half-adder design, pictured on the right, incorporates an XOR gate for $S$ and an AND gate for $C$. The Boolean logic for the sum (in this case $S$) will be $A’B+AB’$ whereas for carry $C$ will be $AB$. With the addition of an OR gate to combine their carry outputs, two half adders can be combined to make a full adder. The half adder adds two input bits and generates a carry and sum, which are the two outputs of a half adder. The input variables of a half adder are called the augend and addend bits. The output variables are the sum and carry.&lt;/p&gt;
-
-&lt;p&gt;A full adder adds binary numbers and accounts for values carried in as well as out. A one-bit full-adder adds three one-bit numbers, often written as $A$, $B$, and $C_{in}$; $A$ and $B$ are the operands, and $C_{in}$ is a bit carried in from the previous less-significant stage. The full adder is usually a component in a cascade of adders, which add 8, 16, 32, etc. bit binary numbers. The circuit produces a two-bit output. Output carry and sum typically represented by the signals $C_{out}$ and $S$, where $ sum = 2 C_{out} + S $ in the decimal system.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;$A$&lt;/th&gt;
-      &lt;th&gt;$B$&lt;/th&gt;
-      &lt;th&gt;$C_{in}$&lt;/th&gt;
-      &lt;th&gt;$C_{out}$&lt;/th&gt;
-      &lt;th&gt;$S$&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Logic-Gates" />
-      
-
-      
-        <summary type="html">Design 1-bit full adder using the minimum number of logic gates.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[WAVE1] Sine Wave</title>
-      
-      <link href="http://localhost:4000/2018/02/05/pset-wave/" rel="alternate" type="text/html" title="[WAVE1] Sine Wave" />
-      <published>2018-02-05T14:30:08+05:30</published>
-      <updated>2018-02-05T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/05/pset-wave</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/05/pset-wave/">&lt;p&gt;Plot sine wave in P5JS.&lt;/p&gt;
-
-&lt;p&gt;A sine wave or sinusoid is a mathematical curve that describes a smooth repetitive oscillation. A sine wave is a continuous wave. It is named after the function sine, of which it is the graph.&lt;/p&gt;
-
-&lt;p&gt;It occurs often in pure and applied mathematics, as well as physics, engineering, signal processing and many other fields. Its most basic form as a function of time $t$ is:&lt;/p&gt;
-
-&lt;p&gt;$y(t) = A\sin(2 \pi f t + \phi) = A\sin(\omega t + \phi)$&lt;/p&gt;
-
-&lt;p&gt;where:&lt;/p&gt;
-
-&lt;p&gt;$A$ = the amplitude, the peak deviation of the function from zero.&lt;/p&gt;
-
-&lt;p&gt;$f$ = the ordinary frequency, the number of oscillations (cycles) that occur each second of time.&lt;/p&gt;
-
-&lt;p&gt;$\omega = 2 \pi f$, the angular frequency, the rate of change of the function argument in units of radians per second&lt;/p&gt;
-
-&lt;p&gt;$\phi$ = the phase specifies (in radians) wherein its cycle the oscillation is at $t = 0$.&lt;/p&gt;
-
-&lt;p&gt;When $\phi$ is non-zero, the entire waveform appears to be shifted in time by the amount $\frac{\phi}{\omega}$ seconds. A negative value represents a delay, and a positive value represents an advance.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Plot sine wave in P5JS.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[PROJ3] Simulating Projectile Motion</title>
-      
-      <link href="http://localhost:4000/2018/02/04/pset-proj3/" rel="alternate" type="text/html" title="[PROJ3] Simulating Projectile Motion" />
-      <published>2018-02-04T14:30:08+05:30</published>
-      <updated>2018-02-04T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/04/pset-proj3</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/04/pset-proj3/">&lt;p&gt;Read the value of initial velocity $u$ and throwing angle theta from a textbox and simulate simple projectile motion in P5JS.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Kinematics" />
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Read the value of initial velocity $u$ and throwing angle theta from a textbox and simulate simple projectile motion in P5JS.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[LWSC1] Caroll’s Puzzles</title>
-      
-      <link href="http://localhost:4000/2018/02/04/pset-lwsc1/" rel="alternate" type="text/html" title="[LWSC1] Caroll's Puzzles" />
-      <published>2018-02-04T14:30:08+05:30</published>
-      <updated>2018-02-04T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/04/pset-lwsc1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/04/pset-lwsc1/">&lt;p&gt;Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.&lt;/p&gt;
-
-&lt;p&gt;Example:
-(a)  All babies are illogical.&lt;br /&gt;
-(b)  Nobody is despised who can manage a crocodile.&lt;br /&gt;
-(c)  Illogical persons are despised.&lt;/p&gt;
-
-&lt;p&gt;Solution:&lt;br /&gt;
-As the subjects of this puzzle are people, we take the universe as the set of all people. We will rewrite each statement in the puzzle as an implication. First, we define simpler statements,&lt;/p&gt;
-
-&lt;p&gt;B: it is a baby&lt;br /&gt;
-L: it is logical&lt;br /&gt;
-M: it can manage a crocodile&lt;br /&gt;
-D: it is despised,&lt;/p&gt;
-
-&lt;p&gt;where “it” in this context refers to a general person. Then the three statements can be rephrased as&lt;/p&gt;
-
-&lt;p&gt;B → ~ L : If it is a baby then it is not logical.&lt;br /&gt;
-M → ~ D : If it can manage a crocodile then it is not despised.&lt;br /&gt;
-~L → D : If it is not logical then it is despised.&lt;/p&gt;
-
-&lt;p&gt;Our aim is to use transitive reasoning several times, stringing together a chain of implications using all the given statements. We have an arrow pointing from B to ~L, and likewise an arrow pointing from ~L to D; thus we are able to start with B and arrive at the conclusion D. However, the second statement is still not utilized. But since any implication is equivalent to its contrapositive, we may replace the second statement with its contrapositive D → ~M. Then we get the transitive reasoning chain.&lt;/p&gt;
-
-&lt;p&gt;B → ~L → D → ~M&lt;/p&gt;
-
-&lt;p&gt;We reason that if B is true, then ~L is true, hence D is true, and therefore ~M is true. Our ultimate conclusion is the statement.&lt;/p&gt;
-
-&lt;p&gt;B → ~ M: If it is a baby then it cannot manage a crocodile.&lt;/p&gt;
-
-&lt;p&gt;In ordinary language, we would more likely rephrase this answer to the puzzle as&lt;/p&gt;
-
-&lt;p&gt;“No baby can manage a crocodile.”&lt;/p&gt;
-
-&lt;p&gt;Alternatively, we could write the answer as the contrapositive statement.&lt;/p&gt;
-
-&lt;p&gt;M → ~ B: If it can manage a crocodile then it is not a baby.&lt;/p&gt;
-
-&lt;p&gt;The translation of words then would be something like&lt;/p&gt;
-
-&lt;p&gt;“Anyone who can manage a crocodile is not a baby.”&lt;/p&gt;
-
-&lt;p&gt;Lewis Carroll created these puzzles. In each puzzle, you are to write the assertions symbolically as implications, along with their contrapositives, and then string together with arrows all the assertions to arrive at a final conclusion. Your answer will be an ultimate implication, which you must then cleverly translate back into ordinary language.&lt;/p&gt;
-
-&lt;p&gt;(a) My saucepans are the only things I have that are made of tin. &lt;br /&gt;
-I find all your presents very useful. &lt;br /&gt;
-None of my saucepans are of the slightest use.&lt;/p&gt;
-
-&lt;p&gt;(b) All writers, who understand human nature, are clever. &lt;br /&gt;
-No one is a true poet unless he can stir the hearts of men. &lt;br /&gt;
-Shakespeare wrote “Hamlet”. &lt;br /&gt;
-No writer, who does not understand human nature, can stir the hearts of men.&lt;br /&gt;
- None but a true poet could have written “Hamlet”.&lt;/p&gt;
-
-&lt;p&gt;(c) I despise anything that cannot be used as a bridge. &lt;br /&gt;
-Everything, that is worth writing an ode to, would be a welcome gift to me. &lt;br /&gt;
-A rainbow will not bear the weight of a wheelbarrow.&lt;br /&gt;
- Whatever can be used as a bridge will bear the weight of a wheelbarrow.&lt;br /&gt;
- I would not take, as a gift, a thing that I despise.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Propositional-Logic" />
-      
-
-      
-        <summary type="html">Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[ELLIP] Elliptical Orbit</title>
-      
-      <link href="http://localhost:4000/2018/02/03/pset-ellip/" rel="alternate" type="text/html" title="[ELLIP] Elliptical Orbit" />
-      <published>2018-02-03T14:30:08+05:30</published>
-      <updated>2018-02-03T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/03/pset-ellip</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/03/pset-ellip/">&lt;p&gt;Simulate a 2-body system where one body (ball) is fixed at the center of the canvas while the other rotates around it in a highly elliptical path.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Kinematics" />
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Simulate a 2-body system where one body (ball) is fixed at the center of the canvas while the other rotates around it in a highly elliptical path.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[SUBR1] 1-Bit Half Subtractor</title>
-      
-      <link href="http://localhost:4000/2018/02/02/pset-subr1/" rel="alternate" type="text/html" title="[SUBR1] 1-Bit Half Subtractor" />
-      <published>2018-02-02T14:30:08+05:30</published>
-      <updated>2018-02-02T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/02/pset-subr1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/02/pset-subr1/">&lt;p&gt;Design 1-bit half subtractor using the minimum number of logic gates. The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, $X$ (minuend) and $Y$ (subtrahend) and two outputs $D$ (difference) and $B$ (borrow).&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;A&lt;/th&gt;
-      &lt;th&gt;B&lt;/th&gt;
-      &lt;th&gt;C&lt;/th&gt;
-      &lt;th&gt;S&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Logic-Gates" />
-      
-
-      
-        <summary type="html">Design 1-bit half subtractor using the minimum number of logic gates. The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, $X$ (minuend) and $Y$ (subtrahend) and two outputs $D$ (difference) and $B$ (borrow).</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[BALL2] Crossing Balls</title>
-      
-      <link href="http://localhost:4000/2018/02/02/pset-ball2/" rel="alternate" type="text/html" title="[BALL2] Crossing Balls" />
-      <published>2018-02-02T14:30:08+05:30</published>
-      <updated>2018-02-02T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/02/pset-ball2</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/02/pset-ball2/">&lt;p&gt;In P5JS, write a program that shows a ball moving towards the right, between left and right bounds of the canvas, and another ball moving in opposite direction. Given: Both balls are moving at the same velocity. Ball A and Ball B start at an exact same time from opposite bounds in a canvas of size 600x400 pixels.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Kinematics" />
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">In P5JS, write a program that shows a ball moving towards the right, between left and right bounds of the canvas, and another ball moving in opposite direction. Given: Both balls are moving at the same velocity. Ball A and Ball B start at an exact same time from opposite bounds in a canvas of size 600x400 pixels.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[PROJ1] Standard Projectile motion</title>
-      
-      <link href="http://localhost:4000/2018/02/01/pset-proj1/" rel="alternate" type="text/html" title="[PROJ1] Standard Projectile motion" />
-      <published>2018-02-01T14:30:08+05:30</published>
-      <updated>2018-02-01T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/01/pset-proj1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/01/pset-proj1/">&lt;p&gt;Given that an object is launched at an initial velocity $v$ with an angle from the horizontal in vacuum system placed on Earth. Gravity is experienced only downwards and may be represented by $a_g$. Derive the following kinematic quantities of a standard projectile motion.&lt;/p&gt;
-
-&lt;p&gt;$a$, Acceleration at any time $t$&lt;br /&gt;
-$v$, Velocity at any time $t$&lt;br /&gt;
-$x$ and $y$, Displacement at any time $t$&lt;br /&gt;
-$T$, Total time of flight&lt;br /&gt;
-$h$, Maximum height of the projectile&lt;br /&gt;
-$d$, Maximum distance of the projectile&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Physics" />
-      
-        <category term="Kinematics" />
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Given that an object is launched at an initial velocity $v$ with an angle from the horizontal in vacuum system placed on Earth. Gravity is experienced only downwards and may be represented by $a_g$. Derive the following kinematic quantities of a standard projectile motion.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">[CIRCL] Circular Motion</title>
-      
-      <link href="http://localhost:4000/2018/02/01/pset-circl/" rel="alternate" type="text/html" title="[CIRCL] Circular Motion" />
-      <published>2018-02-01T14:30:08+05:30</published>
-      <updated>2018-02-01T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/01/pset-circl</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/01/pset-circl/">&lt;p&gt;Animate a ball to move in circular motion in P5JS.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Physics" />
-      
-        <category term="Kinematics" />
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Animate a ball to move in circular motion in P5JS.</summary>
       
 
       

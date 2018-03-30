@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0001: Moving Ball"
+date:   2018-01-10 14:30:08 +0530
+categories: Pset 1-Point
+tags: p5.js
+author: Gaurav Singh
+---
+Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.

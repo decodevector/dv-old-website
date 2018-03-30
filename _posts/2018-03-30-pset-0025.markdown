@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "0025: Sigma Function"
+date:   2018-03-30 15:10:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write following sigma functions where $n$ is input argument in each case.
+
+(a) S1: $1, 2, 3,...$
+
+(b) S2: $3, 5, 7,..$
+
+(c) S3: $2, 3, 5, 6, 7, 8, 10, 11, 12, 13,...$ (ie. Number that are not squares)
+
+In each of the following, calculate sum till $n$ terms.
