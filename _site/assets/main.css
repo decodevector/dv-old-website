@@ -539,7 +539,7 @@ body {
   font-weight: 300; }
 
 a.button, a.button:visited {
-  background-color: #02b875;
+  background-color: #018655;
   color: #fff;
   margin: 10px 0;
   padding: 10px 30px; }
@@ -558,7 +558,7 @@ a.secondary:hover {
 a.button:hover {
   text-decoration: none;
   color: #fff;
-  background-color: #018655; }
+  background-color: #015335; }
 
 .site-footer {
   font-size: 17.6px; }

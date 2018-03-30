@@ -177,7 +177,7 @@ body{
 }
 
 a.button,a.button:visited{
-    background-color:$brand-color ;
+    background-color:darken($brand-color,10%) ;
     color:#fff;
     margin:10px 0;
     padding:10px 30px;
@@ -197,7 +197,7 @@ a.secondary:hover{
 a.button:hover{
     text-decoration: none;
     color:#fff;
-    background-color:darken($brand-color,10%) ;
+    background-color:darken($brand-color,20%) ;
 }
 .site-footer{
     font-size: $base-font-size*0.8;

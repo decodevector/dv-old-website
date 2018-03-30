@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-03-30T16:02:54+05:30</updated>
+  <updated>2018-03-30T23:09:24+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,11 +28,11 @@
       
       <title type="html">0025: Sigma Function</title>
       
-      <link href="http://localhost:4000/2018/03/30/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
+      <link href="http://localhost:4000/sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
       <published>2018-03-30T15:10:00+05:30</published>
       <updated>2018-03-30T15:10:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/30/pset-0025</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0025</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
 
 &lt;p&gt;(a) S1: $1, 2, 3,…$&lt;/p&gt;
 
@@ -80,11 +80,11 @@
       
       <title type="html">0024: 10001st Prime</title>
       
-      <link href="http://localhost:4000/2018/03/30/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
+      <link href="http://localhost:4000/sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
       <published>2018-03-30T15:02:00+05:30</published>
       <updated>2018-03-30T15:02:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/30/pset-0024</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0024</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;By listing the first six prime numbers: $2$, $3$, $5$, $7$, $11$, and $13$, we can see that the 6th prime is $13$.&lt;/p&gt;
 
@@ -128,11 +128,11 @@
       
       <title type="html">0023: Sum Square Difference</title>
       
-      <link href="http://localhost:4000/2018/03/30/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
+      <link href="http://localhost:4000/sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
       <published>2018-03-30T14:35:00+05:30</published>
       <updated>2018-03-30T14:35:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/30/pset-0023</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0023</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The sum of the squares of the first ten natural numbers is,&lt;/p&gt;
 
@@ -184,11 +184,11 @@
       
       <title type="html">0022: Largest Prime Factor</title>
       
-      <link href="http://localhost:4000/2018/03/30/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
+      <link href="http://localhost:4000/sub/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
       <published>2018-03-30T14:20:00+05:30</published>
       <updated>2018-03-30T14:20:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/30/pset-0022</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/30/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0022</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The prime factors of $13195$ are $5$, $7$, $13$ and $29$.&lt;/p&gt;
 
@@ -230,21 +230,31 @@
   
     <entry>
       
-      <title type="html">Scoring and Level Guide</title>
+      <title type="html">Submitting solutions</title>
       
-      <link href="http://localhost:4000/2018/03/28/scoring-guide/" rel="alternate" type="text/html" title="Scoring and Level Guide" />
-      <published>2018-03-28T00:04:08+05:30</published>
-      <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/28/scoring-guide</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/28/scoring-guide/">&lt;p&gt;Score can be calculated by&lt;/p&gt;
+      <link href="http://localhost:4000/sub/submitting-solutions/" rel="alternate" type="text/html" title="Submitting solutions" />
+      <published>2018-03-30T00:20:08+05:30</published>
+      <updated>2018-03-30T00:20:08+05:30</updated>
+      <id>http://localhost:4000/sub/submitting-solutions</id>
+      <content type="html" xml:base="http://localhost:4000/sub/submitting-solutions/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a new public GitHub repo &lt;code class=&quot;highlighter-rouge&quot;&gt;dv.pset&lt;/code&gt;. You will be submitting solutions to Pset problems in this repo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Pset from the navigation above and open the problem given to you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Commit your solutions to this repo and ask for a review.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;D + P&lt;/script&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;where,&lt;/p&gt;
-
-&lt;p&gt;$ D = S - \frac{T}{L} $ where, $S$ is the number of days you’ve solved at least one PSET problem, and $T$ is the total number of days since your date of join.&lt;/p&gt;
-
-&lt;p&gt;$ P $ is the sum of points accumulated by solving PSET problems.&lt;/p&gt;</content>
+&lt;h3 id=&quot;learn-more&quot;&gt;Learn more&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/sub/using-github/&quot;&gt;Using Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sub/rating-system/&quot;&gt;Rating System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
 
       
       
@@ -267,11 +277,71 @@
       
 
       
-        <category term="Scoring" />
+        <category term="Pset" />
       
 
       
-        <summary type="html">Score can be calculated by</summary>
+        <summary type="html">Create a new public GitHub repo dv.pset. You will be submitting solutions to Pset problems in this repo.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Rating System</title>
+      
+      <link href="http://localhost:4000/sub/rating-system/" rel="alternate" type="text/html" title="Rating System" />
+      <published>2018-03-28T00:04:08+05:30</published>
+      <updated>2018-03-28T00:04:08+05:30</updated>
+      <id>http://localhost:4000/sub/rating-system</id>
+      <content type="html" xml:base="http://localhost:4000/sub/rating-system/">&lt;p&gt;Your rating can be calculated by&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;2S - \frac{T}{L+1} + P&lt;/script&gt;
+
+&lt;p&gt;where,&lt;/p&gt;
+
+&lt;p&gt;$S$ is the number of days you’ve solved at least one PSET problem,&lt;/p&gt;
+
+&lt;p&gt;$T$ is the total number of days since your date of join,&lt;/p&gt;
+
+&lt;p&gt;$L$ is your current level,&lt;/p&gt;
+
+&lt;p&gt;$P$ is the sum of points accumulated by solving PSET problems.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: This rating is in effect from 30th March, 2018.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Important" />
+      
+
+      
+        <category term="Rating" />
+      
+
+      
+        <summary type="html">Your rating can be calculated by</summary>
       
 
       
@@ -284,11 +354,11 @@
       
       <title type="html">Introduction to Python</title>
       
-      <link href="http://localhost:4000/2018/03/28/introduction-to-python/" rel="alternate" type="text/html" title="Introduction to Python" />
+      <link href="http://localhost:4000/sub/introduction-to-python/" rel="alternate" type="text/html" title="Introduction to Python" />
       <published>2018-03-28T00:04:08+05:30</published>
       <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/28/introduction-to-python</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/28/introduction-to-python/">&lt;ul&gt;
+      <id>http://localhost:4000/sub/introduction-to-python</id>
+      <content type="html" xml:base="http://localhost:4000/sub/introduction-to-python/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Download Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://python.swaroopch.com/&quot;&gt;A Byte of Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/&quot;&gt;Python Official Documentation&lt;/a&gt;&lt;/li&gt;
@@ -330,11 +400,11 @@
       
       <title type="html">Getting Started with p5.js</title>
       
-      <link href="http://localhost:4000/2018/03/28/getting-started-with-p5js/" rel="alternate" type="text/html" title="Getting Started with p5.js" />
+      <link href="http://localhost:4000/sub/getting-started-with-p5js/" rel="alternate" type="text/html" title="Getting Started with p5.js" />
       <published>2018-03-28T00:04:08+05:30</published>
       <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/28/getting-started-with-p5js</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/28/getting-started-with-p5js/">&lt;ul&gt;
+      <id>http://localhost:4000/sub/getting-started-with-p5js</id>
+      <content type="html" xml:base="http://localhost:4000/sub/getting-started-with-p5js/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://p5js.org/get-started/&quot;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://p5js.org/download/&quot;&gt;Download p5.js Library&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://p5js.org/reference/&quot;&gt;Reference&lt;/a&gt;&lt;/li&gt;
@@ -382,11 +452,11 @@
       
       <title type="html">Using GitHub</title>
       
-      <link href="http://localhost:4000/2018/03/27/using-github/" rel="alternate" type="text/html" title="Using GitHub" />
+      <link href="http://localhost:4000/sub/using-github/" rel="alternate" type="text/html" title="Using GitHub" />
       <published>2018-03-27T16:20:08+05:30</published>
       <updated>2018-03-27T16:20:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/27/using-github</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/27/using-github/">&lt;h3 id=&quot;what-is-github&quot;&gt;What is GitHub?&lt;/h3&gt;
+      <id>http://localhost:4000/sub/using-github</id>
+      <content type="html" xml:base="http://localhost:4000/sub/using-github/">&lt;h3 id=&quot;what-is-github&quot;&gt;What is GitHub?&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=w3jLJU7DT5E&quot;&gt;What is GitHub? &lt;em&gt;(Video)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -444,12 +514,25 @@
       
       <title type="html">Contributing to this website</title>
       
-      <link href="http://localhost:4000/2018/03/27/contributing-to-this-website/" rel="alternate" type="text/html" title="Contributing to this website" />
+      <link href="http://localhost:4000/sub/contributing-to-this-website/" rel="alternate" type="text/html" title="Contributing to this website" />
       <published>2018-03-27T12:04:08+05:30</published>
       <updated>2018-03-27T12:04:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/27/contributing-to-this-website</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/27/contributing-to-this-website/">&lt;p&gt;Send your posts (in &lt;code class=&quot;highlighter-rouge&quot;&gt;.markdown&lt;/code&gt; format) to &lt;a href=&quot;mailto:grv@mathscapes.xyz&quot;&gt;me&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/sub/contributing-to-this-website</id>
+      <content type="html" xml:base="http://localhost:4000/sub/contributing-to-this-website/">&lt;p&gt;Send your posts (in &lt;code class=&quot;highlighter-rouge&quot;&gt;.markdown&lt;/code&gt; format) to &lt;a href=&quot;mailto:grv@mathscapes.xyz&quot;&gt;me&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h3 id=&quot;sample-post&quot;&gt;Sample Post&lt;/h3&gt;
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Title&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;of&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;your&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;post&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;2018-03-27 12:04:08 +0530&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;tag1 tag2 tag3&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Your name&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;### Heading&lt;/span&gt;
+Your post goes here
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h3 id=&quot;formatting-guide&quot;&gt;Formatting Guide&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Mastering Markdown&lt;/a&gt;&lt;/li&gt;
@@ -501,11 +584,11 @@
       
       <title type="html">Code of Conduct</title>
       
-      <link href="http://localhost:4000/2018/03/27/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
+      <link href="http://localhost:4000/sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
       <published>2018-03-27T12:04:08+05:30</published>
       <updated>2018-03-27T12:04:08+05:30</updated>
-      <id>http://localhost:4000/2018/03/27/code-of-conduct</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/27/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/code-of-conduct</id>
+      <content type="html" xml:base="http://localhost:4000/sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
 
 &lt;p&gt;This code of conduct outlines our expectations for participants within the DecodeVector community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.&lt;/p&gt;
 
@@ -608,11 +691,11 @@
       
       <title type="html">0021: Largest Palindrome Product</title>
       
-      <link href="http://localhost:4000/2018/03/24/pset-0021/" rel="alternate" type="text/html" title="0021: Largest Palindrome Product" />
+      <link href="http://localhost:4000/sub/pset-0021/" rel="alternate" type="text/html" title="0021: Largest Palindrome Product" />
       <published>2018-03-24T14:25:00+05:30</published>
       <updated>2018-03-24T14:25:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/24/pset-0021</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/24/pset-0021/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0021</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0021/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is $9009 = 91 × 99$.&lt;/p&gt;
 
@@ -656,11 +739,11 @@
       
       <title type="html">0020: Multiples of 3 and 5</title>
       
-      <link href="http://localhost:4000/2018/03/23/pset-0020/" rel="alternate" type="text/html" title="0020: Multiples of 3 and 5" />
+      <link href="http://localhost:4000/sub/pset-0020/" rel="alternate" type="text/html" title="0020: Multiples of 3 and 5" />
       <published>2018-03-23T14:14:00+05:30</published>
       <updated>2018-03-23T14:14:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/23/pset-0020</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/23/pset-0020/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0020</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0020/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.&lt;/p&gt;
 
@@ -704,11 +787,11 @@
       
       <title type="html">0019: Adding Fractions</title>
       
-      <link href="http://localhost:4000/2018/03/22/pset-0019/" rel="alternate" type="text/html" title="0019: Adding Fractions" />
+      <link href="http://localhost:4000/sub/pset-0019/" rel="alternate" type="text/html" title="0019: Adding Fractions" />
       <published>2018-03-22T15:14:00+05:30</published>
       <updated>2018-03-22T15:14:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/22/pset-0019</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/22/pset-0019/">&lt;p&gt;Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0019</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0019/">&lt;p&gt;Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).&lt;/p&gt;</content>
 
       
       
@@ -748,11 +831,11 @@
       
       <title type="html">0018: Even Fibonacci Numbers</title>
       
-      <link href="http://localhost:4000/2018/03/21/pset-0018/" rel="alternate" type="text/html" title="0018: Even Fibonacci Numbers" />
+      <link href="http://localhost:4000/sub/pset-0018/" rel="alternate" type="text/html" title="0018: Even Fibonacci Numbers" />
       <published>2018-03-21T14:17:00+05:30</published>
       <updated>2018-03-21T14:17:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/21/pset-0018</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/21/pset-0018/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0018</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0018/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with $1$ and $2$, the first 10 terms will be:&lt;/p&gt;
 
@@ -798,11 +881,11 @@
       
       <title type="html">0017: Smallest Multiple</title>
       
-      <link href="http://localhost:4000/2018/03/20/pset-0017/" rel="alternate" type="text/html" title="0017: Smallest Multiple" />
+      <link href="http://localhost:4000/sub/pset-0017/" rel="alternate" type="text/html" title="0017: Smallest Multiple" />
       <published>2018-03-20T14:30:00+05:30</published>
       <updated>2018-03-20T14:30:00+05:30</updated>
-      <id>http://localhost:4000/2018/03/20/pset-0017</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/20/pset-0017/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0017</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0017/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;$2520$ is the smallest number that can be divided by each of the numbers from $1$ to $10$ without any remainder.&lt;/p&gt;
 
@@ -846,11 +929,11 @@
       
       <title type="html">0016: Pascal’s Triangle</title>
       
-      <link href="http://localhost:4000/2018/02/09/pset-0016/" rel="alternate" type="text/html" title="0016: Pascal's Triangle" />
+      <link href="http://localhost:4000/sub/pset-0016/" rel="alternate" type="text/html" title="0016: Pascal's Triangle" />
       <published>2018-02-09T14:30:08+05:30</published>
       <updated>2018-02-09T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/09/pset-0016</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/09/pset-0016/">&lt;p&gt;In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0016</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0016/">&lt;p&gt;In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.&lt;/p&gt;
 
 &lt;p&gt;Read a number $N$ in a Python program and print $N$ lines of Pascal’s triangle.&lt;/p&gt;
 
@@ -894,11 +977,11 @@
       
       <title type="html">0015: Simple Harmonic Motion</title>
       
-      <link href="http://localhost:4000/2018/02/09/pset-0015/" rel="alternate" type="text/html" title="0015: Simple Harmonic Motion" />
+      <link href="http://localhost:4000/sub/pset-0015/" rel="alternate" type="text/html" title="0015: Simple Harmonic Motion" />
       <published>2018-02-09T14:30:08+05:30</published>
       <updated>2018-02-09T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/09/pset-0015</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/09/pset-0015/">&lt;p&gt;In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0015</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0015/">&lt;p&gt;In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.&lt;/p&gt;
 
 &lt;p&gt;Simple harmonic motion can serve as a mathematical model for a variety of motions, such as the oscillation of a spring. In addition, other phenomena can be approximated by simple harmonic motion, including the motion of a simple pendulum as well as molecular vibration.&lt;/p&gt;
 
@@ -949,11 +1032,11 @@
       
       <title type="html">0014: Factorial</title>
       
-      <link href="http://localhost:4000/2018/02/08/pset-0014/" rel="alternate" type="text/html" title="0014: Factorial" />
+      <link href="http://localhost:4000/sub/pset-0014/" rel="alternate" type="text/html" title="0014: Factorial" />
       <published>2018-02-08T14:30:08+05:30</published>
       <updated>2018-02-08T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/08/pset-0014</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/08/pset-0014/">&lt;p&gt;Write a computer program to read an integer N and print its factorial.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0014</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0014/">&lt;p&gt;Write a computer program to read an integer N and print its factorial.&lt;/p&gt;
 
 &lt;h4 id=&quot;test-case&quot;&gt;Test Case&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 3&lt;br /&gt;
@@ -1007,11 +1090,11 @@ image&lt;/p&gt;
       
       <title type="html">0013: 4-Bit Full Adder</title>
       
-      <link href="http://localhost:4000/2018/02/07/pset-0013/" rel="alternate" type="text/html" title="0013: 4-Bit Full Adder" />
+      <link href="http://localhost:4000/sub/pset-0013/" rel="alternate" type="text/html" title="0013: 4-Bit Full Adder" />
       <published>2018-02-07T14:30:08+05:30</published>
       <updated>2018-02-07T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/07/pset-0013</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/07/pset-0013/">&lt;p&gt;Design a 4-bit full adder.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0013</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0013/">&lt;p&gt;Design a 4-bit full adder.&lt;/p&gt;</content>
 
       
       
@@ -1039,62 +1122,6 @@ image&lt;/p&gt;
 
       
         <summary type="html">Design a 4-bit full adder.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0012: Functions</title>
-      
-      <link href="http://localhost:4000/2018/02/06/pset-0012/" rel="alternate" type="text/html" title="0012: Functions" />
-      <published>2018-02-06T14:30:08+05:30</published>
-      <updated>2018-02-06T14:30:08+05:30</updated>
-      <id>http://localhost:4000/2018/02/06/pset-0012</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/06/pset-0012/">&lt;p&gt;In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as “$f$ of $x$”). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.&lt;/p&gt;
-
-&lt;p&gt;Zero of function, also called as root, of a real-, complex- or generally vector-valued function $f$ is a member $x$ of the domain of $f$ such that $f(x)$ vanishes at $x$; that is&lt;/p&gt;
-
-&lt;p&gt;$x$ such that $f(x) = 0$&lt;/p&gt;
-
-&lt;p&gt;Find at least one zero for each of the following functions:&lt;/p&gt;
-
-&lt;p&gt;$ f(x) = x^2 - x + 1 $&lt;/p&gt;
-
-&lt;p&gt;$ f(x) = x^2 - \sqrt{x} $&lt;/p&gt;
-
-&lt;p&gt;$ f(x) = x^2 - 20x $&lt;/p&gt;
-
-&lt;p&gt;$ f(x,y) = x^2 + y^2 - 2xy $&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-
-      
-        <summary type="html">In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as “$f$ of $x$”). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.</summary>
       
 
       

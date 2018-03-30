@@ -8,8 +8,8 @@ main:
   - title: "Join"
     url: /join/
   - title: "Pset"
-    url: /categories/Pset/
+    url: /pset/
   - title: "Notes"
-    url: /categories/Notes/
+    url: /notes/
   - title: "Members"
     url: /members/
