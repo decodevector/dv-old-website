@@ -9,7 +9,7 @@ tags: Rating
 
 Your rating can be calculated by
 
-$$ 2S - \frac{T}{L+1} + P $$
+$$ 5 + 2S - \frac{T}{L+1} + P $$
 
 where,
 
@@ -23,4 +23,6 @@ $P$ is the sum of points accumulated by solving PSET problems.
 
 ---
 
-_Note_: This rating is in effect from 30th March, 2018.
+_Note_
+* This rating is in effect from 30th March, 2018.
+* The rating begins from 5.
