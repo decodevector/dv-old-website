@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=default'></script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://example.com/MathJax.js?config=default">
+</script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  
+  
+  
+  <title>[PASCT] Pascal&#39;s Triangle</title>
+  <meta name="description" content="In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/2018/02/09/pset-pasct/">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://localhost:4000/feed.xml">
+
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="mathscapes">
+  <meta name="twitter:title" content="[PASCT] Pascal&#39;s Triangle">
+  <meta name="twitter:description" content="In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th ro...">
+  
+    <meta name="twitter:creator" content="mathscapes">
+  
+  
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Fira+Sans:300,300i,400,400i,700,900'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <a class="site-title" href="/">DecodeVector</a>
+
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/join/">Join</a>
+      
+        
+        <a class="page-link" href="/categories/Pset/">Pset</a>
+      
+        
+        <a class="page-link" href="/categories/Notes/">Notes</a>
+      
+        
+        <a class="page-link" href="/members/">Members</a>
+      
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">[PASCT] Pascal&#39;s Triangle</h1>
+    
+    <p class="post-meta"><time datetime="2018-02-09T14:30:08+05:30" itemprop="datePublished">Feb 9, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/pset/">Pset</a>,
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/1-point/">1-Point</a>
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+
+ •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/tags/python/">Python</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.</p>
+
+<p>Read a number $N$ in a Python program and print $N$ lines of Pascal’s triangle.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Pascal%27s_triangle#/media/File:Pascal_triangle_small.png">View Pascal’s Triangle</a></p>
+
+  </div>
+
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+
+<a href="mailto:grv@mathscapes.xyz"><i class="far fa-envelope"></i></a> ∙
+<a href="https://github.com/mathscapes/DecodeVector"><i class="fab fa-github"></i></a> ∙
+<a href="https://facebook.com/mathscapes"><i class="fab fa-facebook"></i></a> ∙
+<a href="https://instagram.com/mathscapesco"><i class="fab fa-instagram"></i></i></a> ∙
+<a href="https://medium.com/mathscapes"><i class="fab fa-medium-m"></i></a> ∙
+<a href="https://twitter.com/mathscapesco"><i class="fab fa-twitter"></i></a>
+<br>
+Mathscapes Research.  Ver.0.1-300318
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

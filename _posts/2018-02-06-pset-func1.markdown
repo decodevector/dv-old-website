@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "[FUNC1] Functions"
+date:   2018-02-06 14:30:08 +0530
+categories: Pset 1-Point
+tags:
+author: Gaurav Singh
+---
+In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as "$f$ of $x$"). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.
+
+Zero of function, also called as root, of a real-, complex- or generally vector-valued function $f$ is a member $x$ of the domain of $f$ such that $f(x)$ vanishes at $x$; that is
+
+$x$ such that $f(x) = 0$
+
+Find at least one zero for each of the following functions:
+
+$ f(x) = x^2 - x + 1 $
+
+$ f(x) = x^2 - \sqrt{x} $
+
+$ f(x) = x^2 - 20x $
+
+$ f(x,y) = x^2 + y^2 - 2xy $

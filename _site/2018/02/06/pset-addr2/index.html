@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=default'></script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://example.com/MathJax.js?config=default">
+</script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  
+  
+  
+  <title>[ADDR2] 1-Bit Full Adder</title>
+  <meta name="description" content="Design 1-bit full adder using the minimum number of logic gates.">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/2018/02/06/pset-addr2/">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://localhost:4000/feed.xml">
+
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="mathscapes">
+  <meta name="twitter:title" content="[ADDR2] 1-Bit Full Adder">
+  <meta name="twitter:description" content="Design 1-bit full adder using the minimum number of logic gates.">
+  
+    <meta name="twitter:creator" content="mathscapes">
+  
+  
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Fira+Sans:300,300i,400,400i,700,900'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <a class="site-title" href="/">DecodeVector</a>
+
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/join/">Join</a>
+      
+        
+        <a class="page-link" href="/categories/Pset/">Pset</a>
+      
+        
+        <a class="page-link" href="/categories/Notes/">Notes</a>
+      
+        
+        <a class="page-link" href="/members/">Members</a>
+      
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">[ADDR2] 1-Bit Full Adder</h1>
+    
+    <p class="post-meta"><time datetime="2018-02-06T14:30:08+05:30" itemprop="datePublished">Feb 6, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/pset/">Pset</a>,
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/1-point/">1-Point</a>
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+
+ •
+  
+    
+    
+      
+        <a href="/tags/logic-gates/">Logic-Gates</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>Design 1-bit full adder using the minimum number of logic gates.</p>
+
+<h3 id="what-are-adders">What are adders?</h3>
+<p>An adder is a digital circuit that performs addition of numbers. In many computers and other kinds of processors adders are used in the arithmetic logic units or ALU. They are also utilized in other parts of the processor, where they are used to calculate addresses, table indices, increment and decrement operators, and similar operations.</p>
+
+<h3 id="half-adders-vs-full-adders">Half Adders vs Full Adders</h3>
+<p>The half adder adds two single binary digits A and B. It has two outputs, sum $S$ and carry $C$. The carry signal represents an overflow into the next digit of a multi-digit addition. The value of the sum in decimal system is $2C + S$. The simplest half-adder design, pictured on the right, incorporates an XOR gate for $S$ and an AND gate for $C$. The Boolean logic for the sum (in this case $S$) will be $A’B+AB’$ whereas for carry $C$ will be $AB$. With the addition of an OR gate to combine their carry outputs, two half adders can be combined to make a full adder. The half adder adds two input bits and generates a carry and sum, which are the two outputs of a half adder. The input variables of a half adder are called the augend and addend bits. The output variables are the sum and carry.</p>
+
+<p>A full adder adds binary numbers and accounts for values carried in as well as out. A one-bit full-adder adds three one-bit numbers, often written as $A$, $B$, and $C_{in}$; $A$ and $B$ are the operands, and $C_{in}$ is a bit carried in from the previous less-significant stage. The full adder is usually a component in a cascade of adders, which add 8, 16, 32, etc. bit binary numbers. The circuit produces a two-bit output. Output carry and sum typically represented by the signals $C_{out}$ and $S$, where $ sum = 2 C_{out} + S $ in the decimal system.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>$A$</th>
+      <th>$B$</th>
+      <th>$C_{in}$</th>
+      <th>$C_{out}$</th>
+      <th>$S$</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+
+<a href="mailto:grv@mathscapes.xyz"><i class="far fa-envelope"></i></a> ∙
+<a href="https://github.com/mathscapes/DecodeVector"><i class="fab fa-github"></i></a> ∙
+<a href="https://facebook.com/mathscapes"><i class="fab fa-facebook"></i></a> ∙
+<a href="https://instagram.com/mathscapesco"><i class="fab fa-instagram"></i></i></a> ∙
+<a href="https://medium.com/mathscapes"><i class="fab fa-medium-m"></i></a> ∙
+<a href="https://twitter.com/mathscapesco"><i class="fab fa-twitter"></i></a>
+<br>
+Mathscapes Research.  Ver.0.1-300318
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

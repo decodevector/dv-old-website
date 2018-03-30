@@ -1,66 +1,0 @@
----
-layout: post
-title:  "Caroll's Puzzles"
-date:   2018-03-19 14:30:08 +0530
-categories: Pset
-tags:
-author: grvashu
----
-Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.
-
-Example:
-(a)  All babies are illogical.\\
-(b)  Nobody is despised who can manage a crocodile.\\
-(c)  Illogical persons are despised.
-
-Solution:\\
-As the subjects of this puzzle are people, we take the universe as the set of all people. We will rewrite each statement in the puzzle as an implication. First, we define simpler statements,
-
-B: it is a baby\\
-L: it is logical\\
-M: it can manage a crocodile\\
-D: it is despised,
-
-where “it” in this context refers to a general person. Then the three statements can be rephrased as
-
-B → ~ L : If it is a baby then it is not logical.\\
-M → ~ D : If it can manage a crocodile then it is not despised.\\
-~L → D : If it is not logical then it is despised.
-
-Our aim is to use transitive reasoning several times, stringing together a chain of implications using all the given statements. We have an arrow pointing from B to ~L, and likewise an arrow pointing from ~L to D; thus we are able to start with B and arrive at the conclusion D. However, the second statement is still not utilized. But since any implication is equivalent to its contrapositive, we may replace the second statement with its contrapositive D → ~M. Then we get the transitive reasoning chain.
-
-B → ~L → D → ~M
-
-We reason that if B is true, then ~L is true, hence D is true, and therefore ~M is true. Our ultimate conclusion is the statement.
-
-B → ~ M: If it is a baby then it cannot manage a crocodile.
-
-In ordinary language, we would more likely rephrase this answer to the puzzle as
-
-“No baby can manage a crocodile.”
-
-Alternatively, we could write the answer as the contrapositive statement.
-
-M → ~ B: If it can manage a crocodile then it is not a baby.
-
-The translation of words then would be something like
-
-“Anyone who can manage a crocodile is not a baby.”
-
-Lewis Carroll created these puzzles. In each puzzle, you are to write the assertions symbolically as implications, along with their contrapositives, and then string together with arrows all the assertions to arrive at a final conclusion. Your answer will be an ultimate implication, which you must then cleverly translate back into ordinary language.
-
-(a) My saucepans are the only things I have that are made of tin. \\
-I find all your presents very useful. \\
-None of my saucepans are of the slightest use.
-
-(b) All writers, who understand human nature, are clever. \\
-No one is a true poet unless he can stir the hearts of men. \\
-Shakespeare wrote “Hamlet”. \\
-No writer, who does not understand human nature, can stir the hearts of men.\\
- None but a true poet could have written “Hamlet”.
-
-(c) I despise anything that cannot be used as a bridge. \\
-Everything, that is worth writing an ode to, would be a welcome gift to me. \\
-A rainbow will not bear the weight of a wheelbarrow.\\
- Whatever can be used as a bridge will bear the weight of a wheelbarrow.\\
- I would not take, as a gift, a thing that I despise.

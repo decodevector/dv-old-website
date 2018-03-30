@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 300 20px/1.5 "Fira Sans", sans-serif;
+  font: 300 22px/1.5 "Fira Sans", sans-serif;
   color: #111;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -49,7 +49,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 17.5px; }
+  font-size: 19.25px; }
 
 /**
  * Lists
@@ -73,10 +73,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #a20025;
+  color: #02b875;
   text-decoration: none; }
   a:visited {
-    color: #6f0019; }
+    color: #018655; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -220,13 +220,13 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 17.5px;
+  font-size: 19.25px;
   color: #828282; }
 
 .post-link, .post-link:visited {
   color: #111; }
 .post-link:hover {
-  color: #a20025; }
+  color: #02b875; }
 
 .post-continue a {
   padding: 8px 15px;
@@ -236,7 +236,7 @@ pre {
     background-color: #e8e8e8; }
   .post-continue a:hover {
     color: white;
-    background-color: #a20025; }
+    background-color: #02b875; }
 
 /**
  * Posts
@@ -286,7 +286,7 @@ pre {
   .pagination a, .pagination a:visited {
     color: #828282; }
   .pagination a:hover {
-    color: #a20025; }
+    color: #02b875; }
   .pagination .previous {
     float: left; }
   .pagination .next {
@@ -434,7 +434,7 @@ pre {
     color: #099; }
 
 .site-header {
-  background-color: #a20025;
+  background-color: #02b875;
   width: 100%;
   position: fixed;
   z-index: 100;
@@ -451,7 +451,7 @@ pre {
   font-weight: 400; }
 
 .site-nav {
-  line-height: 55px; }
+  line-height: 50px; }
 
 .site-nav .page-link {
   color: white;
@@ -498,19 +498,20 @@ h1.page-heading {
   font-weight: 300; }
 
 .page-content h4 {
-  color: #85929e; }
+  color: #85929e;
+  font-size: 22px; }
 
 .post-title {
   font-size: 48px; }
 
 a, a:visited {
-  color: #a20025; }
+  color: #02b875; }
 
 .site-footer a, .site-footer a:visited {
   color: black; }
 
 .site-footer a:hover, .site-footer a:hover {
-  color: #a20025; }
+  color: #02b875; }
 
 blockquote {
   padding: 30px;
@@ -522,7 +523,8 @@ blockquote {
   font-weight: 100;
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: "Fira Sans", sans-serif; }
+  font-family: "Fira Sans", sans-serif;
+  font-size: 22px; }
 
 hr {
   margin: 30px 0;
@@ -537,7 +539,7 @@ body {
   font-weight: 300; }
 
 a.button, a.button:visited {
-  background-color: #a20025;
+  background-color: #02b875;
   color: #fff;
   margin: 10px 0;
   padding: 10px 30px; }
@@ -556,4 +558,7 @@ a.secondary:hover {
 a.button:hover {
   text-decoration: none;
   color: #fff;
-  background-color: #6f0019; }
+  background-color: #018655; }
+
+.site-footer {
+  font-size: 17.6px; }

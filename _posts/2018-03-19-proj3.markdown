@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Simulating Projectile Motion"
-date:   2018-03-19 14:30:08 +0530
-categories: Pset
-author: grvashu
----
-Read the value of initial velocity u and throwing angle theta from the textbook and simulate simple projectile motion in P5JS.

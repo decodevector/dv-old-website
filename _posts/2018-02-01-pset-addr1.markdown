@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "[ADDR1] 1-Bit Half Adder"
+date:   2018-02-01 14:30:08 +0530
+categories: Pset 1-Point
+tags: Logic-Gates
+author: Gaurav Singh
+---
+In electronics, a logic gate is an idealized or physical device implementing a Boolean function; that is, it performs a logical operation on one or more binary inputs and produces a single binary output. There are two sets of symbols for elementary logic gates in common use, both defined in ANSI/IEEE Std 91-1984 and its supplement ANSI/IEEE Std 91a-1991. The "distinctive shape" set, based on traditional schematics, is used for simple drawings and derives from MIL-STD-806 of the 1950s and 1960s. It is sometimes unofficially described as "military", reflecting its origin. The "rectangular shape" set, based on ANSI Y32.14 and other early industry standards, as later refined by IEEE and IEC, has rectangular outlines for all types of gate and allows representation of a much wider range of devices than is possible with the traditional symbols. The IEC standard, IEC 60617-12, has been adopted by other standards, such as EN 60617-12:1999 in Europe, BS EN 60617-12:1999 in the United Kingdom, and DIN EN 60617-12:1998 in Germany.
+
+Design 1-bit half adder using the minimum number of logic gates. The half adder adds two single binary digits $A$ and $B$. It has two inputs $A$ and $B$ and two outputs, sum $S$ and carry $C$. The carry signal represents an overflow into the next digit of a multi-digit addition. The value of the sum is $2C + S$.
+
+| A | B | C | S |
+| - | - | - | - |
+| 0 | 0 | 0 | 0 |
+| 0 | 1 | 0 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 1 | 1 | 0 |

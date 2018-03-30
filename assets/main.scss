@@ -7,7 +7,7 @@
 $base-font-family: 'Fira Sans', sans-serif;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
 $body-font-family: 'Fira Sans', sans-serif;
-$base-font-size:   20px;
+$base-font-size:   22px;
 $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -16,7 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fff;
-$brand-color:      #a20025;
+$brand-color:      #02b875;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -55,6 +55,9 @@ $on-laptop:        800px;
     position:fixed;
     z-index: 100;
     opacity: 1;
+    // -webkit-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);
+    // -moz-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);
+    // box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);
 }
 
 .post-header{
@@ -68,7 +71,7 @@ $on-laptop:        800px;
     font-weight: 400;
 }
 .site-nav{
-    line-height: 55px;
+    line-height: 50px;
 }
 .site-nav .page-link{
     color: white;
@@ -127,6 +130,7 @@ h1.page-heading{
 
 .page-content h4{
     color: #85929e;
+    font-size: 22px;
 }
 
 .post-title{
@@ -155,6 +159,7 @@ blockquote{
     margin-top:10px;
     margin-bottom:10px;
     font-family: $base-font-family;
+    font-size: $base-font-size;
 }
 
 hr{
@@ -193,4 +198,7 @@ a.button:hover{
     text-decoration: none;
     color:#fff;
     background-color:darken($brand-color,10%) ;
+}
+.site-footer{
+    font-size: $base-font-size*0.8;
 }

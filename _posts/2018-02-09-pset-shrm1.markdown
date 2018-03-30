@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "[SHRM1] Simple Harmonic Motion"
+date:   2018-02-09 14:30:08 +0530
+categories: Pset 1-Point
+tags: Kinematics p5.js
+author: Gaurav Singh
+---
+In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.
+
+Simple harmonic motion can serve as a mathematical model for a variety of motions, such as the oscillation of a spring. In addition, other phenomena can be approximated by simple harmonic motion, including the motion of a simple pendulum as well as molecular vibration.
+
+Sketch as shown in this [link](https://en.wikipedia.org/wiki/Simple_harmonic_motion#/media/File:Simple_Harmonic_Motion_Orbit.gif) through P5JS program.
+
+You can display text in P5JS by using text() function.
+
+```javascript
+text("text-to-display",x,y)
+```
