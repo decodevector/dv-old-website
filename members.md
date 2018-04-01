@@ -12,8 +12,8 @@ permalink: /members/
 ---
 
 | :- | :- | :- | :- |
-| <span class="level-0"> [L0 - Grey [0-99]](#) </span> | <span class="level-1"> [L1 - Black [100-199]](#) </span> | <span class="level-2"> [L2 - Purple [200-399]](#) </span> | <span class="level-3"> [L3 - Blue [400-799]](#) </span> |
-| <span class="level-4"> [L4 - Teal [800-1599]](#) </span> | <span class="level-5"> [L5 - Green [1600-3199]](#) </span> | <span class="level-6"> [L6 - Amber [3200-6399]](#) </span> | <span class="level-7"> [L7 - Red [6400+]](#) </span> |
+| <span title="All of you will receive detention" class="level-0"> [L0 - Grey [0-99]](#) </span> | <span class="level-1"> [L1 - Black [100-199]](#) </span> | <span class="level-2"> [L2 - Purple [200-399]](#) </span> | <span class="level-3"> [L3 - Blue [400-799]](#) </span> |
+| <span class="level-4"> [L4 - Teal [800-1599]](#) </span> | <span class="level-5"> [L5 - Green [1600-3199]](#) </span> | <span class="level-6"> [L6 - Amber [3200-6399]](#) </span> | <span class="level-7" title="When they arrived in the corridor they saw that there were only a dozen people progressing to N.E.W.T. level. - Harry"> [L7 - Red [6400+]](#) </span> |
 
 ---
 

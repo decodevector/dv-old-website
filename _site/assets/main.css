@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 300 22px/1.6 "Fira Sans", sans-serif;
-  color: #111;
+  color: #37474F;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -78,7 +78,7 @@ a {
   a:visited {
     color: #018655; }
   a:hover {
-    color: #111;
+    color: #37474F;
     text-decoration: underline; }
 
 /**
@@ -171,7 +171,7 @@ pre {
   float: right;
   line-height: 56px; }
   .site-nav .page-link {
-    color: #111;
+    color: #37474F;
     line-height: 1.6; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -224,7 +224,7 @@ pre {
   color: #828282; }
 
 .post-link, .post-link:visited {
-  color: #111; }
+  color: #37474F; }
 .post-link:hover {
   color: #02b875; }
 
@@ -434,11 +434,11 @@ pre {
     color: #099; }
 
 .site-header {
-  background-color: #000;
+  background-color: #37474F;
   width: 100%;
   position: fixed;
   z-index: 100;
-  opacity: 1; }
+  opacity: 0.9; }
 
 .post-header {
   margin-top: 100px; }

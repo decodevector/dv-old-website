@@ -6,7 +6,7 @@ permalink: /
 
 <br>
 
-<p style="text-align:left;"><a href="/join" class="button"> <i class="fas fa-users"></i> Join our Group </a> &nbsp; <a href="/about" class="secondary">Learn more <i class="fas fa-arrow-right"></i></a></p>
+<p style="text-align:left;"><a title="You are here to learn the subtle science and exact art of potion-making. As there is little foolish wand-waving here, many of you will hardly believe this is magic. I don't expect you will really understand the beauty of the softly simmering cauldron with its shimmering fumes, the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses... I can teach you how to bottle fame, brew glory, even put a stopper in death — if you aren't as big a bunch of dunderheads as I usually have to teach. - Snape talking to the students at his first lesson" href="/join" class="button"> <i class="fas fa-users"></i> Join our Group </a> &nbsp; <a href="/about" class="secondary">Learn more <i class="fas fa-arrow-right"></i></a></p>
 
 <br>
 
