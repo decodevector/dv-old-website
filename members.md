@@ -7,7 +7,7 @@ permalink: /members/
 | :- | :- | :- | :- |
 |<span class="level-0"> [apoorva-a98 [0]](https://github.com/apoorva-a98) </span> | <span class="level-0"> [simraan9 [0]](https://github.com/simraan9) </span> | <span class="level-0"> [vineetarath [0]](https://github.com/vineetarath) </span> | <span class="level-0"> [masterpranjal [0]](https://github.com/masterpranjal) </span> |
 | <span class="level-0"> [harithapitla [0]](https://github.com/harithapitla) </span> | <span class="level-0"> [renuka [0]](#) </span> | <span class="level-0"> [svojas [0]](#) </span> | <span class="level-0"> [devashree [0]](#) </span>
-| <span class="level-0"> [namratarath [0]](https://github.com/namratarath) </span> | <span class="level-1"> [grvashu](https://github.com/grvashu) </span> | - | - |
+| <span class="level-0"> [namratarath [0]](https://github.com/namratarath) </span> | <span class="level-0"> [grvashu [0]](https://github.com/grvashu) </span> | - | - |
 
 ---
 
@@ -17,4 +17,6 @@ permalink: /members/
 
 ---
 
-Your rating is calculated as per [DV Rating System](/sub/rating-system/).
+The rating is calculated as per [DV Rating System](/sub/rating-system/).
+
+This page is not yet updated with the latest rating and will be updated soon.
