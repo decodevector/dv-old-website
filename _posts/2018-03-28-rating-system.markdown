@@ -24,5 +24,6 @@ $P$ is the sum of points accumulated by solving PSET problems.
 ---
 
 _Note_
-* This rating is in effect from 30th March, 2018.
+* This rating is in effect from 2nd April, 2018.
 * The rating begins from 5.
+* Mark your progress [here](https://github.com/mathscapes/DecodeVector/wiki/Rating). Your rating will be calculated from here.

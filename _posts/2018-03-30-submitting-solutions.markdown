@@ -15,8 +15,6 @@ tags: Pset
 
 * Your GitHub commits will be used as reference for your rating.
 
-![Screenshot](/images/dvpset-screenshot.png){:class="img-responsive"}
-
 ---
 
 ### Learn more
