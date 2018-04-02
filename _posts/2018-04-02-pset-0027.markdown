@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "0027: 8 Queens Puzzle"
+date:   2018-04-02 17:00:00 +0530
+categories: Pset 2-Point
+tags:
+author: Gaurav Singh
+---
+
+The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.

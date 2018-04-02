@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "0028: Queens"
+date:   2018-04-02 17:15:00 +0530
+categories: Pset 1-Point
+tags:
+author: Gaurav Singh
+---
+
+Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?

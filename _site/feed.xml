@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-04-02T15:29:11+05:30</updated>
-  <id>http://localhost:4000//</id>
+  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
+  <updated>2018-04-02T17:22:57+05:30</updated>
+  <id>http://decodevector.mathscapes.xyz///</id>
 
   
     <title type="html">DecodeVector</title>
@@ -26,13 +26,184 @@
   
     <entry>
       
+      <title type="html">0029: Basic Transformation</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0029/" rel="alternate" type="text/html" title="0029: Basic Transformation" />
+      <published>2018-04-02T17:20:00+05:30</published>
+      <updated>2018-04-02T17:20:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0029</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0029/">&lt;p&gt;What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+
+      
+        <summary type="html">What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0028: Queens</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0028/" rel="alternate" type="text/html" title="0028: Queens" />
+      <published>2018-04-02T17:15:00+05:30</published>
+      <updated>2018-04-02T17:15:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0028</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0028/">&lt;p&gt;Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+
+      
+        <summary type="html">Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0027: 8 Queens Puzzle</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0027/" rel="alternate" type="text/html" title="0027: 8 Queens Puzzle" />
+      <published>2018-04-02T17:00:00+05:30</published>
+      <updated>2018-04-02T17:00:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0027</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0027/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="2-Point" />
+      
+
+      
+
+      
+        <summary type="html">The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0026: Uniform acceleration</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0026/" rel="alternate" type="text/html" title="0026: Uniform acceleration" />
+      <published>2018-04-02T14:25:00+05:30</published>
+      <updated>2018-04-02T14:25:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0026</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0026/">&lt;p&gt;Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
+The ball starts with a given velocity de-accelerates every time the ball hits the bounds.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas. The ball starts with a given velocity de-accelerates every time the ball hits the bounds.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Code of Conduct</title>
       
-      <link href="http://localhost:4000/sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
+      <link href="http://decodevector.mathscapes.xyz//sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
       <published>2018-04-02T08:04:08+05:30</published>
       <updated>2018-04-02T08:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/code-of-conduct</id>
-      <content type="html" xml:base="http://localhost:4000/sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/code-of-conduct</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -139,11 +310,11 @@ function reveal() {
       
       <title type="html">Sharing code</title>
       
-      <link href="http://localhost:4000/sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
+      <link href="http://decodevector.mathscapes.xyz//sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
       <published>2018-04-01T19:00:00+05:30</published>
       <updated>2018-04-01T19:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/sharing-code</id>
-      <content type="html" xml:base="http://localhost:4000/sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/sharing-code</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
 
 &lt;p&gt;As an advice, you may share your code either by directly sharing the file link from GitHub or create an &lt;a href=&quot;https://gist.github.com&quot;&gt;GitHub Gist&lt;/a&gt; and share just the link.&lt;/p&gt;</content>
 
@@ -183,11 +354,11 @@ function reveal() {
       
       <title type="html">0025: Sigma Function</title>
       
-      <link href="http://localhost:4000/sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
       <published>2018-03-30T15:10:00+05:30</published>
       <updated>2018-03-30T15:10:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0025</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0025</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
 
 &lt;p&gt;(a) S1: $1, 2, 3,…$&lt;/p&gt;
 
@@ -235,11 +406,11 @@ function reveal() {
       
       <title type="html">0024: 10001st Prime</title>
       
-      <link href="http://localhost:4000/sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
       <published>2018-03-30T15:02:00+05:30</published>
       <updated>2018-03-30T15:02:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0024</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0024</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;By listing the first six prime numbers: $2$, $3$, $5$, $7$, $11$, and $13$, we can see that the 6th prime is $13$.&lt;/p&gt;
 
@@ -283,11 +454,11 @@ function reveal() {
       
       <title type="html">0023: Sum Square Difference</title>
       
-      <link href="http://localhost:4000/sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
       <published>2018-03-30T14:35:00+05:30</published>
       <updated>2018-03-30T14:35:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0023</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0023</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The sum of the squares of the first ten natural numbers is,&lt;/p&gt;
 
@@ -339,11 +510,11 @@ function reveal() {
       
       <title type="html">0022: Largest Prime Factor</title>
       
-      <link href="http://localhost:4000/sub/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
       <published>2018-03-30T14:20:00+05:30</published>
       <updated>2018-03-30T14:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0022</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0022</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The prime factors of $13195$ are $5$, $7$, $13$ and $29$.&lt;/p&gt;
 
@@ -387,11 +558,11 @@ function reveal() {
       
       <title type="html">Submitting Pset solutions</title>
       
-      <link href="http://localhost:4000/sub/submitting-solutions/" rel="alternate" type="text/html" title="Submitting Pset solutions" />
+      <link href="http://decodevector.mathscapes.xyz//sub/submitting-solutions/" rel="alternate" type="text/html" title="Submitting Pset solutions" />
       <published>2018-03-30T00:20:08+05:30</published>
       <updated>2018-03-30T00:20:08+05:30</updated>
-      <id>http://localhost:4000/sub/submitting-solutions</id>
-      <content type="html" xml:base="http://localhost:4000/sub/submitting-solutions/">&lt;ul&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/submitting-solutions</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/submitting-solutions/">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Create a new public GitHub repo &lt;code class=&quot;highlighter-rouge&quot;&gt;dv.pset&lt;/code&gt; under your profile. You will be submitting Pset solutions in this repo.&lt;/p&gt;
   &lt;/li&gt;
@@ -454,11 +625,11 @@ function reveal() {
       
       <title type="html">Rating System</title>
       
-      <link href="http://localhost:4000/sub/rating-system/" rel="alternate" type="text/html" title="Rating System" />
+      <link href="http://decodevector.mathscapes.xyz//sub/rating-system/" rel="alternate" type="text/html" title="Rating System" />
       <published>2018-03-28T00:04:08+05:30</published>
       <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/rating-system</id>
-      <content type="html" xml:base="http://localhost:4000/sub/rating-system/">&lt;p&gt;Your rating can be calculated by&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/rating-system</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/rating-system/">&lt;p&gt;Your rating can be calculated by&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;5 + 2S - \frac{T}{L+1} + P&lt;/script&gt;
 
@@ -519,11 +690,11 @@ function reveal() {
       
       <title type="html">Introduction to Python</title>
       
-      <link href="http://localhost:4000/sub/introduction-to-python/" rel="alternate" type="text/html" title="Introduction to Python" />
+      <link href="http://decodevector.mathscapes.xyz//sub/introduction-to-python/" rel="alternate" type="text/html" title="Introduction to Python" />
       <published>2018-03-28T00:04:08+05:30</published>
       <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/introduction-to-python</id>
-      <content type="html" xml:base="http://localhost:4000/sub/introduction-to-python/">&lt;ul&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/introduction-to-python</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/introduction-to-python/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Download Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://python.swaroopch.com/&quot;&gt;A Byte of Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/&quot;&gt;Python Official Documentation&lt;/a&gt;&lt;/li&gt;
@@ -565,11 +736,11 @@ function reveal() {
       
       <title type="html">Getting Started with p5.js</title>
       
-      <link href="http://localhost:4000/sub/getting-started-with-p5js/" rel="alternate" type="text/html" title="Getting Started with p5.js" />
+      <link href="http://decodevector.mathscapes.xyz//sub/getting-started-with-p5js/" rel="alternate" type="text/html" title="Getting Started with p5.js" />
       <published>2018-03-28T00:04:08+05:30</published>
       <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/getting-started-with-p5js</id>
-      <content type="html" xml:base="http://localhost:4000/sub/getting-started-with-p5js/">&lt;ul&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/getting-started-with-p5js</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/getting-started-with-p5js/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://p5js.org/get-started/&quot;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://p5js.org/download/&quot;&gt;Download p5.js Library&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://p5js.org/reference/&quot;&gt;Reference&lt;/a&gt;&lt;/li&gt;
@@ -617,11 +788,11 @@ function reveal() {
       
       <title type="html">Using GitHub</title>
       
-      <link href="http://localhost:4000/sub/using-github/" rel="alternate" type="text/html" title="Using GitHub" />
+      <link href="http://decodevector.mathscapes.xyz//sub/using-github/" rel="alternate" type="text/html" title="Using GitHub" />
       <published>2018-03-27T16:20:08+05:30</published>
       <updated>2018-03-27T16:20:08+05:30</updated>
-      <id>http://localhost:4000/sub/using-github</id>
-      <content type="html" xml:base="http://localhost:4000/sub/using-github/">&lt;h3 id=&quot;what-is-github&quot;&gt;What is GitHub?&lt;/h3&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/using-github</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/using-github/">&lt;h3 id=&quot;what-is-github&quot;&gt;What is GitHub?&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=w3jLJU7DT5E&quot;&gt;What is GitHub? &lt;em&gt;(Video)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -679,11 +850,11 @@ function reveal() {
       
       <title type="html">Contributing to this website</title>
       
-      <link href="http://localhost:4000/sub/contributing-to-this-website/" rel="alternate" type="text/html" title="Contributing to this website" />
+      <link href="http://decodevector.mathscapes.xyz//sub/contributing-to-this-website/" rel="alternate" type="text/html" title="Contributing to this website" />
       <published>2018-03-27T12:04:08+05:30</published>
       <updated>2018-03-27T12:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/contributing-to-this-website</id>
-      <content type="html" xml:base="http://localhost:4000/sub/contributing-to-this-website/">&lt;p&gt;Send your posts (in &lt;code class=&quot;highlighter-rouge&quot;&gt;.markdown&lt;/code&gt; format) to &lt;a href=&quot;mailto:grv@mathscapes.xyz&quot;&gt;me&lt;/a&gt;.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/contributing-to-this-website</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/contributing-to-this-website/">&lt;p&gt;Send your posts (in &lt;code class=&quot;highlighter-rouge&quot;&gt;.markdown&lt;/code&gt; format) to &lt;a href=&quot;mailto:grv@mathscapes.xyz&quot;&gt;me&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;sample-post&quot;&gt;Sample Post&lt;/h3&gt;
 &lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
@@ -749,11 +920,11 @@ Your post goes here
       
       <title type="html">0021: Largest Palindrome Product</title>
       
-      <link href="http://localhost:4000/sub/pset-0021/" rel="alternate" type="text/html" title="0021: Largest Palindrome Product" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0021/" rel="alternate" type="text/html" title="0021: Largest Palindrome Product" />
       <published>2018-03-24T14:25:00+05:30</published>
       <updated>2018-03-24T14:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0021</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0021/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0021</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0021/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is $9009 = 91 × 99$.&lt;/p&gt;
 
@@ -797,11 +968,11 @@ Your post goes here
       
       <title type="html">0020: Multiples of 3 and 5</title>
       
-      <link href="http://localhost:4000/sub/pset-0020/" rel="alternate" type="text/html" title="0020: Multiples of 3 and 5" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0020/" rel="alternate" type="text/html" title="0020: Multiples of 3 and 5" />
       <published>2018-03-23T14:14:00+05:30</published>
       <updated>2018-03-23T14:14:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0020</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0020/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0020</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0020/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.&lt;/p&gt;
 
@@ -845,11 +1016,11 @@ Your post goes here
       
       <title type="html">0019: Adding Fractions</title>
       
-      <link href="http://localhost:4000/sub/pset-0019/" rel="alternate" type="text/html" title="0019: Adding Fractions" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0019/" rel="alternate" type="text/html" title="0019: Adding Fractions" />
       <published>2018-03-22T15:14:00+05:30</published>
       <updated>2018-03-22T15:14:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0019</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0019/">&lt;p&gt;Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0019</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0019/">&lt;p&gt;Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).&lt;/p&gt;</content>
 
       
       
@@ -889,11 +1060,11 @@ Your post goes here
       
       <title type="html">0018: Even Fibonacci Numbers</title>
       
-      <link href="http://localhost:4000/sub/pset-0018/" rel="alternate" type="text/html" title="0018: Even Fibonacci Numbers" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0018/" rel="alternate" type="text/html" title="0018: Even Fibonacci Numbers" />
       <published>2018-03-21T14:17:00+05:30</published>
       <updated>2018-03-21T14:17:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0018</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0018/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0018</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0018/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with $1$ and $2$, the first 10 terms will be:&lt;/p&gt;
 
@@ -927,215 +1098,6 @@ Your post goes here
 
       
         <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0017: Smallest Multiple</title>
-      
-      <link href="http://localhost:4000/sub/pset-0017/" rel="alternate" type="text/html" title="0017: Smallest Multiple" />
-      <published>2018-03-20T14:30:00+05:30</published>
-      <updated>2018-03-20T14:30:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0017</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0017/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;$2520$ is the smallest number that can be divided by each of the numbers from $1$ to $10$ without any remainder.&lt;/p&gt;
-
-&lt;p&gt;What is the smallest positive number that is evenly divisible by all of the numbers from $1$ to $20$?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0016: Pascal’s Triangle</title>
-      
-      <link href="http://localhost:4000/sub/pset-0016/" rel="alternate" type="text/html" title="0016: Pascal's Triangle" />
-      <published>2018-02-09T14:30:08+05:30</published>
-      <updated>2018-02-09T14:30:08+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0016</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0016/">&lt;p&gt;In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.&lt;/p&gt;
-
-&lt;p&gt;Read a number $N$ in a Python program and print $N$ lines of Pascal’s triangle.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Pascal%27s_triangle#/media/File:Pascal_triangle_small.png&quot;&gt;View Pascal’s Triangle&lt;/a&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">In mathematics, Pascal’s triangle is a triangular array of the binomial coefficients. The rows of Pascal’s triangle are conventionally enumerated starting with row $n = 0$ at the top (the $0$ th row). The entries in each row are numbered from the left beginning with $k = 0$ and are usually staggered relative to the numbers in the adjacent rows. The triangle may be constructed in the following manner: In row $0$ (the topmost row), there is a unique nonzero entry $1$. Each entry of each subsequent row is constructed by adding the number above and to the left with the number above and to the right, treating blank entries as $0$. For example, the initial number in the first (or any other) row is $1$ (the sum of $0$ and $1$), whereas the numbers $1$ and $3$ in the third row are added to produce the number $4$ in the fourth row.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0015: Simple Harmonic Motion</title>
-      
-      <link href="http://localhost:4000/sub/pset-0015/" rel="alternate" type="text/html" title="0015: Simple Harmonic Motion" />
-      <published>2018-02-09T14:30:08+05:30</published>
-      <updated>2018-02-09T14:30:08+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0015</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0015/">&lt;p&gt;In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.&lt;/p&gt;
-
-&lt;p&gt;Simple harmonic motion can serve as a mathematical model for a variety of motions, such as the oscillation of a spring. In addition, other phenomena can be approximated by simple harmonic motion, including the motion of a simple pendulum as well as molecular vibration.&lt;/p&gt;
-
-&lt;p&gt;Sketch as shown in this &lt;a href=&quot;https://en.wikipedia.org/wiki/Simple_harmonic_motion#/media/File:Simple_Harmonic_Motion_Orbit.gif&quot;&gt;link&lt;/a&gt; through P5JS program.&lt;/p&gt;
-
-&lt;p&gt;You can display text in P5JS by using text() function.&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;text-to-display&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Kinematics" />
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0014: Factorial</title>
-      
-      <link href="http://localhost:4000/sub/pset-0014/" rel="alternate" type="text/html" title="0014: Factorial" />
-      <published>2018-02-08T14:30:08+05:30</published>
-      <updated>2018-02-08T14:30:08+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0014</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0014/">&lt;p&gt;Write a computer program to read an integer N and print its factorial.&lt;/p&gt;
-
-&lt;h4 id=&quot;test-case&quot;&gt;Test Case&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 3&lt;br /&gt;
-&lt;em&gt;Output:&lt;/em&gt; 6&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://p5js.org/examples/dom-input-and-button.html&quot;&gt;How to read an input in p5.js?&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-factorial&quot;&gt;What is Factorial?&lt;/h3&gt;
-&lt;p&gt;In mathematics, the factorial of a non-negative integer $n$, denoted by $n!$, is the product of all positive integers less than or equal to $n$. For example,
-image&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;5! = 5 \times 4 \times 3 \times 2 \times 1 = 120&lt;/script&gt;
-
-&lt;p&gt;The value of $0!$ is $1$, according to the convention for an empty product.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Write a computer program to read an integer N and print its factorial.</summary>
       
 
       

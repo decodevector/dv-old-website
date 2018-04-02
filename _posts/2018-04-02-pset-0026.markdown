@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0026: Uniform acceleration"
+date:   2018-04-02 14:25:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
+The ball starts with a given velocity de-accelerates every time the ball hits the bounds.
