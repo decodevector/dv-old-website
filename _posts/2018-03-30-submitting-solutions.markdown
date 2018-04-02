@@ -11,9 +11,9 @@ tags: Pset
 
 * Open Pset from the navigation above and open the problem given to you.
 
-* Commit your solutions to this repo and ask for a review.
+* Commit your solution to this repo under the folder named by <problem-code> and ask for a review either directly (if in the class) or [here](https://github.com/mathscapes/DecodeVector/issues) if asking remotely.
 
-* Your GitHub commits will be used as reference for your rating.
+* Mark your progress [here](https://github.com/mathscapes/DecodeVector/wiki/Rating). Your rating will be calculated from here.
 
 ---
 

@@ -460,28 +460,28 @@ pre {
   text-transform: uppercase;
   letter-spacing: 1px; }
 
-.level-7 a, .level-7 a:visited {
+a.level-0, a.level-0:visited {
   color: #f44336; }
 
-.level-6 a, .level-6 a:visited {
+a.level-6, a.level-6:visited {
   color: #FFC107; }
 
-.level-5 a, .level-5 a:visited {
+a.level-5, a.level-5:visited {
   color: #8BC34A; }
 
-.level-4 a, .level-4 a:visited {
+a.level-4, a.level-4:visited {
   color: #009688; }
 
-.level-3 a, .level-3 a:visited {
+a.level-3, a.level-3:visited {
   color: #2196F3; }
 
-.level-2 a, .level-2 a:visited {
+a.level-2, a.level-2:visited {
   color: #9C27B0; }
 
-.level-1 a, .level-1 a:visited {
+a.level-1, a.level-1:visited {
   color: black; }
 
-.level-0 a, .level-0 a:visited {
+a.level-0, a.level-0:visited {
   color: grey; }
 
 h1 {

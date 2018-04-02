@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "0030: Multiplying arbitrary long numbers"
+date:   2018-04-02 17:30:00 +0530
+categories: Pset 5-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write a Python function that reads 2 4-digit numbers by individually reading each digit and then output the product of both 4-digit numbers.
+
+```
+      1 2 3 4
+    x 5 6 7 8
+-------------
+7 0 0 6 6 5 2
+-------------
+```

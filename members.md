@@ -3,17 +3,22 @@ layout: page
 title: "Members"
 permalink: /members/
 ---
-
-| :- | :- | :- | :- |
-|<span class="level-0"> [apoorva-a98 [0]](https://github.com/apoorva-a98) </span> | <span class="level-0"> [simraan9 [0]](https://github.com/simraan9) </span> | <span class="level-0"> [vineetarath [0]](https://github.com/vineetarath) </span> | <span class="level-0"> [masterpranjal [0]](https://github.com/masterpranjal) </span> |
-| <span class="level-0"> [harithapitla [0]](https://github.com/harithapitla) </span> | <span class="level-0"> [renuka [0]](#) </span> | <span class="level-0"> [svojas [0]](#) </span> | <span class="level-0"> [devashree [0]](#) </span>
-| <span class="level-0"> [namratarath [0]](https://github.com/namratarath) </span> | <span class="level-0"> [grvashu [0]](https://github.com/grvashu) </span> | - | - |
+| Member                           | Date of Join | Level | Rating | Problems Solved |
+| :-----                           | :----        | :---- | :----- | :-------------- |
+|[apoorva-a98](#){:.level-0}       | 02-04-2018   | 0     | 11     | 1               |
+|[simraan9](#){:.level-0}          | 02-04-2018   | 0     | 0      | 0               |
+|[vineetarath](#){:.level-0}       | 02-04-2018   | 0     | 0      | 0               |
+|[MasterPranjal](#){:.level-0}     | 02-04-2018   | 0     | 0      | 0               |
+|[Svojas](#){:.level-0}            | 02-04-2018   | 0     | 0      | 0               |
+|[Renuka](#){:.level-0}            | 02-04-2018   | 0     | 0      | 0               |
+|[harithapitla](#){:.level-0}      | 02-04-2018   | 0     | 0      | 0               |
+|[namratarath](#){:.level-0}       | 02-04-2018   | 0     | 0      | 0               |
 
 ---
 
 | :- | :- | :- | :- |
-| <span title="All of you will receive detention" class="level-0"> [L0 - Grey [0-99]](#) </span> | <span class="level-1"> [L1 - Black [100-199]](#) </span> | <span class="level-2"> [L2 - Purple [200-399]](#) </span> | <span class="level-3"> [L3 - Blue [400-799]](#) </span> |
-| <span class="level-4"> [L4 - Teal [800-1599]](#) </span> | <span class="level-5"> [L5 - Green [1600-3199]](#) </span> | <span class="level-6"> [L6 - Amber [3200-6399]](#) </span> | <span class="level-7" title="When they arrived in the corridor they saw that there were only a dozen people progressing to N.E.W.T. level. - Harry"> [L7 - Red [6400+]](#) </span> |
+| [L0 - Grey [0-99]](#){:.level-0} | [L1 - Black [100-199]](#){:.level-1} | [L2 - Purple [200-399]](#){:.level-2} | [L3 - Blue [400-799]](#){:.level-3} |
+| [L4 - Teal [800-1599]](#){:.level-4} | [L5 - Green [1600-3199]](#){:.level-5} | [L6 - Amber [3200-6399]](#){:.level-6} | [L7 - Red [6400+]](#){:.level-7} |
 
 ---
 
