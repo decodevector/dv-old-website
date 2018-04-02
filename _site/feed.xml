@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-04-02T08:51:38+05:30</updated>
+  <updated>2018-04-02T15:07:30+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -49,7 +49,7 @@
   &lt;li&gt;&lt;em&gt;Be welcoming:&lt;/em&gt; We strive to be a group that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Be considerate:&lt;/em&gt; Your work will be used by other people, and you, in turn, will depend on the work of others. Any decision you take will affect other members, and you should take those consequences into account when making decisions.&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Be respectful:&lt;/em&gt; Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Be careful with the words that we choose:&lt;/em&gt; we are a group of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Be careful with the words that we choose:&lt;/em&gt; We are a group of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members.&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Try to understand why we disagree:&lt;/em&gt; Disagreements, both social and technical, happen all the time. It is essential that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our group comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -100,7 +100,7 @@ function reveal() {
 &lt;/script&gt;
 
 &lt;p&gt;&lt;a onclick=&quot;reveal()&quot; style=&quot;text-decoration:none;&quot;&gt;⚡️&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote id=&quot;hp&quot; style=&quot;display:none;&quot;&gt;&quot;Help will always be given at Hogwarts, Harry, to those who ask for it. I've always prized myself on my ability to turn a phrase. Words are, in my not so humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it. But I would, in this case, amend my original statement to this: Help would always be given at Hogwarts to those who deserve it.&quot;&quot;&lt;br /&gt;
+&lt;blockquote id=&quot;hp&quot; style=&quot;display:none;&quot;&gt;&quot;Help will always be given at Hogwarts, Harry, to those who ask for it. I've always prized myself on my ability to turn a phrase. Words are, in my not so humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it. But I would, in this case, amend my original statement to this: Help would always be given at Hogwarts to those who deserve it.&quot;&lt;br /&gt;
 – Albus Dumbledore&lt;/blockquote&gt;</content>
 
       
@@ -405,6 +405,8 @@ function reveal() {
     &lt;p&gt;Your GitHub commits will be used as reference for your rating.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dvpset-screenshot.png&quot; alt=&quot;Screenshot&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
