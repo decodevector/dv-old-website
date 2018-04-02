@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code of Conduct"
-date:   2018-03-27 12:04:08 +0530
+date:   2018-04-02 08:04:08 +0530
 categories: Notes Important
 author: Gaurav Singh
 ---
@@ -23,9 +23,6 @@ This code of conduct outlines our expectations for participants within the Decod
 * *Be careful with the words that we choose:* we are a group of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members.
 * *Try to understand why we disagree:* Disagreements, both social and technical, happen all the time. It is essential that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our group comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-### Rigor and Honesty
-
-
 ### Leadership, authority, and responsibility
 We all lead by example, in debate and in action. We encourage new members to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
 
@@ -46,11 +43,9 @@ A leader's foremost goal is the success of the team, and not just his/her own pr
 A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves.
 
 #### Courage and considerateness
-
 Leadership occasionally requires bold decisions that will not be widely understood, agreed by everyone or popular. We value the courage to take such decisions, because they enable the DecodeVector as a whole to move forward faster than we could if we required complete consensus. Nevertheless, boldness demands considerateness; take bold decisions, but do so mindful of the challenges they present for others, and work to soften the impact of those decisions on them. Communicating changes and their reasoning clearly and early on is as important as the implementation of the change itself.
 
 ### Conflicts of interest
-
 We expect leaders to be aware when they are conflicted due to personal schedule or other projects they are involved in, and abstain or delegate decisions that may be seen to be self-interested. We expect that everyone who participates in DecodeVector does so with the goal of progress of DecodeVector.
 
 When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.
