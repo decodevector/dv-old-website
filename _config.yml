@@ -20,7 +20,7 @@ jekyll-archives:
     - author
   layout: category_archives
   permalinks:
-    category: /:name/
+    category: /categories/:name/
     tag: /tags/:name/
     author: /member/:name/
 
