@@ -1,3 +1,4 @@
+#JEKYLL_ENV=production jekyll build
 title: DecodeVector
 author: Mathscapes Research
 url: http://decodevector.mathscapes.xyz/
