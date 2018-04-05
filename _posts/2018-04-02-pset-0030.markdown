@@ -7,7 +7,7 @@ tags: Python
 author: Gaurav Singh
 ---
 
-Write a Python function that reads 2 4-digit numbers by individually reading each digit and then output the product of both 4-digit numbers.
+Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.
 
 ```
       1 2 3 4

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "0036: Smallest Pair"
+date:   2018-04-03 00:57:00 +0530
+categories: Pset 2-Point
+tags: Python
+author: Gaurav Singh
+---
+Write a program that reads 10 numbers and print the smallest pair.
+
+Example:
+
+_Input:_
+
+7 9 3 5 4 2 1 4 6 8
+
+_Output:_
+
+2 1 (OR) 1 2

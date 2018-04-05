@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "0033: Star Pattern"
+date:   2018-04-03 00:50:00 +0530
+categories: Pset 0-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write a function `starPattern(n)` which prints following.
+
+If n=5:
+```
+* * * * *
+* * * *
+* * *
+* *
+*
+```

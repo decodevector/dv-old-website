@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-04-02T19:20:55+05:30</updated>
-  <id>http://localhost:4000//</id>
+  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
+  <updated>2018-04-05T23:04:16+05:30</updated>
+  <id>http://decodevector.mathscapes.xyz///</id>
 
   
     <title type="html">DecodeVector</title>
@@ -26,13 +26,450 @@
   
     <entry>
       
+      <title type="html">Reporting bugs</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/reporting/" rel="alternate" type="text/html" title="Reporting bugs" />
+      <published>2018-04-05T08:04:08+05:30</published>
+      <updated>2018-04-05T08:04:08+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/reporting</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/reporting/">&lt;p&gt;Please post your bugs/suggestions by creating a issue &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Important" />
+      
+
+      
+
+      
+        <summary type="html">Please post your bugs/suggestions by creating a issue here.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0037: Number Word</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0037/" rel="alternate" type="text/html" title="0037: Number Word" />
+      <published>2018-04-03T01:00:00+05:30</published>
+      <updated>2018-04-03T01:00:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0037</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0037/">&lt;p&gt;Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 99&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; Ninety Nine&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1
+&lt;em&gt;Output:&lt;/em&gt; One&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1000000
+&lt;em&gt;Output:&lt;/em&gt; One Million&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="4-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0036: Smallest Pair</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0036/" rel="alternate" type="text/html" title="0036: Smallest Pair" />
+      <published>2018-04-03T00:57:00+05:30</published>
+      <updated>2018-04-03T00:57:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0036</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0036/">&lt;p&gt;Write a program that reads 10 numbers and print the smallest pair.&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;7 9 3 5 4 2 1 4 6 8&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;2 1 (OR) 1 2&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="2-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a program that reads 10 numbers and print the smallest pair.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0035: Curtains</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0035/" rel="alternate" type="text/html" title="0035: Curtains" />
+      <published>2018-04-03T00:55:00+05:30</published>
+      <updated>2018-04-03T00:55:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0035</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0035/">&lt;p&gt;Write a computer program that prints like following.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
+Vector&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;V
+Ve
+Vec
+Vect
+Vecto
+Vector
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program that prints like following.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0034: Is divisible?</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0034/" rel="alternate" type="text/html" title="0034: Is divisible?" />
+      <published>2018-04-03T00:52:00+05:30</published>
+      <updated>2018-04-03T00:52:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0034</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0034/">&lt;p&gt;Write a function to return the count of all integers divisible by 7 between 1 and a given number n.&lt;/p&gt;
+
+&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
+15&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;
+2&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a function to return the count of all integers divisible by 7 between 1 and a given number n.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0033: Star Pattern</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0033/" rel="alternate" type="text/html" title="0033: Star Pattern" />
+      <published>2018-04-03T00:50:00+05:30</published>
+      <updated>2018-04-03T00:50:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0033</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0033/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;starPattern(n)&lt;/code&gt; which prints following.&lt;/p&gt;
+
+&lt;p&gt;If n=5:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* * * * *
+* * * *
+* * *
+* *
+*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a function starPattern(n) which prints following.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0032: 0/1 Knapsack</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0032/" rel="alternate" type="text/html" title="0032: 0/1 Knapsack" />
+      <published>2018-04-03T00:40:00+05:30</published>
+      <updated>2018-04-03T00:40:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0032</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0032/">&lt;p&gt;Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).&lt;/p&gt;
+
+&lt;p&gt;Maximize $ \sum_{i=0}^{n}{v_i x_i}$&lt;/p&gt;
+
+&lt;p&gt;provided  $ \sum_{i=0}^{n}{w_i x_i} \le 0 $ and $x \in {0,1}$&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="5-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Combinatorial-Optimization" />
+      
+
+      
+        <summary type="html">Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0031: Bubble Sort</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0031/" rel="alternate" type="text/html" title="0031: Bubble Sort" />
+      <published>2018-04-03T00:30:00+05:30</published>
+      <updated>2018-04-03T00:30:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0031</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0031/">&lt;p&gt;Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-by-step-example&quot;&gt;Step-by-step example&lt;/h3&gt;
+
+&lt;p&gt;Let us take the array of numbers “5 1 4 2 8”, and sort the array from lowest number to greatest number using bubble sort. In each step, elements written in bold are being compared. Three passes will be required.&lt;/p&gt;
+
+&lt;h4 id=&quot;first-pass&quot;&gt;First Pass&lt;/h4&gt;
+
+&lt;p&gt;( &lt;strong&gt;5 1&lt;/strong&gt; 4 2 8 ) $\to$ ( &lt;strong&gt;1 5&lt;/strong&gt; 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 &amp;gt; 1.&lt;br /&gt;
+( 1 &lt;strong&gt;5 4&lt;/strong&gt; 2 8 ) $\to$ ( 1 &lt;strong&gt;4 5&lt;/strong&gt; 2 8 ), Swap since 5 &amp;gt; 4&lt;br /&gt;
+( 1 4 &lt;strong&gt;5 2&lt;/strong&gt; 8 ) $\to$ ( 1 4 &lt;strong&gt;2 5&lt;/strong&gt; 8 ), Swap since 5 &amp;gt; 2&lt;br /&gt;
+( 1 4 2 &lt;strong&gt;5 8&lt;/strong&gt; ) $\to$ ( 1 4 2 &lt;strong&gt;5 8&lt;/strong&gt; ), Now, since these elements are already in order (8 &amp;gt; 5), algorithm does not swap them.&lt;/p&gt;
+
+&lt;h4 id=&quot;second-pass&quot;&gt;Second Pass&lt;/h4&gt;
+
+&lt;p&gt;( &lt;strong&gt;1 4&lt;/strong&gt; 2 5 8 ) $\to$ ( &lt;strong&gt;1 4&lt;/strong&gt; 2 5 8 )&lt;br /&gt;
+( 1 &lt;strong&gt;4 2&lt;/strong&gt; 5 8 ) $\to$ Swap since 4 &amp;gt; 2&lt;br /&gt;
+( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 ) $\to$ ( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 )&lt;br /&gt;
+( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; ) $\to$ ( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; )&lt;br /&gt;
+Now, the array is already sorted, but the algorithm does not know if it is completed. The algorithm needs one whole pass without any swap to know it is sorted.&lt;/p&gt;
+
+&lt;h4 id=&quot;third-pass&quot;&gt;Third Pass&lt;/h4&gt;
+
+&lt;p&gt;( &lt;strong&gt;1 2&lt;/strong&gt; 4 5 8 ) $\to$ ( &lt;strong&gt;1 2&lt;/strong&gt; 4 5 8 )&lt;br /&gt;
+( 1 &lt;strong&gt;2 4&lt;/strong&gt; 5 8 ) $\to$ ( 1 &lt;strong&gt;2 4&lt;/strong&gt; 5 8 )&lt;br /&gt;
+( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 ) $\to$ ( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 )&lt;br /&gt;
+( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; ) $\to$ ( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; )&lt;/p&gt;
+
+&lt;p&gt;Implement Bubble sort through a Python program.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="3-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Sorting" />
+      
+
+      
+        <summary type="html">Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">0030: Multiplying arbitrary long numbers</title>
       
-      <link href="http://localhost:4000/sub/pset-0030/" rel="alternate" type="text/html" title="0030: Multiplying arbitrary long numbers" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0030/" rel="alternate" type="text/html" title="0030: Multiplying arbitrary long numbers" />
       <published>2018-04-02T17:30:00+05:30</published>
       <updated>2018-04-02T17:30:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0030</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0030/">&lt;p&gt;Write a Python function that reads 2 4-digit numbers by individually reading each digit and then output the product of both 4-digit numbers.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0030</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0030/">&lt;p&gt;Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      1 2 3 4
     x 5 6 7 8
@@ -66,7 +503,7 @@
       
 
       
-        <summary type="html">Write a Python function that reads 2 4-digit numbers by individually reading each digit and then output the product of both 4-digit numbers.</summary>
+        <summary type="html">Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.</summary>
       
 
       
@@ -79,11 +516,11 @@
       
       <title type="html">0029: Basic Transformation</title>
       
-      <link href="http://localhost:4000/sub/pset-0029/" rel="alternate" type="text/html" title="0029: Basic Transformation" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0029/" rel="alternate" type="text/html" title="0029: Basic Transformation" />
       <published>2018-04-02T17:20:00+05:30</published>
       <updated>2018-04-02T17:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0029</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0029/">&lt;p&gt;What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0029</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0029/">&lt;p&gt;What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?&lt;/p&gt;</content>
 
       
       
@@ -121,11 +558,11 @@
       
       <title type="html">0028: Queens</title>
       
-      <link href="http://localhost:4000/sub/pset-0028/" rel="alternate" type="text/html" title="0028: Queens" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0028/" rel="alternate" type="text/html" title="0028: Queens" />
       <published>2018-04-02T17:15:00+05:30</published>
       <updated>2018-04-02T17:15:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0028</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0028/">&lt;p&gt;Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0028</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0028/">&lt;p&gt;Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?&lt;/p&gt;</content>
 
       
       
@@ -163,11 +600,11 @@
       
       <title type="html">0027: 8 Queens Puzzle</title>
       
-      <link href="http://localhost:4000/sub/pset-0027/" rel="alternate" type="text/html" title="0027: 8 Queens Puzzle" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0027/" rel="alternate" type="text/html" title="0027: 8 Queens Puzzle" />
       <published>2018-04-02T17:00:00+05:30</published>
       <updated>2018-04-02T17:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0027</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0027/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0027</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0027/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.&lt;/p&gt;</content>
 
       
       
@@ -205,11 +642,11 @@
       
       <title type="html">0026: Uniform acceleration</title>
       
-      <link href="http://localhost:4000/sub/pset-0026/" rel="alternate" type="text/html" title="0026: Uniform acceleration" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0026/" rel="alternate" type="text/html" title="0026: Uniform acceleration" />
       <published>2018-04-02T14:25:00+05:30</published>
       <updated>2018-04-02T14:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0026</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0026/">&lt;p&gt;Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0026</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0026/">&lt;p&gt;Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
 The ball starts with a given velocity de-accelerates every time the ball hits the bounds.&lt;/p&gt;</content>
 
       
@@ -250,11 +687,11 @@ The ball starts with a given velocity de-accelerates every time the ball hits th
       
       <title type="html">Code of Conduct</title>
       
-      <link href="http://localhost:4000/sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
+      <link href="http://decodevector.mathscapes.xyz//sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
       <published>2018-04-02T08:04:08+05:30</published>
       <updated>2018-04-02T08:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/code-of-conduct</id>
-      <content type="html" xml:base="http://localhost:4000/sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/code-of-conduct</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -361,11 +798,11 @@ function reveal() {
       
       <title type="html">Sharing code</title>
       
-      <link href="http://localhost:4000/sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
+      <link href="http://decodevector.mathscapes.xyz//sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
       <published>2018-04-01T19:00:00+05:30</published>
       <updated>2018-04-01T19:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/sharing-code</id>
-      <content type="html" xml:base="http://localhost:4000/sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/sharing-code</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
 
 &lt;p&gt;As an advice, you may share your code either by directly sharing the file link from GitHub or create an &lt;a href=&quot;https://gist.github.com&quot;&gt;GitHub Gist&lt;/a&gt; and share just the link.&lt;/p&gt;</content>
 
@@ -405,11 +842,11 @@ function reveal() {
       
       <title type="html">0025: Sigma Function</title>
       
-      <link href="http://localhost:4000/sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
       <published>2018-03-30T15:10:00+05:30</published>
       <updated>2018-03-30T15:10:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0025</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0025</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
 
 &lt;p&gt;(a) S1: $1, 2, 3,…$&lt;/p&gt;
 
@@ -457,11 +894,11 @@ function reveal() {
       
       <title type="html">0024: 10001st Prime</title>
       
-      <link href="http://localhost:4000/sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
       <published>2018-03-30T15:02:00+05:30</published>
       <updated>2018-03-30T15:02:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0024</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0024</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;By listing the first six prime numbers: $2$, $3$, $5$, $7$, $11$, and $13$, we can see that the 6th prime is $13$.&lt;/p&gt;
 
@@ -505,11 +942,11 @@ function reveal() {
       
       <title type="html">0023: Sum Square Difference</title>
       
-      <link href="http://localhost:4000/sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
       <published>2018-03-30T14:35:00+05:30</published>
       <updated>2018-03-30T14:35:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0023</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0023</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The sum of the squares of the first ten natural numbers is,&lt;/p&gt;
 
@@ -561,11 +998,11 @@ function reveal() {
       
       <title type="html">0022: Largest Prime Factor</title>
       
-      <link href="http://localhost:4000/sub/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
       <published>2018-03-30T14:20:00+05:30</published>
       <updated>2018-03-30T14:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0022</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0022</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The prime factors of $13195$ are $5$, $7$, $13$ and $29$.&lt;/p&gt;
 
@@ -609,11 +1046,11 @@ function reveal() {
       
       <title type="html">Submitting Pset solutions</title>
       
-      <link href="http://localhost:4000/sub/submitting-solutions/" rel="alternate" type="text/html" title="Submitting Pset solutions" />
+      <link href="http://decodevector.mathscapes.xyz//sub/submitting-solutions/" rel="alternate" type="text/html" title="Submitting Pset solutions" />
       <published>2018-03-30T00:20:08+05:30</published>
       <updated>2018-03-30T00:20:08+05:30</updated>
-      <id>http://localhost:4000/sub/submitting-solutions</id>
-      <content type="html" xml:base="http://localhost:4000/sub/submitting-solutions/">&lt;ul&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/submitting-solutions</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/submitting-solutions/">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Create a new public GitHub repo &lt;code class=&quot;highlighter-rouge&quot;&gt;dv.pset&lt;/code&gt; under your profile. You will be submitting Pset solutions in this repo.&lt;/p&gt;
   &lt;/li&gt;
@@ -664,441 +1101,6 @@ function reveal() {
 
       
         <summary type="html">Create a new public GitHub repo dv.pset under your profile. You will be submitting Pset solutions in this repo.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Rating System</title>
-      
-      <link href="http://localhost:4000/sub/rating-system/" rel="alternate" type="text/html" title="Rating System" />
-      <published>2018-03-28T00:04:08+05:30</published>
-      <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/rating-system</id>
-      <content type="html" xml:base="http://localhost:4000/sub/rating-system/">&lt;p&gt;Your rating can be calculated by&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;5 + 2S - \frac{T}{L+1} + P&lt;/script&gt;
-
-&lt;p&gt;where,&lt;/p&gt;
-
-&lt;p&gt;$S$ is the number of days you’ve solved at least one PSET problem,&lt;/p&gt;
-
-&lt;p&gt;$T$ is the total number of days since your date of join,&lt;/p&gt;
-
-&lt;p&gt;$L$ is your current level,&lt;/p&gt;
-
-&lt;p&gt;$P$ is the sum of points accumulated by solving PSET problems.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;This rating is in effect from 2nd April, 2018.&lt;/li&gt;
-  &lt;li&gt;The rating begins from 5.&lt;/li&gt;
-  &lt;li&gt;Mark your progress &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/wiki/Rating&quot;&gt;here&lt;/a&gt;. Your rating will be calculated from here.&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Important" />
-      
-
-      
-        <category term="Rating" />
-      
-
-      
-        <summary type="html">Your rating can be calculated by</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Introduction to Python</title>
-      
-      <link href="http://localhost:4000/sub/introduction-to-python/" rel="alternate" type="text/html" title="Introduction to Python" />
-      <published>2018-03-28T00:04:08+05:30</published>
-      <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/introduction-to-python</id>
-      <content type="html" xml:base="http://localhost:4000/sub/introduction-to-python/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Download Python&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://python.swaroopch.com/&quot;&gt;A Byte of Python&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.python.org/3/&quot;&gt;Python Official Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Resources" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Download Python A Byte of Python Python Official Documentation</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Getting Started with p5.js</title>
-      
-      <link href="http://localhost:4000/sub/getting-started-with-p5js/" rel="alternate" type="text/html" title="Getting Started with p5.js" />
-      <published>2018-03-28T00:04:08+05:30</published>
-      <updated>2018-03-28T00:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/getting-started-with-p5js</id>
-      <content type="html" xml:base="http://localhost:4000/sub/getting-started-with-p5js/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://p5js.org/get-started/&quot;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://p5js.org/download/&quot;&gt;Download p5.js Library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://p5js.org/reference/&quot;&gt;Reference&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Resources" />
-      
-
-      
-        <category term="p5.js" />
-      
-        <category term="Processing" />
-      
-        <category term="JavaScript" />
-      
-
-      
-        <summary type="html">Get Started Download p5.js Library Reference</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Using GitHub</title>
-      
-      <link href="http://localhost:4000/sub/using-github/" rel="alternate" type="text/html" title="Using GitHub" />
-      <published>2018-03-27T16:20:08+05:30</published>
-      <updated>2018-03-27T16:20:08+05:30</updated>
-      <id>http://localhost:4000/sub/using-github</id>
-      <content type="html" xml:base="http://localhost:4000/sub/using-github/">&lt;h3 id=&quot;what-is-github&quot;&gt;What is GitHub?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=w3jLJU7DT5E&quot;&gt;What is GitHub? &lt;em&gt;(Video)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://try.github.io/levels/1/challenges/1&quot;&gt;Using GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/introduction/flow/&quot;&gt;Understanding the GitHub Flow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;Hello World&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more&quot;&gt;More&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/issues/&quot;&gt;Mastering Issues&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Mastering Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Resources" />
-      
-
-      
-        <category term="GitHub" />
-      
-        <category term="Git" />
-      
-
-      
-        <summary type="html">What is GitHub? What is GitHub? (Video)</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Contributing to this website</title>
-      
-      <link href="http://localhost:4000/sub/contributing-to-this-website/" rel="alternate" type="text/html" title="Contributing to this website" />
-      <published>2018-03-27T12:04:08+05:30</published>
-      <updated>2018-03-27T12:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/contributing-to-this-website</id>
-      <content type="html" xml:base="http://localhost:4000/sub/contributing-to-this-website/">&lt;p&gt;Send your posts (in &lt;code class=&quot;highlighter-rouge&quot;&gt;.markdown&lt;/code&gt; format) to &lt;a href=&quot;mailto:grv@mathscapes.xyz&quot;&gt;me&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-post&quot;&gt;Sample Post&lt;/h3&gt;
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Title&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;of&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;your&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;post&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;2018-03-27 12:04:08 +0530&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;tag1 tag2 tag3&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Your name&lt;/span&gt;
-&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-
-&lt;span class=&quot;gu&quot;&gt;### Heading&lt;/span&gt;
-Your post goes here
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h3 id=&quot;formatting-guide&quot;&gt;Formatting Guide&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Mastering Markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://moser-isi.ethz.ch/docs/typeset_equations.pdf&quot;&gt;Typesetting Equations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Wikipedia:LaTeX_symbols&quot;&gt;LaTeX Symbols&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In case of any queries, create a issue &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Important" />
-      
-
-      
-        <category term="Markdown" />
-      
-        <category term="Latex" />
-      
-        <category term="Math" />
-      
-
-      
-        <summary type="html">Send your posts (in .markdown format) to me.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0021: Largest Palindrome Product</title>
-      
-      <link href="http://localhost:4000/sub/pset-0021/" rel="alternate" type="text/html" title="0021: Largest Palindrome Product" />
-      <published>2018-03-24T14:25:00+05:30</published>
-      <updated>2018-03-24T14:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0021</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0021/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is $9009 = 91 × 99$.&lt;/p&gt;
-
-&lt;p&gt;Find the largest palindrome made from the product of two 3-digit numbers.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0020: Multiples of 3 and 5</title>
-      
-      <link href="http://localhost:4000/sub/pset-0020/" rel="alternate" type="text/html" title="0020: Multiples of 3 and 5" />
-      <published>2018-03-23T14:14:00+05:30</published>
-      <updated>2018-03-23T14:14:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0020</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0020/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.&lt;/p&gt;
-
-&lt;p&gt;Find the sum of all the multiples of 3 or 5 below 1000.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0019: Adding Fractions</title>
-      
-      <link href="http://localhost:4000/sub/pset-0019/" rel="alternate" type="text/html" title="0019: Adding Fractions" />
-      <published>2018-03-22T15:14:00+05:30</published>
-      <updated>2018-03-22T15:14:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0019</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0019/">&lt;p&gt;Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a program to read two fractions. (each fraction will have 2 inputs: Numerator and Denominator) and display their sum (in fractions).</summary>
       
 
       

@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Python"
 date:   2018-03-28 00:04:08 +0530
-categories: Resources
+categories: Notes Resources
 author: Gaurav Singh
 tags: Python
 ---

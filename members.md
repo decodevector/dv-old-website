@@ -5,14 +5,15 @@ permalink: /members/
 ---
 | Member                           | Date of Join | Level | Rating | Problems Solved |
 | :-----                           | :----        | :---- | :----- | :-------------- |
-|[apoorva-a98](#){:.level-0}       | 02-04-2018   | 0     | 11     | 1               |
-|[simraan9](#){:.level-0}          | 02-04-2018   | 0     | 0      | 0               |
-|[vineetarath](#){:.level-0}       | 02-04-2018   | 0     | 0      | 0               |
-|[MasterPranjal](#){:.level-0}     | 02-04-2018   | 0     | 0      | 0               |
-|[Svojas](#){:.level-0}            | 02-04-2018   | 0     | 0      | 0               |
-|[Renuka](#){:.level-0}            | 02-04-2018   | 0     | 0      | 0               |
-|[harithapitla](#){:.level-0}      | 02-04-2018   | 0     | 0      | 0               |
-|[namratarath](#){:.level-0}       | 02-04-2018   | 0     | 0      | 0               |
+|[Simran](#){:.level-0}            | 02-04-2018   | 0     | 17     | 10              |
+|[Apoorva](#){:.level-0}           | 02-04-2018   | 0     | 14     | 2               |
+|[Gaurav](#){:.level-0}            | 02-04-2018   | 0     | 12     | 8               |
+|[Pranjal](#){:.level-0}           | 02-04-2018   | 0     | 10     | 3               |
+|[Vineeta](#){:.level-0}           | 02-04-2018   | 0     | 6      | 1               |
+|[Svojas](#){:.level-0}            | 03-04-2018   | 0     | 0      | 0               |
+|[Renuka](#){:.level-0}            | 03-04-2018   | 0     | 0      | 0               |
+|[Haritha](#){:.level-0}           | XX-XX-2018   | -     | -      | -               |
+|[Namrata](#){:.level-0}           | XX-XX-2018   | -     | -      | -               |
 
 ---
 

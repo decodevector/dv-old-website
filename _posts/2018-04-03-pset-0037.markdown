@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "0037: Number Word"
+date:   2018-04-03 01:00:00 +0530
+categories: Pset 4-Point
+tags: Python
+author: Gaurav Singh
+---
+Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.
+
+Example:
+
+_Input:_ 99
+
+_Output:_ Ninety Nine
+
+_Input:_ 1
+_Output:_ One
+
+_Input:_ 1000000
+_Output:_ One Million
