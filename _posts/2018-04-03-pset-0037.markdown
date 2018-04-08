@@ -15,7 +15,9 @@ _Input:_ 99
 _Output:_ Ninety Nine
 
 _Input:_ 1
+
 _Output:_ One
 
 _Input:_ 1000000
+
 _Output:_ One Million

@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
-  <updated>2018-04-05T23:04:16+05:30</updated>
-  <id>http://decodevector.mathscapes.xyz///</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-04-08T18:29:25+05:30</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">DecodeVector</title>
@@ -26,13 +26,121 @@
   
     <entry>
       
+      <title type="html">0039: Insertion Sort</title>
+      
+      <link href="http://localhost:4000/sub/pset-0039/" rel="alternate" type="text/html" title="0039: Insertion Sort" />
+      <published>2018-04-08T18:10:00+05:30</published>
+      <updated>2018-04-08T18:10:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0039</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0039/">&lt;p&gt;Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.&lt;/p&gt;
+
+&lt;p&gt;Sorting is typically done in-place, by iterating up the array, growing the sorted list behind it. At each array-position, it checks the value there against the largest value in the sorted list (which happens to be next to it, in the previous array-position checked). If larger, it leaves the element in place and moves to the next. If smaller, it finds the correct position within the sorted list, shifts all the larger values up to make a space, and inserts into that correct position.&lt;/p&gt;
+
+&lt;p&gt;The resulting array after k iterations has the property where the first k + 1 entries are sorted (“+1” because the first entry is skipped). In each iteration the first remaining entry of the input is removed, and inserted into the result at the correct position, thus extending the result:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/32/Insertionsort-before.png&quot; alt=&quot;givenlist&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;becomes&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/d9/Insertionsort-after.png&quot; alt=&quot;sortedpartiallist&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;with each element greater than x copied to the right as it is compared against x.&lt;/p&gt;
+
+&lt;p&gt;Implement insertion sort through a Python program.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="3-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Sorting" />
+      
+
+      
+        <summary type="html">Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0038: Solar System</title>
+      
+      <link href="http://localhost:4000/sub/pset-0038/" rel="alternate" type="text/html" title="0038: Solar System" />
+      <published>2018-04-08T18:00:00+05:30</published>
+      <updated>2018-04-08T18:00:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0038</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0038/">&lt;p&gt;Write a p5js sketch to simulate low-fidelity solar system.&lt;/p&gt;
+
+&lt;p&gt;You may use ellipse to draw the Sun, planets and some of their moons and animate them in circular/elliptical orbit.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="p5.js" />
+      
+        <category term="Simulation" />
+      
+
+      
+        <summary type="html">Write a p5js sketch to simulate low-fidelity solar system.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Reporting bugs</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/reporting/" rel="alternate" type="text/html" title="Reporting bugs" />
+      <link href="http://localhost:4000/sub/reporting/" rel="alternate" type="text/html" title="Reporting bugs" />
       <published>2018-04-05T08:04:08+05:30</published>
       <updated>2018-04-05T08:04:08+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/reporting</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/reporting/">&lt;p&gt;Please post your bugs/suggestions by creating a issue &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/reporting</id>
+      <content type="html" xml:base="http://localhost:4000/sub/reporting/">&lt;p&gt;Please post your bugs/suggestions by creating a issue &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -70,11 +178,11 @@
       
       <title type="html">0037: Number Word</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0037/" rel="alternate" type="text/html" title="0037: Number Word" />
+      <link href="http://localhost:4000/sub/pset-0037/" rel="alternate" type="text/html" title="0037: Number Word" />
       <published>2018-04-03T01:00:00+05:30</published>
       <updated>2018-04-03T01:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0037</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0037/">&lt;p&gt;Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0037</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0037/">&lt;p&gt;Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.&lt;/p&gt;
 
 &lt;p&gt;Example:&lt;/p&gt;
 
@@ -82,11 +190,13 @@
 
 &lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; Ninety Nine&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1
-&lt;em&gt;Output:&lt;/em&gt; One&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1000000
-&lt;em&gt;Output:&lt;/em&gt; One Million&lt;/p&gt;</content>
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; One&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1000000&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; One Million&lt;/p&gt;</content>
 
       
       
@@ -126,11 +236,11 @@
       
       <title type="html">0036: Smallest Pair</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0036/" rel="alternate" type="text/html" title="0036: Smallest Pair" />
+      <link href="http://localhost:4000/sub/pset-0036/" rel="alternate" type="text/html" title="0036: Smallest Pair" />
       <published>2018-04-03T00:57:00+05:30</published>
       <updated>2018-04-03T00:57:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0036</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0036/">&lt;p&gt;Write a program that reads 10 numbers and print the smallest pair.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0036</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0036/">&lt;p&gt;Write a program that reads 10 numbers and print the smallest pair.&lt;/p&gt;
 
 &lt;p&gt;Example:&lt;/p&gt;
 
@@ -180,11 +290,11 @@
       
       <title type="html">0035: Curtains</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0035/" rel="alternate" type="text/html" title="0035: Curtains" />
+      <link href="http://localhost:4000/sub/pset-0035/" rel="alternate" type="text/html" title="0035: Curtains" />
       <published>2018-04-03T00:55:00+05:30</published>
       <updated>2018-04-03T00:55:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0035</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0035/">&lt;p&gt;Write a computer program that prints like following.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0035</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0035/">&lt;p&gt;Write a computer program that prints like following.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
 Vector&lt;/p&gt;
@@ -237,11 +347,11 @@ Vector
       
       <title type="html">0034: Is divisible?</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0034/" rel="alternate" type="text/html" title="0034: Is divisible?" />
+      <link href="http://localhost:4000/sub/pset-0034/" rel="alternate" type="text/html" title="0034: Is divisible?" />
       <published>2018-04-03T00:52:00+05:30</published>
       <updated>2018-04-03T00:52:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0034</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0034/">&lt;p&gt;Write a function to return the count of all integers divisible by 7 between 1 and a given number n.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0034</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0034/">&lt;p&gt;Write a function to return the count of all integers divisible by 7 between 1 and a given number n.&lt;/p&gt;
 
 &lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
 
@@ -289,11 +399,11 @@ Vector
       
       <title type="html">0033: Star Pattern</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0033/" rel="alternate" type="text/html" title="0033: Star Pattern" />
+      <link href="http://localhost:4000/sub/pset-0033/" rel="alternate" type="text/html" title="0033: Star Pattern" />
       <published>2018-04-03T00:50:00+05:30</published>
       <updated>2018-04-03T00:50:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0033</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0033/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;starPattern(n)&lt;/code&gt; which prints following.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0033</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0033/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;starPattern(n)&lt;/code&gt; which prints following.&lt;/p&gt;
 
 &lt;p&gt;If n=5:&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* * * * *
@@ -341,11 +451,11 @@ Vector
       
       <title type="html">0032: 0/1 Knapsack</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0032/" rel="alternate" type="text/html" title="0032: 0/1 Knapsack" />
+      <link href="http://localhost:4000/sub/pset-0032/" rel="alternate" type="text/html" title="0032: 0/1 Knapsack" />
       <published>2018-04-03T00:40:00+05:30</published>
       <updated>2018-04-03T00:40:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0032</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0032/">&lt;p&gt;Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0032</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0032/">&lt;p&gt;Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).&lt;/p&gt;
 
 &lt;p&gt;Maximize $ \sum_{i=0}^{n}{v_i x_i}$&lt;/p&gt;
 
@@ -391,11 +501,11 @@ Vector
       
       <title type="html">0031: Bubble Sort</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0031/" rel="alternate" type="text/html" title="0031: Bubble Sort" />
+      <link href="http://localhost:4000/sub/pset-0031/" rel="alternate" type="text/html" title="0031: Bubble Sort" />
       <published>2018-04-03T00:30:00+05:30</published>
       <updated>2018-04-03T00:30:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0031</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0031/">&lt;p&gt;Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0031</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0031/">&lt;p&gt;Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.&lt;/p&gt;
 
 &lt;h3 id=&quot;step-by-step-example&quot;&gt;Step-by-step example&lt;/h3&gt;
 
@@ -465,11 +575,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
       <title type="html">0030: Multiplying arbitrary long numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0030/" rel="alternate" type="text/html" title="0030: Multiplying arbitrary long numbers" />
+      <link href="http://localhost:4000/sub/pset-0030/" rel="alternate" type="text/html" title="0030: Multiplying arbitrary long numbers" />
       <published>2018-04-02T17:30:00+05:30</published>
       <updated>2018-04-02T17:30:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0030</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0030/">&lt;p&gt;Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0030</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0030/">&lt;p&gt;Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      1 2 3 4
     x 5 6 7 8
@@ -516,11 +626,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
       <title type="html">0029: Basic Transformation</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0029/" rel="alternate" type="text/html" title="0029: Basic Transformation" />
+      <link href="http://localhost:4000/sub/pset-0029/" rel="alternate" type="text/html" title="0029: Basic Transformation" />
       <published>2018-04-02T17:20:00+05:30</published>
       <updated>2018-04-02T17:20:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0029</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0029/">&lt;p&gt;What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0029</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0029/">&lt;p&gt;What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?&lt;/p&gt;</content>
 
       
       
@@ -558,11 +668,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
       <title type="html">0028: Queens</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0028/" rel="alternate" type="text/html" title="0028: Queens" />
+      <link href="http://localhost:4000/sub/pset-0028/" rel="alternate" type="text/html" title="0028: Queens" />
       <published>2018-04-02T17:15:00+05:30</published>
       <updated>2018-04-02T17:15:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0028</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0028/">&lt;p&gt;Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0028</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0028/">&lt;p&gt;Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?&lt;/p&gt;</content>
 
       
       
@@ -600,11 +710,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
       <title type="html">0027: 8 Queens Puzzle</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0027/" rel="alternate" type="text/html" title="0027: 8 Queens Puzzle" />
+      <link href="http://localhost:4000/sub/pset-0027/" rel="alternate" type="text/html" title="0027: 8 Queens Puzzle" />
       <published>2018-04-02T17:00:00+05:30</published>
       <updated>2018-04-02T17:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0027</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0027/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0027</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0027/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.&lt;/p&gt;</content>
 
       
       
@@ -642,11 +752,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
       <title type="html">0026: Uniform acceleration</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0026/" rel="alternate" type="text/html" title="0026: Uniform acceleration" />
+      <link href="http://localhost:4000/sub/pset-0026/" rel="alternate" type="text/html" title="0026: Uniform acceleration" />
       <published>2018-04-02T14:25:00+05:30</published>
       <updated>2018-04-02T14:25:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0026</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0026/">&lt;p&gt;Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
+      <id>http://localhost:4000/sub/pset-0026</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0026/">&lt;p&gt;Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
 The ball starts with a given velocity de-accelerates every time the ball hits the bounds.&lt;/p&gt;</content>
 
       
@@ -687,11 +797,11 @@ The ball starts with a given velocity de-accelerates every time the ball hits th
       
       <title type="html">Code of Conduct</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
+      <link href="http://localhost:4000/sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
       <published>2018-04-02T08:04:08+05:30</published>
       <updated>2018-04-02T08:04:08+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/code-of-conduct</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/code-of-conduct</id>
+      <content type="html" xml:base="http://localhost:4000/sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -798,11 +908,11 @@ function reveal() {
       
       <title type="html">Sharing code</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
+      <link href="http://localhost:4000/sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
       <published>2018-04-01T19:00:00+05:30</published>
       <updated>2018-04-01T19:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/sharing-code</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
+      <id>http://localhost:4000/sub/sharing-code</id>
+      <content type="html" xml:base="http://localhost:4000/sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
 
 &lt;p&gt;As an advice, you may share your code either by directly sharing the file link from GitHub or create an &lt;a href=&quot;https://gist.github.com&quot;&gt;GitHub Gist&lt;/a&gt; and share just the link.&lt;/p&gt;</content>
 
@@ -842,11 +952,11 @@ function reveal() {
       
       <title type="html">0025: Sigma Function</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
+      <link href="http://localhost:4000/sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
       <published>2018-03-30T15:10:00+05:30</published>
       <updated>2018-03-30T15:10:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0025</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0025</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
 
 &lt;p&gt;(a) S1: $1, 2, 3,…$&lt;/p&gt;
 
@@ -894,11 +1004,11 @@ function reveal() {
       
       <title type="html">0024: 10001st Prime</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
+      <link href="http://localhost:4000/sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
       <published>2018-03-30T15:02:00+05:30</published>
       <updated>2018-03-30T15:02:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0024</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0024</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;By listing the first six prime numbers: $2$, $3$, $5$, $7$, $11$, and $13$, we can see that the 6th prime is $13$.&lt;/p&gt;
 
@@ -942,11 +1052,11 @@ function reveal() {
       
       <title type="html">0023: Sum Square Difference</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
+      <link href="http://localhost:4000/sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
       <published>2018-03-30T14:35:00+05:30</published>
       <updated>2018-03-30T14:35:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0023</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0023</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The sum of the squares of the first ten natural numbers is,&lt;/p&gt;
 
@@ -986,121 +1096,6 @@ function reveal() {
 
       
         <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0022: Largest Prime Factor</title>
-      
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0022/" rel="alternate" type="text/html" title="0022: Largest Prime Factor" />
-      <published>2018-03-30T14:20:00+05:30</published>
-      <updated>2018-03-30T14:20:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0022</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0022/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The prime factors of $13195$ are $5$, $7$, $13$ and $29$.&lt;/p&gt;
-
-&lt;p&gt;What is the largest prime factor of the number $600851475143$ ?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Submitting Pset solutions</title>
-      
-      <link href="http://decodevector.mathscapes.xyz//sub/submitting-solutions/" rel="alternate" type="text/html" title="Submitting Pset solutions" />
-      <published>2018-03-30T00:20:08+05:30</published>
-      <updated>2018-03-30T00:20:08+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/submitting-solutions</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/submitting-solutions/">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create a new public GitHub repo &lt;code class=&quot;highlighter-rouge&quot;&gt;dv.pset&lt;/code&gt; under your profile. You will be submitting Pset solutions in this repo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Open Pset from the navigation above and open the problem given to you.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Commit your solution to this repo under the folder named by &lt;problem-code&gt; and ask for a review either directly (if in the class) or [here](https://github.com/mathscapes/DecodeVector/issues) if asking remotely.&lt;/problem-code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mark your progress &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/wiki/Rating&quot;&gt;here&lt;/a&gt;. Your rating will be calculated from here.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;learn-more&quot;&gt;Learn more&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/sub/using-github/&quot;&gt;Using Github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/sub/rating-system/&quot;&gt;Rating System&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In case of any queries, create a issue &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Important" />
-      
-
-      
-        <category term="Pset" />
-      
-
-      
-        <summary type="html">Create a new public GitHub repo dv.pset under your profile. You will be submitting Pset solutions in this repo.</summary>
       
 
       

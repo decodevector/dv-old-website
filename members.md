@@ -3,9 +3,10 @@ layout: page
 title: "Members"
 permalink: /members/
 ---
-| Member                           | Date of Join | Level | Rating | Problems Solved |
+
+<!-- | Member                           | Date of Join | Level | Rating | Problems Solved |
 | :-----                           | :----        | :---- | :----- | :-------------- |
-|[Simran](#){:.level-0}            | 02-04-2018   | 0     | 17     | 10              |
+|[Simran](#){:.level-0}            | 02-04-2018   | 0     | 21     | 13              |
 |[Apoorva](#){:.level-0}           | 02-04-2018   | 0     | 14     | 2               |
 |[Gaurav](#){:.level-0}            | 02-04-2018   | 0     | 12     | 8               |
 |[Pranjal](#){:.level-0}           | 02-04-2018   | 0     | 10     | 3               |
@@ -13,7 +14,7 @@ permalink: /members/
 |[Svojas](#){:.level-0}            | 03-04-2018   | 0     | 0      | 0               |
 |[Renuka](#){:.level-0}            | 03-04-2018   | 0     | 0      | 0               |
 |[Haritha](#){:.level-0}           | XX-XX-2018   | -     | -      | -               |
-|[Namrata](#){:.level-0}           | XX-XX-2018   | -     | -      | -               |
+|[Namrata](#){:.level-0}           | XX-XX-2018   | -     | -      | -               | -->
 
 ---
 
@@ -25,4 +26,4 @@ permalink: /members/
 
 The rating is calculated as per [DV Rating System](/sub/rating-system/).
 
-This page is not yet updated with the latest rating and will be updated soon.
+This page is not yet updated with the member rating and will be updated soon.

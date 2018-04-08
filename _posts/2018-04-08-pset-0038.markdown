@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0038: Solar System"
+date:   2018-04-08 18:00:00 +0530
+categories: Pset 1-Point
+tags: p5.js Simulation
+author: Gaurav Singh
+---
+Write a p5js sketch to simulate low-fidelity solar system.
+
+You may use ellipse to draw the Sun, planets and some of their moons and animate them in circular/elliptical orbit.

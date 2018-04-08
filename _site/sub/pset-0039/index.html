@@ -17,12 +17,12 @@
   
   
   
-  <title>0003: Circular Motion</title>
-  <meta name="description" content="Animate a ball to move in circular motion in P5JS.">
+  <title>0039: Insertion Sort</title>
+  <meta name="description" content="Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.">
   
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/sub/pset-0003/">
+  <link rel="canonical" href="http://localhost:4000/sub/pset-0039/">
   
   
   <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://localhost:4000/feed.xml">
@@ -32,8 +32,8 @@
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="mathscapes">
-  <meta name="twitter:title" content="0003: Circular Motion">
-  <meta name="twitter:description" content="Animate a ball to move in circular motion in P5JS.">
+  <meta name="twitter:title" content="0039: Insertion Sort">
+  <meta name="twitter:description" content="Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location...">
   
     <meta name="twitter:creator" content="mathscapes">
   
@@ -96,9 +96,9 @@
 
   <header class="post-header">
     
-      <h1 class="post-title" itemprop="name headline">0003: Circular Motion</h1>
+      <h1 class="post-title" itemprop="name headline">0039: Insertion Sort</h1>
     
-    <p class="post-meta"><time datetime="2018-02-01T14:30:08+05:30" itemprop="datePublished">Feb 1, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
+    <p class="post-meta"><time datetime="2018-04-08T18:10:00+05:30" itemprop="datePublished">Apr 8, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
   
     
     
@@ -202,8 +202,6 @@
       
     
       
-        <a href="/categories/1-point/">1-Point</a>
-      
     
       
     
@@ -215,6 +213,8 @@
     
       
     
+      
+        <a href="/categories/3-point/">3-Point</a>
       
     
       
@@ -233,74 +233,13 @@
       
     
       
-        <a href="/tags/physics/">Physics</a>,
-      
     
       
     
       
     
       
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  
-    
-    
-      
-    
-      
-    
-      
-    
-      
-        <a href="/tags/kinematics/">Kinematics</a>,
-      
-    
-      
-    
+        <a href="/tags/python/">Python</a>,
       
     
       
@@ -351,8 +290,6 @@
     
     
       
-        <a href="/tags/p5-js/">p5.js</a>
-      
     
       
     
@@ -382,6 +319,8 @@
     
       
     
+      
+        <a href="/tags/sorting/">Sorting</a>
       
     
       
@@ -414,7 +353,21 @@
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>Animate a ball to move in circular motion in P5JS.</p>
+    <p>Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.</p>
+
+<p>Sorting is typically done in-place, by iterating up the array, growing the sorted list behind it. At each array-position, it checks the value there against the largest value in the sorted list (which happens to be next to it, in the previous array-position checked). If larger, it leaves the element in place and moves to the next. If smaller, it finds the correct position within the sorted list, shifts all the larger values up to make a space, and inserts into that correct position.</p>
+
+<p>The resulting array after k iterations has the property where the first k + 1 entries are sorted (“+1” because the first entry is skipped). In each iteration the first remaining entry of the input is removed, and inserted into the result at the correct position, thus extending the result:</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Insertionsort-before.png" alt="givenlist" /></p>
+
+<p>becomes</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Insertionsort-after.png" alt="sortedpartiallist" /></p>
+
+<p>with each element greater than x copied to the right as it is compared against x.</p>
+
+<p>Implement insertion sort through a Python program.</p>
 
   </div>
 
