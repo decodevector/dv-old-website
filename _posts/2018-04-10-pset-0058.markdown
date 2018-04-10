@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "0058: Next Date"
+date:   2018-04-10 11:14:00 +0530
+categories: Pset 3-Point
+tags: Python
+author: Gaurav Singh
+---
+Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day's date.
+
+Example:
+
+_Input_:
+28 2 1992
+
+_Output_:
+29 2 1992

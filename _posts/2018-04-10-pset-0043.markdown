@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0043: Linear Search"
+date:   2018-04-10 08:51:00 +0530
+categories: Pset 1-Point
+tags: Python Searching
+author: Gaurav Singh
+---
+Implement Linear Search in Python.

@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "0042: Set Operations"
+date:   2018-04-10 08:50:00 +0530
+categories: Pset 2-Point
+tags: Python Sets
+author: Gaurav Singh
+---
+Write the following set of Python functions.
+```python
+def union(P,Q):
+    '''
+    Returns a set R (Python list) which is P UNION Q
+    '''
+    # Add your code here.
+
+def difference(P,Q):
+    '''
+    Returns a set R (Python list) which is P DIFFERENCE Q
+    '''
+    # Add your code here.
+
+def is_subset(P,Q):
+    '''
+    Returns true iff P is subset of Q
+    '''
+    # Add your code here.
+
+def powerset(P):
+    '''
+    Returns a set R (Python list) which is powerset of P
+    '''
+    # Add your code here.
+
+def symmetric_difference(P,Q):
+    '''
+    Returns a set P (Python list) which is P SYM_DIFF Q
+    '''
+    # Add your code here.
+```

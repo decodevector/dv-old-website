@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0060: Population"
+date:   2018-04-10 11:20:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.
+
+(Note: M means Million, $10^6$)

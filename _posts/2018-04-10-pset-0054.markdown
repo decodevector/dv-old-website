@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0054: Least Difference"
+date:   2018-04-10 11:00:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+Write a computer program to read a list of 10 numbers and return those two consecutive numbers from the list whose difference is least among others.

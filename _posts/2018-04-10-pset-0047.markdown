@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "0047: Special Pythagorean Triplet"
+date:   2018-04-10 09:36:00 +0530
+categories: Pset 1-Point
+tags: Python Pythagoras-Theorem
+author: Gaurav Singh
+---
+_The following problem is taken from Project Euler._
+
+A Pythagorean triplet is a set of three natural numbers, $a < b < c$, for which,
+
+$$a^2 + b^2 = c^2$$
+
+For example, $ 32 + 42 = 9 + 16 = 25 = 52 $.
+
+There exists exactly one Pythagorean triplet for which $a + b + c = 1000$.
+
+Find the product $abc$.

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0045: Travelling Salesman Problem"
+date:   2018-04-10 09:00:00 +0530
+categories: Pset 5-Point
+tags: Python Combinatorial-Optimization Graphs
+author: Gaurav Singh
+---
+Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?
+
+Write a Python program to read a undirected weighted graph and return a single shortest possible route.

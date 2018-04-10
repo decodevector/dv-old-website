@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "0041: Temperature Conversion"
+date:   2018-04-10 08:34:00 +0530
+categories: Pset 0-Point
+tags: Python Physics
+author: Gaurav Singh
+---
+Write the following set of Python functions.
+```python
+def celsius(f):
+    '''
+    Returns the Celsius equivalent of Fahrenheit input
+    '''
+    # Add your code here.
+
+def fahrenheit(c):
+    '''
+    Returns the Fahrenheit equivalent of Celsius input
+    '''
+    # Add your code here.
+```

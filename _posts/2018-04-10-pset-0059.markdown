@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "0059: Dumb Monkey"
+date:   2018-04-10 11:18:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.
+
+_Test Case:_
+```
+10
+NO
+```
+
+```
+11
+YES
+```

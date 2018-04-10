@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0056: High/Low Number Guessing Game"
+date:   2018-04-10 11:07:00 +0530
+categories: Pset 2-Point
+tags: Python
+author: Gaurav Singh
+---
+Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either 'High' (if user guess is higher than the program's number), 'Low' or 'Correct'. The program displays the count of attempts taken by user to correctly guess the number.

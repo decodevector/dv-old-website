@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-04-08T18:29:25+05:30</updated>
-  <id>http://localhost:4000//</id>
+  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
+  <updated>2018-04-10T11:39:50+05:30</updated>
+  <id>http://decodevector.mathscapes.xyz///</id>
 
   
     <title type="html">DecodeVector</title>
@@ -26,27 +26,168 @@
   
     <entry>
       
-      <title type="html">0039: Insertion Sort</title>
+      <title type="html">0061: Repeated Numbers</title>
       
-      <link href="http://localhost:4000/sub/pset-0039/" rel="alternate" type="text/html" title="0039: Insertion Sort" />
-      <published>2018-04-08T18:10:00+05:30</published>
-      <updated>2018-04-08T18:10:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0039</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0039/">&lt;p&gt;Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.&lt;/p&gt;
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0061/" rel="alternate" type="text/html" title="0061: Repeated Numbers" />
+      <published>2018-04-10T11:25:00+05:30</published>
+      <updated>2018-04-10T11:25:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0061</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0061/">&lt;p&gt;Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).&lt;/p&gt;
 
-&lt;p&gt;Sorting is typically done in-place, by iterating up the array, growing the sorted list behind it. At each array-position, it checks the value there against the largest value in the sorted list (which happens to be next to it, in the previous array-position checked). If larger, it leaves the element in place and moves to the next. If smaller, it finds the correct position within the sorted list, shifts all the larger values up to make a space, and inserts into that correct position.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 0 1 2 4 5 6 7 6 5 6&lt;/p&gt;
 
-&lt;p&gt;The resulting array after k iterations has the property where the first k + 1 entries are sorted (“+1” because the first entry is skipped). In each iteration the first remaining entry of the input is removed, and inserted into the result at the correct position, thus extending the result:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; 5 6&lt;/p&gt;</content>
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/32/Insertionsort-before.png&quot; alt=&quot;givenlist&quot; /&gt;&lt;/p&gt;
+      
+      
+      
+      
+      
 
-&lt;p&gt;becomes&lt;/p&gt;
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/d9/Insertionsort-after.png&quot; alt=&quot;sortedpartiallist&quot; /&gt;&lt;/p&gt;
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
 
-&lt;p&gt;with each element greater than x copied to the right as it is compared against x.&lt;/p&gt;
+      
+        <category term="Python" />
+      
 
-&lt;p&gt;Implement insertion sort through a Python program.&lt;/p&gt;</content>
+      
+        <summary type="html">Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0060: Population</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0060/" rel="alternate" type="text/html" title="0060: Population" />
+      <published>2018-04-10T11:20:00+05:30</published>
+      <updated>2018-04-10T11:20:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0060</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0060/">&lt;p&gt;The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.&lt;/p&gt;
+
+&lt;p&gt;(Note: M means Million, $10^6$)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0059: Dumb Monkey</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0059/" rel="alternate" type="text/html" title="0059: Dumb Monkey" />
+      <published>2018-04-10T11:18:00+05:30</published>
+      <updated>2018-04-10T11:18:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0059</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0059/">&lt;p&gt;Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Test Case:&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10
+NO
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;11
+YES
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0058: Next Date</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0058/" rel="alternate" type="text/html" title="0058: Next Date" />
+      <published>2018-04-10T11:14:00+05:30</published>
+      <updated>2018-04-10T11:14:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0058</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0058/">&lt;p&gt;Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input&lt;/em&gt;:
+28 2 1992&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output&lt;/em&gt;:
+29 2 1992&lt;/p&gt;</content>
 
       
       
@@ -71,11 +212,9 @@
       
         <category term="Python" />
       
-        <category term="Sorting" />
-      
 
       
-        <summary type="html">Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.</summary>
+        <summary type="html">Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.</summary>
       
 
       
@@ -86,15 +225,20 @@
   
     <entry>
       
-      <title type="html">0038: Solar System</title>
+      <title type="html">0057: Consecutive Numbers</title>
       
-      <link href="http://localhost:4000/sub/pset-0038/" rel="alternate" type="text/html" title="0038: Solar System" />
-      <published>2018-04-08T18:00:00+05:30</published>
-      <updated>2018-04-08T18:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0038</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0038/">&lt;p&gt;Write a p5js sketch to simulate low-fidelity solar system.&lt;/p&gt;
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0057/" rel="alternate" type="text/html" title="0057: Consecutive Numbers" />
+      <published>2018-04-10T11:08:00+05:30</published>
+      <updated>2018-04-10T11:08:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0057</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0057/">&lt;p&gt;Write a computer program that reads n, prints following -&lt;/p&gt;
 
-&lt;p&gt;You may use ellipse to draw the Sun, planets and some of their moons and animate them in circular/elliptical orbit.&lt;/p&gt;</content>
+&lt;p&gt;If n=3,&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1
+2  3
+4  5  6
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
       
@@ -117,113 +261,11 @@
       
 
       
-        <category term="p5.js" />
-      
-        <category term="Simulation" />
-      
-
-      
-        <summary type="html">Write a p5js sketch to simulate low-fidelity solar system.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Reporting bugs</title>
-      
-      <link href="http://localhost:4000/sub/reporting/" rel="alternate" type="text/html" title="Reporting bugs" />
-      <published>2018-04-05T08:04:08+05:30</published>
-      <updated>2018-04-05T08:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/reporting</id>
-      <content type="html" xml:base="http://localhost:4000/sub/reporting/">&lt;p&gt;Please post your bugs/suggestions by creating a issue &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Important" />
-      
-
-      
-
-      
-        <summary type="html">Please post your bugs/suggestions by creating a issue here.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0037: Number Word</title>
-      
-      <link href="http://localhost:4000/sub/pset-0037/" rel="alternate" type="text/html" title="0037: Number Word" />
-      <published>2018-04-03T01:00:00+05:30</published>
-      <updated>2018-04-03T01:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0037</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0037/">&lt;p&gt;Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.&lt;/p&gt;
-
-&lt;p&gt;Example:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 99&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; Ninety Nine&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; One&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 1000000&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; One Million&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="4-Point" />
-      
-
-      
         <category term="Python" />
       
 
       
-        <summary type="html">Write a computer program that reads a number (not more than 999 Million), and prints the name of the number.</summary>
+        <summary type="html">Write a computer program that reads n, prints following -</summary>
       
 
       
@@ -234,23 +276,13 @@
   
     <entry>
       
-      <title type="html">0036: Smallest Pair</title>
+      <title type="html">0056: High/Low Number Guessing Game</title>
       
-      <link href="http://localhost:4000/sub/pset-0036/" rel="alternate" type="text/html" title="0036: Smallest Pair" />
-      <published>2018-04-03T00:57:00+05:30</published>
-      <updated>2018-04-03T00:57:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0036</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0036/">&lt;p&gt;Write a program that reads 10 numbers and print the smallest pair.&lt;/p&gt;
-
-&lt;p&gt;Example:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;7 9 3 5 4 2 1 4 6 8&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;2 1 (OR) 1 2&lt;/p&gt;</content>
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0056/" rel="alternate" type="text/html" title="0056: High/Low Number Guessing Game" />
+      <published>2018-04-10T11:07:00+05:30</published>
+      <updated>2018-04-10T11:07:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0056</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0056/">&lt;p&gt;Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.&lt;/p&gt;</content>
 
       
       
@@ -277,7 +309,7 @@
       
 
       
-        <summary type="html">Write a program that reads 10 numbers and print the smallest pair.</summary>
+        <summary type="html">Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.</summary>
       
 
       
@@ -288,25 +320,312 @@
   
     <entry>
       
-      <title type="html">0035: Curtains</title>
+      <title type="html">0053: Ascending or Descending</title>
       
-      <link href="http://localhost:4000/sub/pset-0035/" rel="alternate" type="text/html" title="0035: Curtains" />
-      <published>2018-04-03T00:55:00+05:30</published>
-      <updated>2018-04-03T00:55:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0035</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0035/">&lt;p&gt;Write a computer program that prints like following.&lt;/p&gt;
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0055/" rel="alternate" type="text/html" title="0053: Ascending or Descending" />
+      <published>2018-04-10T11:04:00+05:30</published>
+      <updated>2018-04-10T11:04:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0055</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0055/">&lt;p&gt;Write a computer program to read a list of 5 numbers and your program should be able to tell whether the list sequence is Ascending, Descending, None.&lt;/p&gt;</content>
 
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
-Vector&lt;/p&gt;
+      
+      
+      
+      
+      
 
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;&lt;/p&gt;
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;V
-Ve
-Vec
-Vect
-Vecto
-Vector
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program to read a list of 5 numbers and your program should be able to tell whether the list sequence is Ascending, Descending, None.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0054: Least Difference</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0054/" rel="alternate" type="text/html" title="0054: Least Difference" />
+      <published>2018-04-10T11:00:00+05:30</published>
+      <updated>2018-04-10T11:00:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0054</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0054/">&lt;p&gt;Write a computer program to read a list of 10 numbers and return those two consecutive numbers from the list whose difference is least among others.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program to read a list of 10 numbers and return those two consecutive numbers from the list whose difference is least among others.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0053: Cross and Naught</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0053/" rel="alternate" type="text/html" title="0053: Cross and Naught" />
+      <published>2018-04-10T11:00:00+05:30</published>
+      <updated>2018-04-10T11:00:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0053</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0053/">&lt;p&gt;Implement a (Command-line based) 2-player Cross and Naught game in Python.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="5-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Implement a (Command-line based) 2-player Cross and Naught game in Python.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0052: Longest Collatz Sequence</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0052/" rel="alternate" type="text/html" title="0052: Longest Collatz Sequence" />
+      <published>2018-04-10T10:00:00+05:30</published>
+      <updated>2018-04-10T10:00:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0052</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0052/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LqKpkdRRLZw?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The following iterative sequence is defined for the set of positive integers:&lt;/p&gt;
+
+&lt;p&gt;$ n → \frac{n}{2} $ ($n$ is even)&lt;/p&gt;
+
+&lt;p&gt;$ n → 3n + 1 $ ($n$ is odd)&lt;/p&gt;
+
+&lt;p&gt;Using the rule above and starting with $13$, we generate the following sequence:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1&lt;/script&gt;
+
+&lt;p&gt;It can be seen that this sequence (starting at $13$ and finishing at $1$) contains $10$ terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.&lt;/p&gt;
+
+&lt;p&gt;Which starting number, under one million, produces the longest chain?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;NOTE: Once the chain starts the terms are allowed to go above one million.&lt;/em&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="5-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Collatz-Conjecture" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0051: Large Sum</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0051/" rel="alternate" type="text/html" title="0051: Large Sum" />
+      <published>2018-04-10T09:55:00+05:30</published>
+      <updated>2018-04-10T09:55:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0051</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0051/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;37107287533902102798797998220837590246510135740250
+46376937677490009712648124896970078050417018260538
+74324986199524741059474233309513058123726617309629
+91942213363574161572522430563301811072406154908250
+23067588207539346171171980310421047513778063246676
+89261670696623633820136378418383684178734361726757
+28112879812849979408065481931592621691275889832738
+44274228917432520321923589422876796487670272189318
+47451445736001306439091167216856844588711603153276
+70386486105843025439939619828917593665686757934951
+62176457141856560629502157223196586755079324193331
+64906352462741904929101432445813822663347944758178
+92575867718337217661963751590579239728245598838407
+58203565325359399008402633568948830189458628227828
+80181199384826282014278194139940567587151170094390
+35398664372827112653829987240784473053190104293586
+86515506006295864861532075273371959191420517255829
+71693888707715466499115593487603532921714970056938
+54370070576826684624621495650076471787294438377604
+53282654108756828443191190634694037855217779295145
+36123272525000296071075082563815656710885258350721
+45876576172410976447339110607218265236877223636045
+17423706905851860660448207621209813287860733969412
+81142660418086830619328460811191061556940512689692
+51934325451728388641918047049293215058642563049483
+62467221648435076201727918039944693004732956340691
+15732444386908125794514089057706229429197107928209
+55037687525678773091862540744969844508330393682126
+18336384825330154686196124348767681297534375946515
+80386287592878490201521685554828717201219257766954
+78182833757993103614740356856449095527097864797581
+16726320100436897842553539920931837441497806860984
+48403098129077791799088218795327364475675590848030
+87086987551392711854517078544161852424320693150332
+59959406895756536782107074926966537676326235447210
+69793950679652694742597709739166693763042633987085
+41052684708299085211399427365734116182760315001271
+65378607361501080857009149939512557028198746004375
+35829035317434717326932123578154982629742552737307
+94953759765105305946966067683156574377167401875275
+88902802571733229619176668713819931811048770190271
+25267680276078003013678680992525463401061632866526
+36270218540497705585629946580636237993140746255962
+24074486908231174977792365466257246923322810917141
+91430288197103288597806669760892938638285025333403
+34413065578016127815921815005561868836468420090470
+23053081172816430487623791969842487255036638784583
+11487696932154902810424020138335124462181441773470
+63783299490636259666498587618221225225512486764533
+67720186971698544312419572409913959008952310058822
+95548255300263520781532296796249481641953868218774
+76085327132285723110424803456124867697064507995236
+37774242535411291684276865538926205024910326572967
+23701913275725675285653248258265463092207058596522
+29798860272258331913126375147341994889534765745501
+18495701454879288984856827726077713721403798879715
+38298203783031473527721580348144513491373226651381
+34829543829199918180278916522431027392251122869539
+40957953066405232632538044100059654939159879593635
+29746152185502371307642255121183693803580388584903
+41698116222072977186158236678424689157993532961922
+62467957194401269043877107275048102390895523597457
+23189706772547915061505504953922979530901129967519
+86188088225875314529584099251203829009407770775672
+11306739708304724483816533873502340845647058077308
+82959174767140363198008187129011875491310547126581
+97623331044818386269515456334926366572897563400500
+42846280183517070527831839425882145521227251250327
+55121603546981200581762165212827652751691296897789
+32238195734329339946437501907836945765883352399886
+75506164965184775180738168837861091527357929701337
+62177842752192623401942399639168044983993173312731
+32924185707147349566916674687634660915035914677504
+99518671430235219628894890102423325116913619626622
+73267460800591547471830798392868535206946944540724
+76841822524674417161514036427982273348055556214818
+97142617910342598647204516893989422179826088076852
+87783646182799346313767754307809363333018982642090
+10848802521674670883215120185883543223812876952786
+71329612474782464538636993009049310363619763878039
+62184073572399794223406235393808339651327408011116
+66627891981488087797941876876144230030984490851411
+60661826293682836764744779239180335110989069790714
+85786944089552990653640447425576083659976645795096
+66024396409905389607120198219976047599490197230297
+64913982680032973156037120041377903785566085089252
+16730939319872750275468906903707539413042652315011
+94809377245048795150954100921645863754710598436791
+78639167021187492431995700641917969777599028300699
+15368713711936614952811305876380278410754449733078
+40789923115535562561142322423255033685442488917353
+44889911501440648020369068063960672322193204149535
+41503128880339536053299340368006977710650566631954
+81234880673210146739058568557934581403627822703280
+82616570773948327592232845941706525094512325230608
+22918802058777319719839450180888072429661980811197
+77158542502016545090413245809786882778948721859617
+72107838435069186155435662884062257473692284509516
+20849603980134001723930671666823555245252804609722
+53503534226472524250874054075591789781264330331690
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
@@ -334,7 +653,7 @@ Vector
       
 
       
-        <summary type="html">Write a computer program that prints like following.</summary>
+        <summary type="html">The following problem is taken from Project Euler.</summary>
       
 
       
@@ -345,21 +664,31 @@ Vector
   
     <entry>
       
-      <title type="html">0034: Is divisible?</title>
+      <title type="html">0050: Highly Divisible Triangle Number</title>
       
-      <link href="http://localhost:4000/sub/pset-0034/" rel="alternate" type="text/html" title="0034: Is divisible?" />
-      <published>2018-04-03T00:52:00+05:30</published>
-      <updated>2018-04-03T00:52:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0034</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0034/">&lt;p&gt;Write a function to return the count of all integers divisible by 7 between 1 and a given number n.&lt;/p&gt;
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0050/" rel="alternate" type="text/html" title="0050: Highly Divisible Triangle Number" />
+      <published>2018-04-10T09:50:00+05:30</published>
+      <updated>2018-04-10T09:50:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0050</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0050/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
+&lt;p&gt;The sequence of triangle numbers is generated by adding the natural numbers. So the 7th triangle number would be $1 + 2 + 3 + 4 + 5 + 6 + 7 = 28$. The first ten terms would be:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
-15&lt;/p&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...&lt;/script&gt;
 
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;
-2&lt;/p&gt;</content>
+&lt;p&gt;Let us list the factors of the first seven triangle numbers:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     1: 1
+     3: 1,3
+     6: 1,2,3,6
+    10: 1,2,5,10
+    15: 1,3,5,15
+    21: 1,3,7,21
+    28: 1,2,4,7,14,28
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We can see that 28 is the first triangle number to have over five divisors.&lt;/p&gt;
+
+&lt;p&gt;What is the value of the first triangle number to have over five hundred divisors?&lt;/p&gt;</content>
 
       
       
@@ -378,7 +707,7 @@ Vector
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="1-Point" />
       
 
       
@@ -386,7 +715,7 @@ Vector
       
 
       
-        <summary type="html">Write a function to return the count of all integers divisible by 7 between 1 and a given number n.</summary>
+        <summary type="html">The following problem is taken from Project Euler.</summary>
       
 
       
@@ -397,21 +726,41 @@ Vector
   
     <entry>
       
-      <title type="html">0033: Star Pattern</title>
+      <title type="html">0049: Largest Product in a Grid</title>
       
-      <link href="http://localhost:4000/sub/pset-0033/" rel="alternate" type="text/html" title="0033: Star Pattern" />
-      <published>2018-04-03T00:50:00+05:30</published>
-      <updated>2018-04-03T00:50:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0033</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0033/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;starPattern(n)&lt;/code&gt; which prints following.&lt;/p&gt;
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0049/" rel="alternate" type="text/html" title="0049: Largest Product in a Grid" />
+      <published>2018-04-10T09:40:00+05:30</published>
+      <updated>2018-04-10T09:40:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0049</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0049/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;If n=5:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* * * * *
-* * * *
-* * *
-* *
-*
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+&lt;p&gt;In the 20×20 grid below, four numbers along a diagonal line have been marked by square brackets.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;mi&quot;&gt;08&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;02&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;22&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;97&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;38&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;75&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;05&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;07&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;78&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;77&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;91&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;08&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;49&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;49&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;99&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;81&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;18&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;87&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;98&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;43&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;48&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;62&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;81&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;49&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;73&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;79&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;93&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;71&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;53&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;03&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;49&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;65&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;70&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;95&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;68&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;01&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;71&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;37&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;02&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;91&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;22&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;71&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;51&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;63&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;41&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;92&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;22&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;28&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;66&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;47&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;99&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;03&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;45&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;02&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;44&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;75&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;53&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;78&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;84&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;98&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;81&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;28&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;64&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;26&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;38&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;59&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;70&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;66&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;18&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;38&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;64&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;70&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;26&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;68&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;02&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;62&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;95&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;63&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;94&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;39&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;63&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;08&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;91&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;66&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;49&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;94&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;21&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;58&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;05&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;66&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;73&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;99&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;26&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;97&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;78&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;78&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;96&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;83&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;34&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;63&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;72&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;21&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;09&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;75&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;76&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;44&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;45&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;61&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;97&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;34&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;95&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;78&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;53&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;28&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;22&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;75&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;94&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;03&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;62&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;09&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;53&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;92&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;39&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;05&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;96&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;47&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;58&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;85&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;86&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;00&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;48&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;71&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;07&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;05&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;44&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;44&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;37&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;44&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;21&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;58&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;51&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;58&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;81&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;68&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;05&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;94&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;47&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;28&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;73&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;92&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;86&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;77&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt;
+&lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;08&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;83&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;97&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;99&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;07&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;97&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;26&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;26&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;79&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;27&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;98&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;66&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;68&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;87&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;62&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;72&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;03&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;46&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;46&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;63&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;93&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;53&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt;
+&lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;73&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;38&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;25&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;39&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;94&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;72&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;18&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;08&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;46&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;62&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;76&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;41&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;72&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;34&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;62&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;99&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;82&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;59&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;85&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;74&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;04&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;
+&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;73&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;78&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;01&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;74&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;49&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;71&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;48&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;86&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;81&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;05&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt;
+&lt;span class=&quot;mo&quot;&gt;01&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;70&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;71&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;83&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;51&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;69&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;92&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;48&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;61&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;43&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt; &lt;span class=&quot;mo&quot;&gt;01&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;48&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The product of these numbers is $26 × 63 × 78 × 14 = 1788696$.&lt;/p&gt;
+
+&lt;p&gt;What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?&lt;/p&gt;</content>
 
       
       
@@ -430,15 +779,17 @@ Vector
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="1-Point" />
       
 
       
         <category term="Python" />
       
+        <category term="Combinatorial-Optimization" />
+      
 
       
-        <summary type="html">Write a function starPattern(n) which prints following.</summary>
+        <summary type="html">The following problem is taken from Project Euler.</summary>
       
 
       
@@ -449,17 +800,193 @@ Vector
   
     <entry>
       
-      <title type="html">0032: 0/1 Knapsack</title>
+      <title type="html">0048: Summation of Primes</title>
       
-      <link href="http://localhost:4000/sub/pset-0032/" rel="alternate" type="text/html" title="0032: 0/1 Knapsack" />
-      <published>2018-04-03T00:40:00+05:30</published>
-      <updated>2018-04-03T00:40:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0032</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0032/">&lt;p&gt;Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).&lt;/p&gt;
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0048/" rel="alternate" type="text/html" title="0048: Summation of Primes" />
+      <published>2018-04-10T09:39:00+05:30</published>
+      <updated>2018-04-10T09:39:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0048</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0048/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Maximize $ \sum_{i=0}^{n}{v_i x_i}$&lt;/p&gt;
+&lt;p&gt;The sum of the primes below $10$ is $2 + 3 + 5 + 7 = 17$.&lt;/p&gt;
 
-&lt;p&gt;provided  $ \sum_{i=0}^{n}{w_i x_i} \le 0 $ and $x \in {0,1}$&lt;/p&gt;</content>
+&lt;p&gt;Find the sum of all the primes below two million.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Primes" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0047: Special Pythagorean Triplet</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0047/" rel="alternate" type="text/html" title="0047: Special Pythagorean Triplet" />
+      <published>2018-04-10T09:36:00+05:30</published>
+      <updated>2018-04-10T09:36:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0047</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0047/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A Pythagorean triplet is a set of three natural numbers, $a &amp;lt; b &amp;lt; c$, for which,&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;a^2 + b^2 = c^2&lt;/script&gt;
+
+&lt;p&gt;For example, $ 32 + 42 = 9 + 16 = 25 = 52 $.&lt;/p&gt;
+
+&lt;p&gt;There exists exactly one Pythagorean triplet for which $a + b + c = 1000$.&lt;/p&gt;
+
+&lt;p&gt;Find the product $abc$.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Pythagoras-Theorem" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0046: Largest product in a series</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0046/" rel="alternate" type="text/html" title="0046: Largest product in a series" />
+      <published>2018-04-10T09:33:00+05:30</published>
+      <updated>2018-04-10T09:33:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0046</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0046/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;73167176531330624919225119674426574742355349194934
+96983520312774506326239578318016984801869478851843
+85861560789112949495459501737958331952853208805511
+12540698747158523863050715693290963295227443043557
+66896648950445244523161731856403098711121722383113
+62229893423380308135336276614282806444486645238749
+30358907296290491560440772390713810515859307960866
+70172427121883998797908792274921901699720888093776
+65727333001053367881220235421809751254540594752243
+52584907711670556013604839586446706324415722155397
+53697817977846174064955149290862569321978468622482
+83972241375657056057490261407972968652414535100474
+82166370484403199890008895243450658541227588666881
+16427171479924442928230863465674813919123162824586
+17866458359124566529476545682848912883142607690042
+24219022671055626321111109370544217506941658960408
+07198403850962455444362981230987879927244284909188
+84580156166097919133875499200524063689912560717606
+05886116467109405077541002256983155200055935729725
+71636269561882670428252483600823257530420752963450
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Combinatorial-Optimization" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0045: Travelling Salesman Problem</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0045/" rel="alternate" type="text/html" title="0045: Travelling Salesman Problem" />
+      <published>2018-04-10T09:00:00+05:30</published>
+      <updated>2018-04-10T09:00:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0045</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0045/">&lt;p&gt;Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?&lt;/p&gt;
+
+&lt;p&gt;Write a Python program to read a undirected weighted graph and return a single shortest possible route.&lt;/p&gt;</content>
 
       
       
@@ -486,9 +1013,11 @@ Vector
       
         <category term="Combinatorial-Optimization" />
       
+        <category term="Graphs" />
+      
 
       
-        <summary type="html">Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item, or don’t pick it (0-1 property).</summary>
+        <summary type="html">Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?</summary>
       
 
       
@@ -499,41 +1028,13 @@ Vector
   
     <entry>
       
-      <title type="html">0031: Bubble Sort</title>
+      <title type="html">0044: Hamiltonion Circuits</title>
       
-      <link href="http://localhost:4000/sub/pset-0031/" rel="alternate" type="text/html" title="0031: Bubble Sort" />
-      <published>2018-04-03T00:30:00+05:30</published>
-      <updated>2018-04-03T00:30:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0031</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0031/">&lt;p&gt;Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-by-step-example&quot;&gt;Step-by-step example&lt;/h3&gt;
-
-&lt;p&gt;Let us take the array of numbers “5 1 4 2 8”, and sort the array from lowest number to greatest number using bubble sort. In each step, elements written in bold are being compared. Three passes will be required.&lt;/p&gt;
-
-&lt;h4 id=&quot;first-pass&quot;&gt;First Pass&lt;/h4&gt;
-
-&lt;p&gt;( &lt;strong&gt;5 1&lt;/strong&gt; 4 2 8 ) $\to$ ( &lt;strong&gt;1 5&lt;/strong&gt; 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 &amp;gt; 1.&lt;br /&gt;
-( 1 &lt;strong&gt;5 4&lt;/strong&gt; 2 8 ) $\to$ ( 1 &lt;strong&gt;4 5&lt;/strong&gt; 2 8 ), Swap since 5 &amp;gt; 4&lt;br /&gt;
-( 1 4 &lt;strong&gt;5 2&lt;/strong&gt; 8 ) $\to$ ( 1 4 &lt;strong&gt;2 5&lt;/strong&gt; 8 ), Swap since 5 &amp;gt; 2&lt;br /&gt;
-( 1 4 2 &lt;strong&gt;5 8&lt;/strong&gt; ) $\to$ ( 1 4 2 &lt;strong&gt;5 8&lt;/strong&gt; ), Now, since these elements are already in order (8 &amp;gt; 5), algorithm does not swap them.&lt;/p&gt;
-
-&lt;h4 id=&quot;second-pass&quot;&gt;Second Pass&lt;/h4&gt;
-
-&lt;p&gt;( &lt;strong&gt;1 4&lt;/strong&gt; 2 5 8 ) $\to$ ( &lt;strong&gt;1 4&lt;/strong&gt; 2 5 8 )&lt;br /&gt;
-( 1 &lt;strong&gt;4 2&lt;/strong&gt; 5 8 ) $\to$ Swap since 4 &amp;gt; 2&lt;br /&gt;
-( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 ) $\to$ ( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 )&lt;br /&gt;
-( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; ) $\to$ ( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; )&lt;br /&gt;
-Now, the array is already sorted, but the algorithm does not know if it is completed. The algorithm needs one whole pass without any swap to know it is sorted.&lt;/p&gt;
-
-&lt;h4 id=&quot;third-pass&quot;&gt;Third Pass&lt;/h4&gt;
-
-&lt;p&gt;( &lt;strong&gt;1 2&lt;/strong&gt; 4 5 8 ) $\to$ ( &lt;strong&gt;1 2&lt;/strong&gt; 4 5 8 )&lt;br /&gt;
-( 1 &lt;strong&gt;2 4&lt;/strong&gt; 5 8 ) $\to$ ( 1 &lt;strong&gt;2 4&lt;/strong&gt; 5 8 )&lt;br /&gt;
-( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 ) $\to$ ( 1 2 &lt;strong&gt;4 5&lt;/strong&gt; 8 )&lt;br /&gt;
-( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; ) $\to$ ( 1 2 4 &lt;strong&gt;5 8&lt;/strong&gt; )&lt;/p&gt;
-
-&lt;p&gt;Implement Bubble sort through a Python program.&lt;/p&gt;</content>
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0044/" rel="alternate" type="text/html" title="0044: Hamiltonion Circuits" />
+      <published>2018-04-10T08:54:00+05:30</published>
+      <updated>2018-04-10T08:54:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0044</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0044/">&lt;p&gt;Write a Python program to read a undirected weighted graph and returns a list of all possible hamiltonion circuits.&lt;/p&gt;</content>
 
       
       
@@ -558,11 +1059,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
         <category term="Python" />
       
-        <category term="Sorting" />
+        <category term="Graphs" />
       
 
       
-        <summary type="html">Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.</summary>
+        <summary type="html">Write a Python program to read a undirected weighted graph and returns a list of all possible hamiltonion circuits.</summary>
       
 
       
@@ -573,20 +1074,13 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
   
     <entry>
       
-      <title type="html">0030: Multiplying arbitrary long numbers</title>
+      <title type="html">0043: Linear Search</title>
       
-      <link href="http://localhost:4000/sub/pset-0030/" rel="alternate" type="text/html" title="0030: Multiplying arbitrary long numbers" />
-      <published>2018-04-02T17:30:00+05:30</published>
-      <updated>2018-04-02T17:30:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0030</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0030/">&lt;p&gt;Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      1 2 3 4
-    x 5 6 7 8
--------------
-7 0 0 6 6 5 2
--------------
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0043/" rel="alternate" type="text/html" title="0043: Linear Search" />
+      <published>2018-04-10T08:51:00+05:30</published>
+      <updated>2018-04-10T08:51:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0043</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0043/">&lt;p&gt;Implement Linear Search in Python.&lt;/p&gt;</content>
 
       
       
@@ -605,57 +1099,17 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
         <category term="Pset" />
       
-        <category term="5-Point" />
+        <category term="1-Point" />
       
 
       
         <category term="Python" />
       
-
-      
-        <summary type="html">Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.</summary>
+        <category term="Searching" />
       
 
       
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0029: Basic Transformation</title>
-      
-      <link href="http://localhost:4000/sub/pset-0029/" rel="alternate" type="text/html" title="0029: Basic Transformation" />
-      <published>2018-04-02T17:20:00+05:30</published>
-      <updated>2018-04-02T17:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0029</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0029/">&lt;p&gt;What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-
-      
-        <summary type="html">What are the coordinates of each of the vertices of a 1 unit cube (of homogenous mass) with its centre(of mass) at (0,0,0) when rotated 45 degrees along z-axis about the origin (0,0,0)?</summary>
+        <summary type="html">Implement Linear Search in Python.</summary>
       
 
       
@@ -666,55 +1120,43 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
   
     <entry>
       
-      <title type="html">0028: Queens</title>
+      <title type="html">0042: Set Operations</title>
       
-      <link href="http://localhost:4000/sub/pset-0028/" rel="alternate" type="text/html" title="0028: Queens" />
-      <published>2018-04-02T17:15:00+05:30</published>
-      <updated>2018-04-02T17:15:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0028</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0028/">&lt;p&gt;Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?&lt;/p&gt;</content>
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0042/" rel="alternate" type="text/html" title="0042: Set Operations" />
+      <published>2018-04-10T08:50:00+05:30</published>
+      <updated>2018-04-10T08:50:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0042</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0042/">&lt;p&gt;Write the following set of Python functions.&lt;/p&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;union&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'''
+    Returns a set R (Python list) which is P UNION Q
+    '''&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
 
-      
-      
-      
-      
-      
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;difference&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'''
+    Returns a set R (Python list) which is P DIFFERENCE Q
+    '''&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
 
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;is_subset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'''
+    Returns true iff P is subset of Q
+    '''&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
 
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;powerset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'''
+    Returns a set R (Python list) which is powerset of P
+    '''&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
 
-      
-
-      
-        <summary type="html">Given an 8x8 chess board, what is the is the minimum number of queens needed to attack or occupy every square?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0027: 8 Queens Puzzle</title>
-      
-      <link href="http://localhost:4000/sub/pset-0027/" rel="alternate" type="text/html" title="0027: 8 Queens Puzzle" />
-      <published>2018-04-02T17:00:00+05:30</published>
-      <updated>2018-04-02T17:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0027</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0027/">&lt;p&gt;The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.&lt;/p&gt;</content>
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;symmetric_difference&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'''
+    Returns a set P (Python list) which is P SYM_DIFF Q
+    '''&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
       
@@ -737,365 +1179,13 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
       
 
       
-
-      
-        <summary type="html">The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0026: Uniform acceleration</title>
-      
-      <link href="http://localhost:4000/sub/pset-0026/" rel="alternate" type="text/html" title="0026: Uniform acceleration" />
-      <published>2018-04-02T14:25:00+05:30</published>
-      <updated>2018-04-02T14:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0026</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0026/">&lt;p&gt;Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas.
-The ball starts with a given velocity de-accelerates every time the ball hits the bounds.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
         <category term="Python" />
       
-
-      
-        <summary type="html">Write a p5.js sketch to move a ball to and fro (horizontally) between the bounds of the canvas. The ball starts with a given velocity de-accelerates every time the ball hits the bounds.</summary>
+        <category term="Sets" />
       
 
       
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Code of Conduct</title>
-      
-      <link href="http://localhost:4000/sub/code-of-conduct/" rel="alternate" type="text/html" title="Code of Conduct" />
-      <published>2018-04-02T08:04:08+05:30</published>
-      <updated>2018-04-02T08:04:08+05:30</updated>
-      <id>http://localhost:4000/sub/code-of-conduct</id>
-      <content type="html" xml:base="http://localhost:4000/sub/code-of-conduct/">&lt;p&gt;&lt;big&gt;This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.&lt;/big&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This code of conduct outlines our expectations for participants within the DecodeVector group, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring group for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be asked to exit from the group.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Morality cannot be legislated, but behavior can be regulated.”&lt;br /&gt;
-– Dr. Martin Luther King, Jr.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;our-decodevector-group-strives-to&quot;&gt;Our DecodeVector group strives to:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Be friendly and patient.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Be welcoming:&lt;/em&gt; We strive to be a group that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Be considerate:&lt;/em&gt; Your work will be used by other people, and you, in turn, will depend on the work of others. Any decision you take will affect other members, and you should take those consequences into account when making decisions.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Be respectful:&lt;/em&gt; Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Be careful with the words that we choose:&lt;/em&gt; We are a group of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Try to understand why we disagree:&lt;/em&gt; Disagreements, both social and technical, happen all the time. It is essential that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our group comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;leadership-authority-and-responsibility&quot;&gt;Leadership, authority, and responsibility&lt;/h3&gt;
-&lt;p&gt;We all lead by example, in debate and in action. We encourage new members to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.&lt;/p&gt;
-
-&lt;h4 id=&quot;delegation-from-the-top&quot;&gt;Delegation from the top&lt;/h4&gt;
-&lt;p&gt;Responsibility within DecodeVector starts with the “benevolent dictator”, who delegates specific responsibilities and the corresponding authority to a series of teams. Its delegated representative will arbitrate in any dispute.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We are a meritocracy&lt;/strong&gt;; we delegate decision making, organisation and leadership from senior bodies to the most able and engaged candidates.&lt;/p&gt;
-
-&lt;p&gt;DecodeVector group runs through linear organisation – which means the position and relations of leader and sub-member are arranged and oriented vertically. Each leader has clearly assigned sub-members and each sub-members has clearly assigned leader. The role is decided on a timely basis based on the &lt;a href=&quot;/sub/rating-system/&quot;&gt;rating&lt;/a&gt; of the member.&lt;/p&gt;
-
-&lt;h4 id=&quot;we-value-discussion-data-and-decisiveness&quot;&gt;We value discussion, data and decisiveness&lt;/h4&gt;
-&lt;p&gt;We gather opinions, data and commitments from concerned members before taking a decision. We expect leaders to help teams come to a decision in a reasonable time, to seek guidance or be willing to take the decision themselves when consensus is lacking, and to take responsibility for implementation.&lt;/p&gt;
-
-&lt;p&gt;The poorest decision of all is no decision: clarity of direction has value in itself. Sometimes all the data are not available, or consensus is elusive. A decision must still be made. There is no guarantee of a perfect decision every time - we prefer to err, learn, and err less in future than to postpone action indefinitely.&lt;/p&gt;
-
-&lt;h4 id=&quot;teamwork&quot;&gt;Teamwork&lt;/h4&gt;
-&lt;p&gt;A leader’s foremost goal is the success of the team, and not just his/her own progress.
-A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves.&lt;/p&gt;
-
-&lt;h4 id=&quot;courage-and-considerateness&quot;&gt;Courage and considerateness&lt;/h4&gt;
-&lt;p&gt;Leadership occasionally requires bold decisions that will not be widely understood, agreed by everyone or popular. We value the courage to take such decisions, because they enable the DecodeVector as a whole to move forward faster than we could if we required complete consensus. Nevertheless, boldness demands considerateness; take bold decisions, but do so mindful of the challenges they present for others, and work to soften the impact of those decisions on them. Communicating changes and their reasoning clearly and early on is as important as the implementation of the change itself.&lt;/p&gt;
-
-&lt;h3 id=&quot;conflicts-of-interest&quot;&gt;Conflicts of interest&lt;/h3&gt;
-&lt;p&gt;We expect leaders to be aware when they are conflicted due to personal schedule or other projects they are involved in, and abstain or delegate decisions that may be seen to be self-interested. We expect that everyone who participates in DecodeVector does so with the goal of progress of DecodeVector.&lt;/p&gt;
-
-&lt;p&gt;When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.&lt;/p&gt;
-
-&lt;h3 id=&quot;diversity-statement&quot;&gt;Diversity Statement&lt;/h3&gt;
-&lt;p&gt;We encourage everyone to participate and are committed to building a group for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a member has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.&lt;/p&gt;
-
-&lt;h3 id=&quot;attribution--acknowledgements&quot;&gt;Attribution &amp;amp; Acknowledgements&lt;/h3&gt;
-&lt;p&gt;This document uses portions from &lt;a href=&quot;http://todogroup.org/opencodeofconduct/&quot;&gt;Open Code of Conduct by TODO Group&lt;/a&gt; and is inspired from other communities and projects – &lt;a href=&quot;https://www.djangoproject.com/conduct/reporting/&quot;&gt;Django&lt;/a&gt;, &lt;a href=&quot;https://www.python.org/group/diversity/&quot;&gt;Python&lt;/a&gt;, &lt;a href=&quot;https://www.ubuntu.com/group/code-of-conduct&quot;&gt;Ubuntu&lt;/a&gt;, &lt;a href=&quot;https://www.contributor-covenant.org/&quot;&gt;Contributor Covenant&lt;/a&gt;, &lt;a href=&quot;https://geekfeminism.org/about/code-of-conduct/&quot;&gt;Geek Feminism&lt;/a&gt;, &lt;a href=&quot;http://citizencodeofconduct.org/&quot;&gt;Citizen Code of Conduct&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our Code of Conduct is licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;Creative Commons Attribution-Share Alike 3.0 license&lt;/a&gt; and you may re-use it for your own group, and modify it as you wish, just please allow others to use your modifications and give credit to the DecodeVector and all the above organisations/projects!&lt;/p&gt;
-
-&lt;script&gt;
-function reveal() {
-    var x = document.getElementById(&quot;hp&quot;);
-    if (x.style.display === &quot;none&quot;) {
-        x.style.display = &quot;block&quot;;
-    } else {
-        x.style.display = &quot;none&quot;;
-    }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a onclick=&quot;reveal()&quot; style=&quot;text-decoration:none;&quot;&gt;⚡️&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote id=&quot;hp&quot; style=&quot;display:none;&quot;&gt;&quot;Help will always be given at Hogwarts, Harry, to those who ask for it. I've always prized myself on my ability to turn a phrase. Words are, in my not so humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it. But I would, in this case, amend my original statement to this: Help would always be given at Hogwarts to those who deserve it.&quot;&lt;br /&gt;
-– Albus Dumbledore&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Important" />
-      
-
-      
-
-      
-        <summary type="html">This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our collective understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in this document.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Sharing code</title>
-      
-      <link href="http://localhost:4000/sub/sharing-code/" rel="alternate" type="text/html" title="Sharing code" />
-      <published>2018-04-01T19:00:00+05:30</published>
-      <updated>2018-04-01T19:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/sharing-code</id>
-      <content type="html" xml:base="http://localhost:4000/sub/sharing-code/">&lt;p&gt;It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.&lt;/p&gt;
-
-&lt;p&gt;As an advice, you may share your code either by directly sharing the file link from GitHub or create an &lt;a href=&quot;https://gist.github.com&quot;&gt;GitHub Gist&lt;/a&gt; and share just the link.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-
-      
-        <category term="GitHub" />
-      
-
-      
-        <summary type="html">It’s hard when people share their code over email/IM since it mostly come as plain text with obfuscated indentation.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0025: Sigma Function</title>
-      
-      <link href="http://localhost:4000/sub/pset-0025/" rel="alternate" type="text/html" title="0025: Sigma Function" />
-      <published>2018-03-30T15:10:00+05:30</published>
-      <updated>2018-03-30T15:10:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0025</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0025/">&lt;p&gt;Write following sigma functions where $n$ is input argument in each case.&lt;/p&gt;
-
-&lt;p&gt;(a) S1: $1, 2, 3,…$&lt;/p&gt;
-
-&lt;p&gt;(b) S2: $3, 5, 7,..$&lt;/p&gt;
-
-&lt;p&gt;(c) S3: $2, 3, 5, 6, 7, 8, 10, 11, 12, 13,…$ (ie. Number that are not squares)&lt;/p&gt;
-
-&lt;p&gt;In each of the following, calculate sum till $n$ terms.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write following sigma functions where $n$ is input argument in each case.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0024: 10001st Prime</title>
-      
-      <link href="http://localhost:4000/sub/pset-0024/" rel="alternate" type="text/html" title="0024: 10001st Prime" />
-      <published>2018-03-30T15:02:00+05:30</published>
-      <updated>2018-03-30T15:02:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0024</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0024/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;By listing the first six prime numbers: $2$, $3$, $5$, $7$, $11$, and $13$, we can see that the 6th prime is $13$.&lt;/p&gt;
-
-&lt;p&gt;What is the $10001$st prime number?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0023: Sum Square Difference</title>
-      
-      <link href="http://localhost:4000/sub/pset-0023/" rel="alternate" type="text/html" title="0023: Sum Square Difference" />
-      <published>2018-03-30T14:35:00+05:30</published>
-      <updated>2018-03-30T14:35:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0023</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0023/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The sum of the squares of the first ten natural numbers is,&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;12 + 22 + ... + 102 = 385&lt;/script&gt;
-
-&lt;p&gt;The square of the sum of the first ten natural numbers is,&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(1 + 2 + ... + 10)2 = 552 = 3025&lt;/script&gt;
-
-&lt;p&gt;Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is $3025 − 385 = 2640$.&lt;/p&gt;
-
-&lt;p&gt;Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
+        <summary type="html">Write the following set of Python functions. ```python def union(P,Q): ‘’’ Returns a set R (Python list) which is P UNION Q ‘’’ # Add your code here.</summary>
       
 
       

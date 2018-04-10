@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "0057: Consecutive Numbers"
+date:   2018-04-10 11:08:00 +0530
+categories: Pset 1-Point
+tags: Python
+author: Gaurav Singh
+---
+Write a computer program that reads n, prints following -
+
+If n=3,
+
+```
+1
+2  3
+4  5  6
+```

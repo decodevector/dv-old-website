@@ -3,7 +3,7 @@ layout: post
 title:  "0036: Smallest Pair"
 date:   2018-04-03 00:57:00 +0530
 categories: Pset 2-Point
-tags: Python
+tags: Python Sorting
 author: Gaurav Singh
 ---
 Write a program that reads 10 numbers and print the smallest pair.
