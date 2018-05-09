@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0068: Non Abundant Sums"
+title:  "0069: Non Abundant Sums"
 date:   2018-05-09 16:40:00 +0530
 categories: Pset 3-Point
 tags: Python
