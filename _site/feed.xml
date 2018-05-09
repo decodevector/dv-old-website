@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-09T16:20:14+05:30</updated>
+  <updated>2018-05-09T16:26:41+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,56 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">0062: Lattice Paths</title>
+      
+      <link href="http://localhost:4000/sub/pset-0062/" rel="alternate" type="text/html" title="0062: Lattice Paths" />
+      <published>2018-05-09T16:20:00+05:30</published>
+      <updated>2018-05-09T16:20:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0062</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0062/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://projecteuler.net/project/images/p015.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How many such routes are there through a 20×20 grid?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="2-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1110,82 +1160,6 @@ YES
 
       
         <summary type="html">Implement Linear Search in Python.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0042: Set Operations</title>
-      
-      <link href="http://localhost:4000/sub/pset-0042/" rel="alternate" type="text/html" title="0042: Set Operations" />
-      <published>2018-04-10T08:50:00+05:30</published>
-      <updated>2018-04-10T08:50:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0042</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0042/">&lt;p&gt;Write the following set of Python functions.&lt;/p&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;union&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;'''
-    Returns a set R (Python list) which is P UNION Q
-    '''&lt;/span&gt;
-    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;difference&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;'''
-    Returns a set R (Python list) which is P DIFFERENCE Q
-    '''&lt;/span&gt;
-    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;is_subset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;'''
-    Returns true iff P is subset of Q
-    '''&lt;/span&gt;
-    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;powerset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;'''
-    Returns a set R (Python list) which is powerset of P
-    '''&lt;/span&gt;
-    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;symmetric_difference&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;'''
-    Returns a set P (Python list) which is P SYM_DIFF Q
-    '''&lt;/span&gt;
-    &lt;span class=&quot;c&quot;&gt;# Add your code here.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-        <category term="Sets" />
-      
-
-      
-        <summary type="html">Write the following set of Python functions. ```python def union(P,Q): ‘’’ Returns a set R (Python list) which is P UNION Q ‘’’ # Add your code here.</summary>
       
 
       
