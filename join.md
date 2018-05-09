@@ -7,7 +7,7 @@ We're always looking for more members to join us - to help beginners to introduc
 
 If this happens to be the first page you're reading on this website, you may consider reading [about DV](/about/) before going further.
 
-To be able to help you with starting TCS, it is essential that you come with the following prerequisites. Apart from these, you're expected to have inclination for Mathematics and self-motivated to put in efforts at DV.
+To be able to help you with starting TCS, it is essential that you come with the following <span title="What I tell you three times is true. - Lewis Caroll, The Hunting of the Snark.">prerequisites</span>. Apart from these, you're expected to have inclination for Mathematics and self-motivated to put in efforts at DV.
 
 ### Prerequisites
 * Elementary Mathematics

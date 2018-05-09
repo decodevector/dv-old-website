@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-09T17:19:47+05:30</updated>
+  <updated>2018-05-09T18:12:14+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -29,8 +29,8 @@
       <title type="html">0072: Turtle</title>
       
       <link href="http://localhost:4000/sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
-      <published>2018-05-09T17:07:00+05:30</published>
-      <updated>2018-05-09T17:07:00+05:30</updated>
+      <published>2018-05-09T17:15:00+05:30</published>
+      <updated>2018-05-09T17:15:00+05:30</updated>
       <id>http://localhost:4000/sub/pset-0072</id>
       <content type="html" xml:base="http://localhost:4000/sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
 
@@ -363,7 +363,7 @@
 &lt;p&gt;For example, $10! = 10 × 9 × … × 3 × 2 × 1 = 3628800$,
 and the sum of the digits in the number $10!$ is $3 + 6 + 2 + 8 + 8 + 0 + 0 = 27$.&lt;/p&gt;
 
-&lt;p&gt;Find the sum of the digits in the number $100!$.&lt;/p&gt;</content>
+&lt;p&gt;Find the &lt;span title=&quot;The whole is more than the sum of its parts. - Aristotle,  Metaphysica 10f-1045a&quot;&gt;sum&lt;/span&gt; of the digits in the number $100!$.&lt;/p&gt;</content>
 
       
       

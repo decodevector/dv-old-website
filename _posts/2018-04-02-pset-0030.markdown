@@ -7,7 +7,7 @@ tags: Python
 author: Gaurav Singh
 ---
 
-Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by multiplying individual digits of those numbers.
+Write a Python function that reads 2 4-digit numbers then output the product of both 4-digit numbers by <span title="Obvious is the most dangerous word in mathematics. - Bell, Eric Temple (1883-1960)">multiplying</span> individual digits of those numbers.
 
 ```
       1 2 3 4
