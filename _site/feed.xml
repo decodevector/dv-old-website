@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-09T16:26:41+05:30</updated>
+  <updated>2018-05-09T16:28:41+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,54 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">0063: Power Digit Sum</title>
+      
+      <link href="http://localhost:4000/sub/pset-0063/" rel="alternate" type="text/html" title="0063: Power Digit Sum" />
+      <published>2018-05-09T16:20:00+05:30</published>
+      <updated>2018-05-09T16:20:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0063</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0063/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;$2^15 = 32768$ and the sum of its digits is $3 + 2 + 7 + 6 + 8 = 26$.&lt;/p&gt;
+
+&lt;p&gt;What is the sum of the digits of the number $2^1000$?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="2-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1114,52 +1162,6 @@ YES
 
       
         <summary type="html">Write a Python program to read a undirected weighted graph and returns a list of all possible hamiltonion circuits.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0043: Linear Search</title>
-      
-      <link href="http://localhost:4000/sub/pset-0043/" rel="alternate" type="text/html" title="0043: Linear Search" />
-      <published>2018-04-10T08:51:00+05:30</published>
-      <updated>2018-04-10T08:51:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0043</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0043/">&lt;p&gt;Implement Linear Search in Python.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-        <category term="Searching" />
-      
-
-      
-        <summary type="html">Implement Linear Search in Python.</summary>
       
 
       

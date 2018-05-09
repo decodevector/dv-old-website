@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "0063: Power Digit Sum"
+date:   2018-05-09 16:25:00 +0530
+categories: Pset 2-Point
+tags: Python
+author: Gaurav Singh
+---
+
+_The following problem is taken from Project Euler._
+
+$2^15 = 32768$ and the sum of its digits is $3 + 2 + 7 + 6 + 8 = 26$.
+
+What is the sum of the digits of the number $2^1000$?
