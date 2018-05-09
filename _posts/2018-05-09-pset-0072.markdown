@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "0072: Turtle"
+date:   2018-05-09 17:15:00 +0530
+categories: Pset 1-Point
+tags: P5JS
+author: Gaurav Singh
+---
+
+P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function `keyPressed` to start using in your programs.
+
+[P5JS Reference: `keyPressed`](https://p5js.org/reference/#/p5/keyPressed)
+
+Now, write a program that shows a turtle at the center of the canvas and can be moved by up, down, left and right arrow keys on your keyboard.
+
+You may require how to load images to get a image of a mini turtle.
+[P5JS Reference: Images](https://p5js.org/reference/#/p5/image)

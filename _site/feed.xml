@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-09T17:10:37+05:30</updated>
+  <updated>2018-05-09T17:19:47+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,57 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">0072: Turtle</title>
+      
+      <link href="http://localhost:4000/sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
+      <published>2018-05-09T17:07:00+05:30</published>
+      <updated>2018-05-09T17:07:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0072</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://p5js.org/reference/#/p5/keyPressed&quot;&gt;P5JS Reference: &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, write a program that shows a turtle at the center of the canvas and can be moved by up, down, left and right arrow keys on your keyboard.&lt;/p&gt;
+
+&lt;p&gt;You may require how to load images to get a image of a mini turtle.
+&lt;a href=&quot;https://p5js.org/reference/#/p5/image&quot;&gt;P5JS Reference: Images&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="P5JS" />
+      
+
+      
+        <summary type="html">P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function keyPressed to start using in your programs.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -972,70 +1023,6 @@ YES
 
       
         <summary type="html">Implement a (Command-line based) 2-player Cross and Naught game in Python.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0052: Longest Collatz Sequence</title>
-      
-      <link href="http://localhost:4000/sub/pset-0052/" rel="alternate" type="text/html" title="0052: Longest Collatz Sequence" />
-      <published>2018-04-10T10:00:00+05:30</published>
-      <updated>2018-04-10T10:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0052</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0052/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LqKpkdRRLZw?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The following iterative sequence is defined for the set of positive integers:&lt;/p&gt;
-
-&lt;p&gt;$ n → \frac{n}{2} $ ($n$ is even)&lt;/p&gt;
-
-&lt;p&gt;$ n → 3n + 1 $ ($n$ is odd)&lt;/p&gt;
-
-&lt;p&gt;Using the rule above and starting with $13$, we generate the following sequence:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1&lt;/script&gt;
-
-&lt;p&gt;It can be seen that this sequence (starting at $13$ and finishing at $1$) contains $10$ terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.&lt;/p&gt;
-
-&lt;p&gt;Which starting number, under one million, produces the longest chain?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;NOTE: Once the chain starts the terms are allowed to go above one million.&lt;/em&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="5-Point" />
-      
-
-      
-        <category term="Python" />
-      
-        <category term="Collatz-Conjecture" />
-      
-
-      
-        <summary type="html"></summary>
       
 
       
