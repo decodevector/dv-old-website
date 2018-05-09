@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0053: Ascending or Descending"
+title:  "0055: Ascending or Descending"
 date:   2018-04-10 11:04:00 +0530
 categories: Pset 1-Point
 tags: Python
