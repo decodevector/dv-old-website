@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-09T17:07:37+05:30</updated>
+  <updated>2018-05-09T17:10:37+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -36,29 +36,26 @@
 
 &lt;p&gt;The Fibonacci sequence is defined by the recurrence relation:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$F_n = F_{n−1} + F_{n−2}$, where $F_1 = 1 and F_2 = 1$
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;$F_n = F_{n−1} + F_{n−2}$, where $F_1 = 1$ and $F_2 = 1$&lt;/p&gt;
 
 &lt;p&gt;Hence the first $12$ terms will be:&lt;/p&gt;
 
-&lt;p&gt;$$
-    F_1 = 1
-    F_2 = 1
-    F_3 = 2
-    F_4 = 3
-    F_5 = 5
-    F_6 = 8
-    F_7 = 13
-    F_8 = 21
-    F_9 = 34
-    F_10 = 55
-    F_11 = 89
-    F_12 = 144&lt;/p&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F_1 = 1 \\
+    F_2 = 1 \\
+    F_3 = 2 \\
+    F_4 = 3 \\
+    F_5 = 5 \\
+    F_6 = 8 \\
+    F_7 = 13 \\
+    F_8 = 21 \\
+    F_9 = 34 \\
+    F_{10} = 55 \\
+    F_{11} = 89 \\
+    F_{12} = 144 \\&lt;/script&gt;
 
-&lt;p&gt;$$
-The 12th term, F12, is the first term to contain three digits.&lt;/p&gt;
+&lt;p&gt;The $12$th term, $F_{12}$, is the first term to contain three digits.&lt;/p&gt;
 
-&lt;p&gt;What is the index of the first term in the Fibonacci sequence to contain 1000 digits?&lt;/p&gt;</content>
+&lt;p&gt;What is the index of the first term in the Fibonacci sequence to contain $1000$ digits?&lt;/p&gt;</content>
 
       
       
