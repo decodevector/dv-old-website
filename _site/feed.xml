@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
-  <updated>2018-04-10T11:49:46+05:30</updated>
-  <id>http://decodevector.mathscapes.xyz///</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-05-09T16:05:46+05:30</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">DecodeVector</title>
@@ -28,11 +28,11 @@
       
       <title type="html">0061: Repeated Numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0061/" rel="alternate" type="text/html" title="0061: Repeated Numbers" />
+      <link href="http://localhost:4000/sub/pset-0061/" rel="alternate" type="text/html" title="0061: Repeated Numbers" />
       <published>2018-04-10T11:25:00+05:30</published>
       <updated>2018-04-10T11:25:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0061</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0061/">&lt;p&gt;Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0061</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0061/">&lt;p&gt;Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 0 1 2 4 5 6 7 6 5 6&lt;/p&gt;
 
@@ -76,11 +76,11 @@
       
       <title type="html">0060: Population</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0060/" rel="alternate" type="text/html" title="0060: Population" />
+      <link href="http://localhost:4000/sub/pset-0060/" rel="alternate" type="text/html" title="0060: Population" />
       <published>2018-04-10T11:20:00+05:30</published>
       <updated>2018-04-10T11:20:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0060</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0060/">&lt;p&gt;The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0060</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0060/">&lt;p&gt;The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.&lt;/p&gt;
 
 &lt;p&gt;(Note: M means Million, $10^6$)&lt;/p&gt;</content>
 
@@ -122,11 +122,11 @@
       
       <title type="html">0059: Dumb Monkey</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0059/" rel="alternate" type="text/html" title="0059: Dumb Monkey" />
+      <link href="http://localhost:4000/sub/pset-0059/" rel="alternate" type="text/html" title="0059: Dumb Monkey" />
       <published>2018-04-10T11:18:00+05:30</published>
       <updated>2018-04-10T11:18:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0059</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0059/">&lt;p&gt;Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0059</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0059/">&lt;p&gt;Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Test Case:&lt;/em&gt;&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10
@@ -175,11 +175,11 @@ YES
       
       <title type="html">0058: Next Date</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0058/" rel="alternate" type="text/html" title="0058: Next Date" />
+      <link href="http://localhost:4000/sub/pset-0058/" rel="alternate" type="text/html" title="0058: Next Date" />
       <published>2018-04-10T11:14:00+05:30</published>
       <updated>2018-04-10T11:14:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0058</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0058/">&lt;p&gt;Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0058</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0058/">&lt;p&gt;Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.&lt;/p&gt;
 
 &lt;p&gt;Example:&lt;/p&gt;
 
@@ -227,11 +227,11 @@ YES
       
       <title type="html">0057: Consecutive Numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0057/" rel="alternate" type="text/html" title="0057: Consecutive Numbers" />
+      <link href="http://localhost:4000/sub/pset-0057/" rel="alternate" type="text/html" title="0057: Consecutive Numbers" />
       <published>2018-04-10T11:08:00+05:30</published>
       <updated>2018-04-10T11:08:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0057</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0057/">&lt;p&gt;Write a computer program that reads n, prints following -&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0057</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0057/">&lt;p&gt;Write a computer program that reads n, prints following -&lt;/p&gt;
 
 &lt;p&gt;If n=3,&lt;/p&gt;
 
@@ -278,11 +278,11 @@ YES
       
       <title type="html">0056: High/Low Number Guessing Game</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0056/" rel="alternate" type="text/html" title="0056: High/Low Number Guessing Game" />
+      <link href="http://localhost:4000/sub/pset-0056/" rel="alternate" type="text/html" title="0056: High/Low Number Guessing Game" />
       <published>2018-04-10T11:07:00+05:30</published>
       <updated>2018-04-10T11:07:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0056</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0056/">&lt;p&gt;Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0056</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0056/">&lt;p&gt;Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.&lt;/p&gt;</content>
 
       
       
@@ -322,11 +322,11 @@ YES
       
       <title type="html">0053: Ascending or Descending</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0055/" rel="alternate" type="text/html" title="0053: Ascending or Descending" />
+      <link href="http://localhost:4000/sub/pset-0055/" rel="alternate" type="text/html" title="0053: Ascending or Descending" />
       <published>2018-04-10T11:04:00+05:30</published>
       <updated>2018-04-10T11:04:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0055</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0055/">&lt;p&gt;Write a computer program to read a list of 5 numbers and your program should be able to tell whether the list sequence is Ascending, Descending, None.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0055</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0055/">&lt;p&gt;Write a computer program to read a list of 5 numbers and your program should be able to tell whether the list sequence is Ascending, Descending, None.&lt;/p&gt;</content>
 
       
       
@@ -366,11 +366,11 @@ YES
       
       <title type="html">0054: Least Difference</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0054/" rel="alternate" type="text/html" title="0054: Least Difference" />
+      <link href="http://localhost:4000/sub/pset-0054/" rel="alternate" type="text/html" title="0054: Least Difference" />
       <published>2018-04-10T11:00:00+05:30</published>
       <updated>2018-04-10T11:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0054</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0054/">&lt;p&gt;Write a computer program to read a list of 10 numbers and return those two consecutive numbers from the list whose difference is least among others.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0054</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0054/">&lt;p&gt;Write a computer program to read a list of 10 numbers and return those two consecutive numbers from the list whose difference is least among others.&lt;/p&gt;</content>
 
       
       
@@ -410,11 +410,11 @@ YES
       
       <title type="html">0053: Cross and Naught</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0053/" rel="alternate" type="text/html" title="0053: Cross and Naught" />
+      <link href="http://localhost:4000/sub/pset-0053/" rel="alternate" type="text/html" title="0053: Cross and Naught" />
       <published>2018-04-10T11:00:00+05:30</published>
       <updated>2018-04-10T11:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0053</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0053/">&lt;p&gt;Implement a (Command-line based) 2-player Cross and Naught game in Python.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0053</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0053/">&lt;p&gt;Implement a (Command-line based) 2-player Cross and Naught game in Python.&lt;/p&gt;</content>
 
       
       
@@ -454,11 +454,11 @@ YES
       
       <title type="html">0052: Longest Collatz Sequence</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0052/" rel="alternate" type="text/html" title="0052: Longest Collatz Sequence" />
+      <link href="http://localhost:4000/sub/pset-0052/" rel="alternate" type="text/html" title="0052: Longest Collatz Sequence" />
       <published>2018-04-10T10:00:00+05:30</published>
       <updated>2018-04-10T10:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0052</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0052/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LqKpkdRRLZw?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      <id>http://localhost:4000/sub/pset-0052</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0052/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LqKpkdRRLZw?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
@@ -518,11 +518,11 @@ YES
       
       <title type="html">0051: Large Sum</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0051/" rel="alternate" type="text/html" title="0051: Large Sum" />
+      <link href="http://localhost:4000/sub/pset-0051/" rel="alternate" type="text/html" title="0051: Large Sum" />
       <published>2018-04-10T09:55:00+05:30</published>
       <updated>2018-04-10T09:55:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0051</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0051/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0051</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0051/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.&lt;/p&gt;
 
@@ -666,11 +666,11 @@ YES
       
       <title type="html">0050: Highly Divisible Triangle Number</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0050/" rel="alternate" type="text/html" title="0050: Highly Divisible Triangle Number" />
+      <link href="http://localhost:4000/sub/pset-0050/" rel="alternate" type="text/html" title="0050: Highly Divisible Triangle Number" />
       <published>2018-04-10T09:50:00+05:30</published>
       <updated>2018-04-10T09:50:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0050</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0050/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0050</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0050/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The sequence of triangle numbers is generated by adding the natural numbers. So the 7th triangle number would be $1 + 2 + 3 + 4 + 5 + 6 + 7 = 28$. The first ten terms would be:&lt;/p&gt;
 
@@ -728,11 +728,11 @@ YES
       
       <title type="html">0049: Largest Product in a Grid</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0049/" rel="alternate" type="text/html" title="0049: Largest Product in a Grid" />
+      <link href="http://localhost:4000/sub/pset-0049/" rel="alternate" type="text/html" title="0049: Largest Product in a Grid" />
       <published>2018-04-10T09:40:00+05:30</published>
       <updated>2018-04-10T09:40:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0049</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0049/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0049</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0049/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In the 20×20 grid below, four numbers along a diagonal line have been marked by square brackets.&lt;/p&gt;
 
@@ -802,11 +802,11 @@ YES
       
       <title type="html">0048: Summation of Primes</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0048/" rel="alternate" type="text/html" title="0048: Summation of Primes" />
+      <link href="http://localhost:4000/sub/pset-0048/" rel="alternate" type="text/html" title="0048: Summation of Primes" />
       <published>2018-04-10T09:39:00+05:30</published>
       <updated>2018-04-10T09:39:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0048</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0048/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0048</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0048/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The sum of the primes below $10$ is $2 + 3 + 5 + 7 = 17$.&lt;/p&gt;
 
@@ -852,11 +852,11 @@ YES
       
       <title type="html">0047: Special Pythagorean Triplet</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0047/" rel="alternate" type="text/html" title="0047: Special Pythagorean Triplet" />
+      <link href="http://localhost:4000/sub/pset-0047/" rel="alternate" type="text/html" title="0047: Special Pythagorean Triplet" />
       <published>2018-04-10T09:36:00+05:30</published>
       <updated>2018-04-10T09:36:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0047</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0047/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0047</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0047/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A Pythagorean triplet is a set of three natural numbers, $a &amp;lt; b &amp;lt; c$, for which,&lt;/p&gt;
 
@@ -908,11 +908,11 @@ YES
       
       <title type="html">0046: Largest product in a series</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0046/" rel="alternate" type="text/html" title="0046: Largest product in a series" />
+      <link href="http://localhost:4000/sub/pset-0046/" rel="alternate" type="text/html" title="0046: Largest product in a series" />
       <published>2018-04-10T09:33:00+05:30</published>
       <updated>2018-04-10T09:33:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0046</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0046/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0046</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0046/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.&lt;/p&gt;
 
@@ -980,11 +980,11 @@ YES
       
       <title type="html">0045: Travelling Salesman Problem</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0045/" rel="alternate" type="text/html" title="0045: Travelling Salesman Problem" />
+      <link href="http://localhost:4000/sub/pset-0045/" rel="alternate" type="text/html" title="0045: Travelling Salesman Problem" />
       <published>2018-04-10T09:00:00+05:30</published>
       <updated>2018-04-10T09:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0045</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0045/">&lt;p&gt;Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0045</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0045/">&lt;p&gt;Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?&lt;/p&gt;
 
 &lt;p&gt;Write a Python program to read a undirected weighted graph and return a single shortest possible route.&lt;/p&gt;</content>
 
@@ -1030,11 +1030,11 @@ YES
       
       <title type="html">0044: Hamiltonion Circuits</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0044/" rel="alternate" type="text/html" title="0044: Hamiltonion Circuits" />
+      <link href="http://localhost:4000/sub/pset-0044/" rel="alternate" type="text/html" title="0044: Hamiltonion Circuits" />
       <published>2018-04-10T08:54:00+05:30</published>
       <updated>2018-04-10T08:54:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0044</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0044/">&lt;p&gt;Write a Python program to read a undirected weighted graph and returns a list of all possible hamiltonion circuits.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0044</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0044/">&lt;p&gt;Write a Python program to read a undirected weighted graph and returns a list of all possible hamiltonion circuits.&lt;/p&gt;</content>
 
       
       
@@ -1076,11 +1076,11 @@ YES
       
       <title type="html">0043: Linear Search</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0043/" rel="alternate" type="text/html" title="0043: Linear Search" />
+      <link href="http://localhost:4000/sub/pset-0043/" rel="alternate" type="text/html" title="0043: Linear Search" />
       <published>2018-04-10T08:51:00+05:30</published>
       <updated>2018-04-10T08:51:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0043</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0043/">&lt;p&gt;Implement Linear Search in Python.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0043</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0043/">&lt;p&gt;Implement Linear Search in Python.&lt;/p&gt;</content>
 
       
       
@@ -1122,11 +1122,11 @@ YES
       
       <title type="html">0042: Set Operations</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0042/" rel="alternate" type="text/html" title="0042: Set Operations" />
+      <link href="http://localhost:4000/sub/pset-0042/" rel="alternate" type="text/html" title="0042: Set Operations" />
       <published>2018-04-10T08:50:00+05:30</published>
       <updated>2018-04-10T08:50:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0042</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0042/">&lt;p&gt;Write the following set of Python functions.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0042</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0042/">&lt;p&gt;Write the following set of Python functions.&lt;/p&gt;
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;union&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
     &lt;span class=&quot;s&quot;&gt;'''
     Returns a set R (Python list) which is P UNION Q
