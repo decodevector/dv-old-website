@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0070: Non Abundant Sums"
+title:  "0070: Lexicographic Permutations"
 date:   2018-05-09 16:40:00 +0530
 categories: Pset 3-Point
 tags: Python
