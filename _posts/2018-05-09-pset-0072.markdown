@@ -3,7 +3,7 @@ layout: post
 title:  "0072: Turtle"
 date:   2018-05-09 17:15:00 +0530
 categories: Pset 1-Point
-tags: P5JS
+tags: p5.js
 author: Gaurav Singh
 ---
 
