@@ -12,7 +12,7 @@ The summer vacation is taking its impost. I know it is not easy to get going, bu
 This week has been rather silent. I have not seen or heard much. None of you have solved even a single PSET problem. And I don't think I should tell its severity if you don't realize that it was you who wanted to learn this.
 
 ## Bad things will happen
-Despite multiple requests, you are not addressing the GitHub issues. Hence, I'm closing all your previous issues (including peer reviews) without any resolution. And please keep all communication at one place (as I mentioned in last week update), it's quite difficult otherwise.
+Despite multiple requests, you are not addressing the GitHub issues. I'm thus closing all your previous issues (including peer reviews) without any resolution. And please keep all communication at one place (as I mentioned in last week update), it's quite difficult otherwise.
 
 ## Nevertheless, some suggestions
 - Important! Slow and steady wins the race. Keep moving daily. Don't break your schedule.
