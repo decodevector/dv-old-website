@@ -57,18 +57,3 @@ We encourage everyone to participate and are committed to building a group for a
 This document uses portions from [Open Code of Conduct by TODO Group](http://todogroup.org/opencodeofconduct/) and is inspired from other communities and projects -- [Django](https://www.djangoproject.com/conduct/reporting/), [Python](https://www.python.org/group/diversity/), [Ubuntu](https://www.ubuntu.com/group/code-of-conduct), [Contributor Covenant](https://www.contributor-covenant.org/), [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), [Citizen Code of Conduct](http://citizencodeofconduct.org/).
 
 Our Code of Conduct is licensed under [Creative Commons Attribution-Share Alike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/) and you may re-use it for your own group, and modify it as you wish, just please allow others to use your modifications and give credit to the DecodeVector and all the above organisations/projects!
-
-<script>
-function reveal() {
-    var x = document.getElementById("hp");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
-
-<a onclick="reveal()" style="text-decoration:none;">⚡️</a>
-<blockquote id="hp" style="display:none;">"Help will always be given at Hogwarts, Harry, to those who ask for it. I've always prized myself on my ability to turn a phrase. Words are, in my not so humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it. But I would, in this case, amend my original statement to this: Help would always be given at Hogwarts to those who deserve it."<br>
-– Albus Dumbledore</blockquote>
