@@ -25,17 +25,17 @@ I'm pleasantly surprised how you all are taking other courses or books to learn 
 ## Delay in the project timelines
 The delay in your respective projects in unacceptable and since it was all voluntary, you are responsible for taking care of keeping up with the time. Please have a word with me, and let's rethink your timelines to accomplish your goals within summer break.
 
-## Whats new!
+## Whats new?
 - New PSET problems added (0062-0072).
 - Fixed minor issues in PSET problems pointed out in GitHub issues.
 - New issue templates on GitHub issues (try creating a new issue to learn more!)
 
-## And so far..
+## And so far...
 - Most PSET problems solved (this week): Pranjal (6)
 - Most PSET problems solved (all time): Simran (29)
 - Most rating (this week): Apoorva*
 - Most rating (all time): Apoorva*
-- Best streak: Simran (04/05/2018-08/05/2018 .. 6 days)
+- Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)
 - Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)
 
 \*Apoorva's rating will be added once she updates it.
