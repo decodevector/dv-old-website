@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
-  <updated>2018-05-20T23:05:18+05:30</updated>
-  <id>http://decodevector.mathscapes.xyz///</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-05-22T16:30:21+05:30</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">DecodeVector</title>
@@ -26,13 +26,101 @@
   
     <entry>
       
+      <title type="html">0073: Moving in Infinity</title>
+      
+      <link href="http://localhost:4000/sub/pset-0074/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
+      <published>2018-05-22T16:28:00+05:30</published>
+      <updated>2018-05-22T16:28:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0074</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0074/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="p5.js" />
+      
+
+      
+        <summary type="html">Write a P5JS program to move a ball in a track shaped like infinity symbol.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0073: Moving in Infinity</title>
+      
+      <link href="http://localhost:4000/sub/pset-0073/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
+      <published>2018-05-22T16:28:00+05:30</published>
+      <updated>2018-05-22T16:28:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0073</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0073/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="p5.js" />
+      
+
+      
+        <summary type="html">Write a P5JS program to move a ball in a track shaped like infinity symbol.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Week 28 (14 May - 20 May 2018)</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28 (14 May - 20 May 2018)" />
+      <link href="http://localhost:4000/sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28 (14 May - 20 May 2018)" />
       <published>2018-05-20T23:00:00+05:30</published>
       <updated>2018-05-20T23:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-28</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-28/">&lt;p&gt;The summer vacation is taking its impost. I know it is not easy to get going, but you are letting go of the time that would never return. All of you are very far from leveling up, and this is the time you can put hard work to lay a good foundation for your aspirations. Remember that the points you have accumulated are going in vain if you don’t work on a regular basis. Please please just get started, and you will realize that it was all that was required. You are not trying if have not yet begun.&lt;/p&gt;
+      <id>http://localhost:4000/sub/weekly-update-28</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-28/">&lt;p&gt;The summer vacation is taking its impost. I know it is not easy to get going, but you are letting go of the time that would never return. All of you are very far from leveling up, and this is the time you can put hard work to lay a good foundation for your aspirations. Remember that the points you have accumulated are going in vain if you don’t work on a regular basis. Please please just get started, and you will realize that it was all that was required. You are not trying if have not yet begun.&lt;/p&gt;
 
 &lt;p&gt;This week has been rather silent. I have not seen or heard much. None of you have solved even a single PSET problem. And I don’t think I should tell its severity if you don’t realize that it was you who wanted to learn this.&lt;/p&gt;
 
@@ -46,7 +134,7 @@
   &lt;li&gt;Adding problem/objective statement at the top of the program in comments can be useful during writing code and also for the future reference.&lt;/li&gt;
   &lt;li&gt;Learn to comment your code to keep your code understandable by not just you but others. Adding comments help avoid situations when you’re too busy writing code, and you feel distracted by smallest of the interruptions.&lt;/li&gt;
   &lt;li&gt;Develop your approach to solve problems. Should you do a flow chart first? Alternatively, solve the test cases on the paper? Evolve a system of solving that works for you.&lt;/li&gt;
-  &lt;li&gt;Declare/ initialize variables before you use. In this way, you avoid errors related to un-declaration of variables.&lt;/li&gt;
+  &lt;li&gt;Declare/Initialize variables before you use. In this way, you avoid errors related to un-declaration of variables.&lt;/li&gt;
   &lt;li&gt;Indent and format your code for readability.&lt;/li&gt;
   &lt;li&gt;Use meaningful names for variables and functions or else forget reading your code in the future.&lt;/li&gt;
   &lt;li&gt;Trace through your program to double check accuracy or fallacy.&lt;/li&gt;
@@ -83,9 +171,10 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;“Even if you’re on the right track, you’ll get run over if you just sit there.”&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Will Rogers&lt;/li&gt;
-  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;—Will Rogers&lt;/p&gt;
 &lt;/blockquote&gt;</content>
 
       
@@ -124,11 +213,11 @@
       
       <title type="html">Week 27 (7 May - 13 May 2018)</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27 (7 May - 13 May 2018)" />
+      <link href="http://localhost:4000/sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27 (7 May - 13 May 2018)" />
       <published>2018-05-13T17:15:00+05:30</published>
       <updated>2018-05-13T17:15:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-27</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-27/">&lt;p&gt;Its been 27 weeks(!) since we started this group, which we call as DecodeVector now. Honest efforts have been taken by all of the members to not just keeping it alive but making it stronger, which is great!&lt;/p&gt;
+      <id>http://localhost:4000/sub/weekly-update-27</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-27/">&lt;p&gt;Its been 27 weeks(!) since we started this group, which we call as DecodeVector now. Honest efforts have been taken by all of the members to not just keeping it alive but making it stronger, which is great!&lt;/p&gt;
 
 &lt;p&gt;Starting from now, I will be writing weekly logs to summarise the progress we make as a group and glimpse of the coming weeks to plan better and updating ourselves to keep aligned to our long-term roadmap.&lt;/p&gt;
 
@@ -206,11 +295,11 @@
       
       <title type="html">0072: Turtle</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
+      <link href="http://localhost:4000/sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
       <published>2018-05-09T17:15:00+05:30</published>
       <updated>2018-05-09T17:15:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0072</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0072</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://p5js.org/reference/#/p5/keyPressed&quot;&gt;P5JS Reference: &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -257,11 +346,11 @@
       
       <title type="html">0071: 1000 digit Fibonacci Number</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0071/" rel="alternate" type="text/html" title="0071: 1000 digit Fibonacci Number" />
+      <link href="http://localhost:4000/sub/pset-0071/" rel="alternate" type="text/html" title="0071: 1000 digit Fibonacci Number" />
       <published>2018-05-09T17:07:00+05:30</published>
       <updated>2018-05-09T17:07:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0071</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0071/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0071</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0071/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The Fibonacci sequence is defined by the recurrence relation:&lt;/p&gt;
 
@@ -324,11 +413,11 @@
       
       <title type="html">0070: Lexicographic Permutations</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0070/" rel="alternate" type="text/html" title="0070: Lexicographic Permutations" />
+      <link href="http://localhost:4000/sub/pset-0070/" rel="alternate" type="text/html" title="0070: Lexicographic Permutations" />
       <published>2018-05-09T16:40:00+05:30</published>
       <updated>2018-05-09T16:40:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0070</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0070/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0070</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0070/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A permutation is an ordered arrangement of objects. For example, $3124$ is one possible permutation of the digits $1, 2, 3$ and $4$. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of $0, 1$ and $2$ are:&lt;/p&gt;
 
@@ -376,11 +465,11 @@
       
       <title type="html">0069: Non Abundant Sums</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0069/" rel="alternate" type="text/html" title="0069: Non Abundant Sums" />
+      <link href="http://localhost:4000/sub/pset-0069/" rel="alternate" type="text/html" title="0069: Non Abundant Sums" />
       <published>2018-05-09T16:40:00+05:30</published>
       <updated>2018-05-09T16:40:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0069</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0069/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0069</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0069/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A perfect number is a number for which the sum of its proper divisors is exactly equal to the number. For example, the sum of the proper divisors of $28$ would be $1 + 2 + 4 + 7 + 14 = 28$, which means that $28$ is a perfect number.&lt;/p&gt;
 
@@ -428,11 +517,11 @@
       
       <title type="html">0068: Names Scores</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0068/" rel="alternate" type="text/html" title="0068: Names Scores" />
+      <link href="http://localhost:4000/sub/pset-0068/" rel="alternate" type="text/html" title="0068: Names Scores" />
       <published>2018-05-09T16:38:00+05:30</published>
       <updated>2018-05-09T16:38:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0068</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0068/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0068</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0068/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Using &lt;a href=&quot;https://projecteuler.net/project/resources/p022_names.txt&quot;&gt;names.txt&lt;/a&gt; (right click and ‘Save Link/Target As…’), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.&lt;/p&gt;
 
@@ -478,11 +567,11 @@
       
       <title type="html">0067: Amicable Numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0067/" rel="alternate" type="text/html" title="0067: Amicable Numbers" />
+      <link href="http://localhost:4000/sub/pset-0067/" rel="alternate" type="text/html" title="0067: Amicable Numbers" />
       <published>2018-05-09T16:37:00+05:30</published>
       <updated>2018-05-09T16:37:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0067</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0067/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0067</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0067/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Let $d(n)$ be defined as the sum of proper divisors of $n$ (numbers less than n which divide evenly into n).&lt;/p&gt;
 
@@ -530,11 +619,11 @@
       
       <title type="html">0066: Factorial Digit Sum</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0066/" rel="alternate" type="text/html" title="0066: Factorial Digit Sum" />
+      <link href="http://localhost:4000/sub/pset-0066/" rel="alternate" type="text/html" title="0066: Factorial Digit Sum" />
       <published>2018-05-09T16:35:00+05:30</published>
       <updated>2018-05-09T16:35:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0066</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0066/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0066</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0066/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;$n!$ means $n × (n − 1) × … × 3 × 2 × 1$&lt;/p&gt;
 
@@ -581,11 +670,11 @@ and the sum of the digits in the number $10!$ is $3 + 6 + 2 + 8 + 8 + 0 + 0 = 27
       
       <title type="html">0065: Counting Sundays</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0065/" rel="alternate" type="text/html" title="0065: Counting Sundays" />
+      <link href="http://localhost:4000/sub/pset-0065/" rel="alternate" type="text/html" title="0065: Counting Sundays" />
       <published>2018-05-09T16:34:00+05:30</published>
       <updated>2018-05-09T16:34:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0065</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0065/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0065</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0065/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;You are given the following information, but you may prefer to do some research for yourself.&lt;/p&gt;
 
@@ -639,11 +728,11 @@ And on leap years, twenty-nine.
       
       <title type="html">0064: Number Letter Counts</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0064/" rel="alternate" type="text/html" title="0064: Number Letter Counts" />
+      <link href="http://localhost:4000/sub/pset-0064/" rel="alternate" type="text/html" title="0064: Number Letter Counts" />
       <published>2018-05-09T16:30:00+05:30</published>
       <updated>2018-05-09T16:30:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0064</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0064/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0064</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0064/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;If the numbers $1$ to $5$ are written out in words: one, two, three, four, five, then there are $3 + 3 + 5 + 4 + 4 = 19$ letters used in total.&lt;/p&gt;
 
@@ -689,11 +778,11 @@ And on leap years, twenty-nine.
       
       <title type="html">0063: Power Digit Sum</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0063/" rel="alternate" type="text/html" title="0063: Power Digit Sum" />
+      <link href="http://localhost:4000/sub/pset-0063/" rel="alternate" type="text/html" title="0063: Power Digit Sum" />
       <published>2018-05-09T16:25:00+05:30</published>
       <updated>2018-05-09T16:25:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0063</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0063/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0063</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0063/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;$2^15 = 32768$ and the sum of its digits is $3 + 2 + 7 + 6 + 8 = 26$.&lt;/p&gt;
 
@@ -737,11 +826,11 @@ And on leap years, twenty-nine.
       
       <title type="html">0062: Lattice Paths</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0062/" rel="alternate" type="text/html" title="0062: Lattice Paths" />
+      <link href="http://localhost:4000/sub/pset-0062/" rel="alternate" type="text/html" title="0062: Lattice Paths" />
       <published>2018-05-09T16:20:00+05:30</published>
       <updated>2018-05-09T16:20:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0062</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0062/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0062</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0062/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.&lt;/p&gt;
 
@@ -787,11 +876,11 @@ And on leap years, twenty-nine.
       
       <title type="html">0061: Repeated Numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0061/" rel="alternate" type="text/html" title="0061: Repeated Numbers" />
+      <link href="http://localhost:4000/sub/pset-0061/" rel="alternate" type="text/html" title="0061: Repeated Numbers" />
       <published>2018-04-10T11:25:00+05:30</published>
       <updated>2018-04-10T11:25:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0061</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0061/">&lt;p&gt;Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0061</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0061/">&lt;p&gt;Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 0 1 2 4 5 6 7 6 5 6&lt;/p&gt;
 
@@ -835,11 +924,11 @@ And on leap years, twenty-nine.
       
       <title type="html">0060: Population</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0060/" rel="alternate" type="text/html" title="0060: Population" />
+      <link href="http://localhost:4000/sub/pset-0060/" rel="alternate" type="text/html" title="0060: Population" />
       <published>2018-04-10T11:20:00+05:30</published>
       <updated>2018-04-10T11:20:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0060</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0060/">&lt;p&gt;The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0060</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0060/">&lt;p&gt;The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.&lt;/p&gt;
 
 &lt;p&gt;(Note: M means Million, $10^6$)&lt;/p&gt;</content>
 
@@ -881,11 +970,11 @@ And on leap years, twenty-nine.
       
       <title type="html">0059: Dumb Monkey</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0059/" rel="alternate" type="text/html" title="0059: Dumb Monkey" />
+      <link href="http://localhost:4000/sub/pset-0059/" rel="alternate" type="text/html" title="0059: Dumb Monkey" />
       <published>2018-04-10T11:18:00+05:30</published>
       <updated>2018-04-10T11:18:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0059</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0059/">&lt;p&gt;Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0059</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0059/">&lt;p&gt;Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Test Case:&lt;/em&gt;&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10
@@ -934,11 +1023,11 @@ YES
       
       <title type="html">0058: Next Date</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0058/" rel="alternate" type="text/html" title="0058: Next Date" />
+      <link href="http://localhost:4000/sub/pset-0058/" rel="alternate" type="text/html" title="0058: Next Date" />
       <published>2018-04-10T11:14:00+05:30</published>
       <updated>2018-04-10T11:14:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0058</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0058/">&lt;p&gt;Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0058</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0058/">&lt;p&gt;Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.&lt;/p&gt;
 
 &lt;p&gt;Example:&lt;/p&gt;
 
@@ -986,11 +1075,11 @@ YES
       
       <title type="html">0057: Consecutive Numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0057/" rel="alternate" type="text/html" title="0057: Consecutive Numbers" />
+      <link href="http://localhost:4000/sub/pset-0057/" rel="alternate" type="text/html" title="0057: Consecutive Numbers" />
       <published>2018-04-10T11:08:00+05:30</published>
       <updated>2018-04-10T11:08:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0057</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0057/">&lt;p&gt;Write a computer program that reads n, prints following -&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0057</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0057/">&lt;p&gt;Write a computer program that reads n, prints following -&lt;/p&gt;
 
 &lt;p&gt;If n=3,&lt;/p&gt;
 
@@ -1025,94 +1114,6 @@ YES
 
       
         <summary type="html">Write a computer program that reads n, prints following -</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0056: High/Low Number Guessing Game</title>
-      
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0056/" rel="alternate" type="text/html" title="0056: High/Low Number Guessing Game" />
-      <published>2018-04-10T11:07:00+05:30</published>
-      <updated>2018-04-10T11:07:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0056</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0056/">&lt;p&gt;Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0055: Ascending or Descending</title>
-      
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0055/" rel="alternate" type="text/html" title="0055: Ascending or Descending" />
-      <published>2018-04-10T11:04:00+05:30</published>
-      <updated>2018-04-10T11:04:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0055</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0055/">&lt;p&gt;Write a computer program to read a list of 5 numbers and your program should be able to tell whether the list sequence is Ascending, Descending, None.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a computer program to read a list of 5 numbers and your program should be able to tell whether the list sequence is Ascending, Descending, None.</summary>
       
 
       

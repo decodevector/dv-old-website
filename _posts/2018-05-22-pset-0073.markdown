@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "0073: Moving in Infinity"
+date:   2018-05-22 16:28:00 +0530
+categories: Pset 1-Point
+tags: p5.js
+author: Gaurav Singh
+---
+
+Write a P5JS program to move a ball in a track shaped like infinity symbol.

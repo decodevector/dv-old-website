@@ -20,7 +20,7 @@ Despite multiple requests, you are not addressing the GitHub issues. I'm thus cl
 - Adding problem/objective statement at the top of the program in comments can be useful during writing code and also for the future reference.
 - Learn to comment your code to keep your code understandable by not just you but others. Adding comments help avoid situations when you’re too busy writing code, and you feel distracted by smallest of the interruptions.
 - Develop your approach to solve problems. Should you do a flow chart first? Alternatively, solve the test cases on the paper? Evolve a system of solving that works for you.
-- Declare/ initialize variables before you use. In this way, you avoid errors related to un-declaration of variables.
+- Declare/Initialize variables before you use. In this way, you avoid errors related to un-declaration of variables.
 - Indent and format your code for readability.
 - Use meaningful names for variables and functions or else forget reading your code in the future.
 - Trace through your program to double check accuracy or fallacy.
@@ -51,4 +51,5 @@ Okay, there is some good news. Apoorva is gaining momentum in her project, and i
 \*Apoorva’s rating will be added once she updates it.
 
 > "Even if you’re on the right track, you’ll get run over if you just sit there."
-> - Will Rogers
+
+> —Will Rogers
