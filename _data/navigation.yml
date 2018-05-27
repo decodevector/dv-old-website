@@ -13,3 +13,5 @@ main:
     url: /categories/notes/
   - title: "Members"
     url: /members/
+  - title: "Search"
+    url: /search/

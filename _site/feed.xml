@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-22T16:30:21+05:30</updated>
+  <updated>2018-05-27T19:53:39+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,50 +22,6 @@
     </author>
   
 
-  
-  
-    <entry>
-      
-      <title type="html">0073: Moving in Infinity</title>
-      
-      <link href="http://localhost:4000/sub/pset-0074/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
-      <published>2018-05-22T16:28:00+05:30</published>
-      <updated>2018-05-22T16:28:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0074</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0074/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Write a P5JS program to move a ball in a track shaped like infinity symbol.</summary>
-      
-
-      
-      
-    </entry>
-  
   
   
     <entry>
@@ -1114,6 +1070,50 @@ YES
 
       
         <summary type="html">Write a computer program that reads n, prints following -</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0056: High/Low Number Guessing Game</title>
+      
+      <link href="http://localhost:4000/sub/pset-0056/" rel="alternate" type="text/html" title="0056: High/Low Number Guessing Game" />
+      <published>2018-04-10T11:07:00+05:30</published>
+      <updated>2018-04-10T11:07:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0056</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0056/">&lt;p&gt;Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="2-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.</summary>
       
 
       

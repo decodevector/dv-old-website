@@ -337,10 +337,6 @@
 <lastmod>2018-05-22T16:28:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/sub/pset-0074/</loc>
-<lastmod>2018-05-22T16:28:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/404/</loc>
 </url>
 <url>
@@ -363,6 +359,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/notes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/search/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/p5-js/</loc>
