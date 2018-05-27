@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-05-27T19:53:39+05:30</updated>
+  <updated>2018-05-27T23:58:43+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -26,11 +26,557 @@
   
     <entry>
       
+      <title type="html">Week 29: Mid-summersault</title>
+      
+      <link href="http://localhost:4000/sub/weekly-update-29/" rel="alternate" type="text/html" title="Week 29: Mid-summersault" />
+      <published>2018-05-27T23:25:00+05:30</published>
+      <updated>2018-05-27T23:25:00+05:30</updated>
+      <id>http://localhost:4000/sub/weekly-update-29</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-29/">&lt;p&gt;It is moments like these which make me question if I’m not doing enough to keep the energy alive. Repeating, it’s not going to come any easy. You’ll have to put in efforts, and only then you will reap its benefit. But, first, you have to start doing and do it daily. Well, the price you pay is a part of your time every day goes into this. And that will help you build the habit, habit of learning and practicing. Will you pay this price to reap the unknown? &lt;/p&gt;
+
+&lt;p&gt;This week was no different from the past, same old story of scarce attempts and continuation of ignoring my requests. Everyone seems quite involved in their own business and have forgotten their word. It’s not going to work this way. Three of you are just about to slip, and I hope you are aware what will it take to start all over again (from the screening) post-summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Why hurry up?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, there’s nothing wrong with self-paced. And speeding up without compromising on conceptual understanding is very difficult. The reason, why I emphasize on pace has a two-fold purpose - one that it will push you to take efforts on a daily basis which will help you make problem-solving as a habit and secondly because of the nature of technology itself. Theoretical CS and digital technology are advancing at an unprecedented rate, and as designers who have little to no formal background in fundamentals of CS, it’s very very difficult to be even get acquainted with tools and models, forget solving the problems through the lens of computation. There’s ML, AI, NLP, AGI, AR, VR and what not! But there is good news — that we have access to an abundance of resources - courses, book, tools on the internet that let you learn at your pace. But the catch is you will have to do it yourself; you will have to motivate yourself to get going and most likely if you’re not strong enough, you will lose the progress. All I can say now is that you can leverage from DV.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-this-then-what&quot;&gt;If this then what?&lt;/h2&gt;
+
+&lt;p&gt;Appreciate yourself that you’re today able to code by yourself and you have achieved this in so less (D)ays. I’m sure you cannot imagine what you’ll be like if you do it regularly. I’m hopeful that one of you will soon reach level 1 and help express why daily efforts are non-negotiable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/week-29-chart.png&quot; alt=&quot;Figure your pattern&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Writing this in big words, so you don’t miss this again. Please route your issues on GitHub whether you want to ask me or anyone else. Don’t use slack for clearing your code issues whatsoever. I have explained the reason in W27 update.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;whats-new&quot;&gt;What’s new?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;New PSET problems added (0073-0082)&lt;/li&gt;
+  &lt;li&gt;New website feature: &lt;a href=&quot;/search&quot;&gt;Search!&lt;/a&gt; You can now quickly search PSETs, notes or anything on the website through this&lt;/li&gt;
+  &lt;li&gt;Captions for each weekly update&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most PSET problems solved (this week): Apoorva (unknown)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved (all-time): Simran (29)&lt;/li&gt;
+  &lt;li&gt;Most rating (this week): Apoorva (unknown)&lt;/li&gt;
+  &lt;li&gt;Most rating (all-time): Apoorva (unknown)&lt;/li&gt;
+  &lt;li&gt;Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Anyone who can make Apoorva mark her PSET progress correctly on her wiki will be rewarded.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Suppose that you want to teach the ‘cat’ concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractable claws, a distinctive sonic output, etc.? I’ll bet not. You probably show the kid a lot of different cats, saying ‘kitty’ each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.” — R. P. Boas (Can we make mathematics ineligible?, American Mathematical Monthly 88 (1981), pp. 727-731)&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Update" />
+      
+
+      
+
+      
+        <summary type="html">It is moments like these which make me question if I’m not doing enough to keep the energy alive. Repeating, it’s not going to come any easy. You’ll have to put in efforts, and only then you will reap its benefit. But, first, you have to start doing and do it daily. Well, the price you pay is a part of your time every day goes into this. And that will help you build the habit, habit of learning and practicing. Will you pay this price to reap the unknown? </summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0082: Star Pattern 2</title>
+      
+      <link href="http://localhost:4000/sub/pset-0082/" rel="alternate" type="text/html" title="0082: Star Pattern 2" />
+      <published>2018-05-27T22:00:00+05:30</published>
+      <updated>2018-05-27T22:00:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0082</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0082/">&lt;p&gt;Write a function starPattern(n) which prints following.&lt;/p&gt;
+
+&lt;p&gt;Example&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
+5&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a function starPattern(n) which prints following.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0081: 1-bit full adder 2</title>
+      
+      <link href="http://localhost:4000/sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit full adder 2" />
+      <published>2018-05-27T22:00:00+05:30</published>
+      <updated>2018-05-27T22:00:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0081</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (and, or, not).&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program that implements 1-bit full adder using only logical operations (and, or, not).</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0080: Palindrome</title>
+      
+      <link href="http://localhost:4000/sub/pset-0080/" rel="alternate" type="text/html" title="0080: Palindrome" />
+      <published>2018-05-27T21:59:00+05:30</published>
+      <updated>2018-05-27T21:59:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0080</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0080/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;checkPalindrome(x)&lt;/code&gt; which finds if the sum of digits of a number and sum of digits of same number reversed will be same.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a function checkPalindrome(x) which finds if the sum of digits of a number and sum of digits of same number reversed will be same.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0079: Reverse</title>
+      
+      <link href="http://localhost:4000/sub/pset-0079/" rel="alternate" type="text/html" title="0079: Reverse" />
+      <published>2018-05-27T21:58:00+05:30</published>
+      <updated>2018-05-27T21:58:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0079</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0079/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;reverseNumber(x)&lt;/code&gt; which reverses the number x.&lt;/p&gt;
+
+&lt;p&gt;Example&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
+698&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;
+896&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a function reverseNumber(x) which reverses the number x.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0078: Sum of digits 2</title>
+      
+      <link href="http://localhost:4000/sub/pset-0078/" rel="alternate" type="text/html" title="0078: Sum of digits 2" />
+      <published>2018-05-27T21:56:00+05:30</published>
+      <updated>2018-05-27T21:56:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0078</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0078/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;findSumOfDigits(x)&lt;/code&gt; which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a function findSumOfDigits(x) which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0077: Sum of digits</title>
+      
+      <link href="http://localhost:4000/sub/pset-0077/" rel="alternate" type="text/html" title="0077: Sum of digits" />
+      <published>2018-05-27T21:54:00+05:30</published>
+      <updated>2018-05-27T21:54:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0077</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0077/">&lt;p&gt;Write a program that reads a number and display the sum of its digits.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a program that reads a number and display the sum of its digits.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0076: 1-bit Half Subtractor</title>
+      
+      <link href="http://localhost:4000/sub/pset-0076/" rel="alternate" type="text/html" title="0076: 1-bit Half Subtractor" />
+      <published>2018-05-27T21:51:00+05:30</published>
+      <updated>2018-05-27T21:51:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0076</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0076/">&lt;p&gt;Draw 1-bit half subtractor using minimum number of logic gates.
+The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, X (minuend) and Y (subtrahend) and two outputs D (difference) and B (borrow).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;X&lt;/th&gt;
+      &lt;th&gt;Y&lt;/th&gt;
+      &lt;th&gt;D&lt;/th&gt;
+      &lt;th&gt;B&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Now, write a python function to implement half adder only by using logic operators &lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt; arithmetic operators. Program takes two input X,Y and output D and B.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Draw 1-bit half subtractor using minimum number of logic gates. The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, X (minuend) and Y (subtrahend) and two outputs D (difference) and B (borrow).</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0075: Sign Function</title>
+      
+      <link href="http://localhost:4000/sub/pset-0075/" rel="alternate" type="text/html" title="0075: Sign Function" />
+      <published>2018-05-27T21:50:00+05:30</published>
+      <updated>2018-05-27T21:50:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0075</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0075/">&lt;p&gt;Write sign function: returns +1 or -1 based on the sign of argument passed.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write sign function: returns +1 or -1 based on the sign of argument passed.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0074: Indicator Function</title>
+      
+      <link href="http://localhost:4000/sub/pset-0074/" rel="alternate" type="text/html" title="0074: Indicator Function" />
+      <published>2018-05-27T21:48:00+05:30</published>
+      <updated>2018-05-27T21:48:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0074</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0074/">&lt;p&gt;Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def indicator(A, x):
+	…
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0-Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">0073: Moving in Infinity</title>
       
       <link href="http://localhost:4000/sub/pset-0073/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
-      <published>2018-05-22T16:28:00+05:30</published>
-      <updated>2018-05-22T16:28:00+05:30</updated>
+      <published>2018-05-27T16:28:00+05:30</published>
+      <updated>2018-05-27T16:28:00+05:30</updated>
       <id>http://localhost:4000/sub/pset-0073</id>
       <content type="html" xml:base="http://localhost:4000/sub/pset-0073/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
 
@@ -70,9 +616,9 @@
   
     <entry>
       
-      <title type="html">Week 28 (14 May - 20 May 2018)</title>
+      <title type="html">Week 28: Bad things will happen</title>
       
-      <link href="http://localhost:4000/sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28 (14 May - 20 May 2018)" />
+      <link href="http://localhost:4000/sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28: Bad things will happen" />
       <published>2018-05-20T23:00:00+05:30</published>
       <updated>2018-05-20T23:00:00+05:30</updated>
       <id>http://localhost:4000/sub/weekly-update-28</id>
@@ -167,9 +713,9 @@
   
     <entry>
       
-      <title type="html">Week 27 (7 May - 13 May 2018)</title>
+      <title type="html">Week 27: Deliberately naive</title>
       
-      <link href="http://localhost:4000/sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27 (7 May - 13 May 2018)" />
+      <link href="http://localhost:4000/sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27: Deliberately naive" />
       <published>2018-05-13T17:15:00+05:30</published>
       <updated>2018-05-13T17:15:00+05:30</updated>
       <id>http://localhost:4000/sub/weekly-update-27</id>
@@ -614,506 +1160,6 @@ and the sum of the digits in the number $10!$ is $3 + 6 + 2 + 8 + 8 + 0 + 0 = 27
 
       
         <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0065: Counting Sundays</title>
-      
-      <link href="http://localhost:4000/sub/pset-0065/" rel="alternate" type="text/html" title="0065: Counting Sundays" />
-      <published>2018-05-09T16:34:00+05:30</published>
-      <updated>2018-05-09T16:34:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0065</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0065/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;You are given the following information, but you may prefer to do some research for yourself.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 1 Jan 1900 was a Monday.
-- Thirty days has September,
-April, June and November.
-All the rest have thirty-one,
-Saving February alone,
-Which has twenty-eight, rain or shine.
-And on leap years, twenty-nine.
-- A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0064: Number Letter Counts</title>
-      
-      <link href="http://localhost:4000/sub/pset-0064/" rel="alternate" type="text/html" title="0064: Number Letter Counts" />
-      <published>2018-05-09T16:30:00+05:30</published>
-      <updated>2018-05-09T16:30:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0064</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0064/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If the numbers $1$ to $5$ are written out in words: one, two, three, four, five, then there are $3 + 3 + 5 + 4 + 4 = 19$ letters used in total.&lt;/p&gt;
-
-&lt;p&gt;If all the numbers from $1$ to $1000$ (one thousand) inclusive were written out in words, how many letters would be used?&lt;/p&gt;
-
-&lt;p&gt;NOTE: Do not count spaces or hyphens. For example, $342$ (three hundred and forty-two) contains $23$ letters and $115$ (one hundred and fifteen) contains $20$ letters. The use of “and” when writing out numbers is in compliance with British usage.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0063: Power Digit Sum</title>
-      
-      <link href="http://localhost:4000/sub/pset-0063/" rel="alternate" type="text/html" title="0063: Power Digit Sum" />
-      <published>2018-05-09T16:25:00+05:30</published>
-      <updated>2018-05-09T16:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0063</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0063/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;$2^15 = 32768$ and the sum of its digits is $3 + 2 + 7 + 6 + 8 = 26$.&lt;/p&gt;
-
-&lt;p&gt;What is the sum of the digits of the number $2^1000$?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0062: Lattice Paths</title>
-      
-      <link href="http://localhost:4000/sub/pset-0062/" rel="alternate" type="text/html" title="0062: Lattice Paths" />
-      <published>2018-05-09T16:20:00+05:30</published>
-      <updated>2018-05-09T16:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0062</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0062/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://projecteuler.net/project/images/p015.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;How many such routes are there through a 20×20 grid?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0061: Repeated Numbers</title>
-      
-      <link href="http://localhost:4000/sub/pset-0061/" rel="alternate" type="text/html" title="0061: Repeated Numbers" />
-      <published>2018-04-10T11:25:00+05:30</published>
-      <updated>2018-04-10T11:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0061</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0061/">&lt;p&gt;Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; 0 1 2 4 5 6 7 6 5 6&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; 5 6&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0060: Population</title>
-      
-      <link href="http://localhost:4000/sub/pset-0060/" rel="alternate" type="text/html" title="0060: Population" />
-      <published>2018-04-10T11:20:00+05:30</published>
-      <updated>2018-04-10T11:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0060</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0060/">&lt;p&gt;The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.&lt;/p&gt;
-
-&lt;p&gt;(Note: M means Million, $10^6$)&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The country A has 50M inhabitants, and its population grows 3% per year. The country B, 70M and grows 2% per year. Tell in how many years A will surpass B.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0059: Dumb Monkey</title>
-      
-      <link href="http://localhost:4000/sub/pset-0059/" rel="alternate" type="text/html" title="0059: Dumb Monkey" />
-      <published>2018-04-10T11:18:00+05:30</published>
-      <updated>2018-04-10T11:18:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0059</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0059/">&lt;p&gt;Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Test Case:&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10
-NO
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;11
-YES
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a computer program which computes if this dumb monkey can climb on a pillar or not. Every time this monkey climbs, it goes up 3 ft, and slips by 1 ft, which means he is essentially climbing only 1 ft. He can only climb successfully if exactly 3 fts are remaining from the topmost point. In this case, he will not slip because he has landed on the top point. For the lengths less than 3 ft, he will fall over the pillar, and comes down. The program reads a number P, length of the pillar and prints YES if monkey can successfully climb this pillar, NO otherwise.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0058: Next Date</title>
-      
-      <link href="http://localhost:4000/sub/pset-0058/" rel="alternate" type="text/html" title="0058: Next Date" />
-      <published>2018-04-10T11:14:00+05:30</published>
-      <updated>2018-04-10T11:14:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0058</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0058/">&lt;p&gt;Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.&lt;/p&gt;
-
-&lt;p&gt;Example:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input&lt;/em&gt;:
-28 2 1992&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output&lt;/em&gt;:
-29 2 1992&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="3-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Given as input three integers representing a date as day, month, year, print out the day, month and year for the following day’s date.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0057: Consecutive Numbers</title>
-      
-      <link href="http://localhost:4000/sub/pset-0057/" rel="alternate" type="text/html" title="0057: Consecutive Numbers" />
-      <published>2018-04-10T11:08:00+05:30</published>
-      <updated>2018-04-10T11:08:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0057</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0057/">&lt;p&gt;Write a computer program that reads n, prints following -&lt;/p&gt;
-
-&lt;p&gt;If n=3,&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1
-2  3
-4  5  6
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a computer program that reads n, prints following -</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0056: High/Low Number Guessing Game</title>
-      
-      <link href="http://localhost:4000/sub/pset-0056/" rel="alternate" type="text/html" title="0056: High/Low Number Guessing Game" />
-      <published>2018-04-10T11:07:00+05:30</published>
-      <updated>2018-04-10T11:07:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0056</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0056/">&lt;p&gt;Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a computer program to imitate High-Low Number Guessing Game. The program asks for a number m, and then generates a random number from 1 to m, and then asks user to guess it. The user can enter his guess, and program can respond back by either ‘High’ (if user guess is higher than the program’s number), ‘Low’ or ‘Correct’. The program displays the count of attempts taken by user to correctly guess the number.</summary>
       
 
       

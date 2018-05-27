@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 27 (7 May - 13 May 2018)"
+title:  "Week 27: Deliberately naive"
 date:   2018-05-13 17:15:00 +0530
 categories: Notes Update
 tags:

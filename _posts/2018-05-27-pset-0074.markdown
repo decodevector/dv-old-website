@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "0074: Indicator Function"
+date:   2018-05-27 21:48:00 +0530
+categories: Pset 0-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.
+
+```
+def indicator(A, x):
+	…
+```

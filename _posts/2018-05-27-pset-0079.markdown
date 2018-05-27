@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "0079: Reverse"
+date:   2018-05-27 21:58:00 +0530
+categories: Pset 0-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write a function `reverseNumber(x)` which reverses the number x.
+
+Example
+
+_Input:_
+698
+
+_Output:_
+896

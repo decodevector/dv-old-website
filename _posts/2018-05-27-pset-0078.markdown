@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "0078: Sum of digits 2"
+date:   2018-05-27 21:56:00 +0530
+categories: Pset 0-Point
+tags: Python
+author: Gaurav Singh
+---
+
+Write a function `findSumOfDigits(x)` which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 28 (14 May - 20 May 2018)"
+title:  "Week 28: Bad things will happen"
 date:   2018-05-20 23:00:00 +0530
 categories: Notes Update
 tags:
