@@ -5,7 +5,7 @@
   
   <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
-  <updated>2018-05-28T00:00:18+05:30</updated>
+  <updated>2018-05-28T00:42:17+05:30</updated>
   <id>http://decodevector.mathscapes.xyz///</id>
 
   
@@ -70,7 +70,7 @@
 &lt;p&gt;&lt;em&gt;Anyone who can make Apoorva mark her PSET progress correctly on her wiki will be rewarded.&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Suppose that you want to teach the ‘cat’ concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractable claws, a distinctive sonic output, etc.? I’ll bet not. You probably show the kid a lot of different cats, saying ‘kitty’ each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.” — R. P. Boas (Can we make mathematics ineligible?, American Mathematical Monthly 88 (1981), pp. 727-731)&lt;/p&gt;
+  &lt;p&gt;“Suppose that you want to teach the ‘cat’ concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractable claws, a distinctive sonic output, etc.? I’ll bet not. You probably show the kid a lot of different cats, saying ‘kitty’ each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.” — R. P. Boas (Can we make mathematics inteligible?, American Mathematical Monthly 88 (1981), pp. 727-731)&lt;/p&gt;
 &lt;/blockquote&gt;</content>
 
       
@@ -168,13 +168,13 @@
   
     <entry>
       
-      <title type="html">0081: 1-bit full adder 2</title>
+      <title type="html">0081: 1-bit Full Adder 2</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit full adder 2" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit Full Adder 2" />
       <published>2018-05-27T22:00:00+05:30</published>
       <updated>2018-05-27T22:00:00+05:30</updated>
       <id>http://decodevector.mathscapes.xyz//sub/pset-0081</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (and, or, not).&lt;/p&gt;</content>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (&lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt;).&lt;/p&gt;</content>
 
       
       
@@ -396,53 +396,13 @@
   
     <entry>
       
-      <title type="html">0076: 1-bit Half Subtractor</title>
+      <title type="html">0076: 1-bit Half Subtractor 2</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0076/" rel="alternate" type="text/html" title="0076: 1-bit Half Subtractor" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0076/" rel="alternate" type="text/html" title="0076: 1-bit Half Subtractor 2" />
       <published>2018-05-27T21:51:00+05:30</published>
       <updated>2018-05-27T21:51:00+05:30</updated>
       <id>http://decodevector.mathscapes.xyz//sub/pset-0076</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0076/">&lt;p&gt;Draw 1-bit half subtractor using minimum number of logic gates.
-The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, X (minuend) and Y (subtrahend) and two outputs D (difference) and B (borrow).&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;X&lt;/th&gt;
-      &lt;th&gt;Y&lt;/th&gt;
-      &lt;th&gt;D&lt;/th&gt;
-      &lt;th&gt;B&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Now, write a python function to implement half adder only by using logic operators &lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt; arithmetic operators. Program takes two input X,Y and output D and B.&lt;/p&gt;</content>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0076/">&lt;p&gt;Refer &lt;a href=&quot;sub/pset-0076&quot;&gt;PSET-0006&lt;/a&gt; and write a python function to implement 1-bit half Subtractor only by using logic operators &lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt; arithmetic operators. Program takes two input X,Y and output D and B.&lt;/p&gt;</content>
 
       
       
@@ -461,7 +421,7 @@ The half-subtractor is a combinational circuit which is used to perform subtract
       
         <category term="Pset" />
       
-        <category term="1-Point" />
+        <category term="0-Point" />
       
 
       
@@ -469,7 +429,7 @@ The half-subtractor is a combinational circuit which is used to perform subtract
       
 
       
-        <summary type="html">Draw 1-bit half subtractor using minimum number of logic gates. The half-subtractor is a combinational circuit which is used to perform subtraction of two bits. It has two inputs, X (minuend) and Y (subtrahend) and two outputs D (difference) and B (borrow).</summary>
+        <summary type="html">Refer PSET-0006 and write a python function to implement 1-bit half Subtractor only by using logic operators and,or and not arithmetic operators. Program takes two input X,Y and output D and B.</summary>
       
 
       
@@ -663,20 +623,14 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 &lt;ul&gt;
   &lt;li&gt;Most PSET problems solved (this week): None&lt;/li&gt;
   &lt;li&gt;Most PSET problems solved (all time): Simran (29)&lt;/li&gt;
-  &lt;li&gt;Most rating (this week): Apoorva*&lt;/li&gt;
-  &lt;li&gt;Most rating (all-time): Apoorva*&lt;/li&gt;
+  &lt;li&gt;Most rating (this week): Apoorva (unknown)&lt;/li&gt;
+  &lt;li&gt;Most rating (all-time): Apoorva (unknown)&lt;/li&gt;
   &lt;li&gt;Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)&lt;/li&gt;
   &lt;li&gt;Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;*Apoorva’s rating will be added once she updates it.&lt;/p&gt;
-
 &lt;blockquote&gt;
-  &lt;p&gt;“Even if you’re on the right track, you’ll get run over if you just sit there.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;—Will Rogers&lt;/p&gt;
+  &lt;p&gt;“Even if you’re on the right track, you’ll get run over if you just sit there.” — Will Rogers&lt;/p&gt;
 &lt;/blockquote&gt;</content>
 
       
@@ -748,17 +702,14 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 &lt;ul&gt;
   &lt;li&gt;Most PSET problems solved (this week): Pranjal (6)&lt;/li&gt;
   &lt;li&gt;Most PSET problems solved (all time): Simran (29)&lt;/li&gt;
-  &lt;li&gt;Most rating (this week): Apoorva*&lt;/li&gt;
-  &lt;li&gt;Most rating (all time): Apoorva*&lt;/li&gt;
+  &lt;li&gt;Most rating (this week): Apoorva (unknown)&lt;/li&gt;
+  &lt;li&gt;Most rating (all time): Apoorva (unknown)&lt;/li&gt;
   &lt;li&gt;Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)&lt;/li&gt;
   &lt;li&gt;Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;*Apoorva’s rating will be added once she updates it.&lt;/p&gt;
-
 &lt;blockquote&gt;
-  &lt;p&gt;“Mathematics is not yet capable of coping with the naivete of the mathematician himself.”
-—Abraham Kaplan, Sociology Learns the Language of Mathematics.&lt;/p&gt;
+  &lt;p&gt;“Mathematics is not yet capable of coping with the naivete of the mathematician himself.” — Abraham Kaplan, Sociology Learns the Language of Mathematics.&lt;/p&gt;
 &lt;/blockquote&gt;</content>
 
       

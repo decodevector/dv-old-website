@@ -43,13 +43,9 @@ Okay, there is some good news. Apoorva is gaining momentum in her project, and i
 ## And so far...
 - Most PSET problems solved (this week): None
 - Most PSET problems solved (all time): Simran (29)
-- Most rating (this week): Apoorva*
-- Most rating (all-time): Apoorva*
+- Most rating (this week): Apoorva (unknown)
+- Most rating (all-time): Apoorva (unknown)
 - Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)
 - Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)
 
-\*Apoorva’s rating will be added once she updates it.
-
-> "Even if you’re on the right track, you’ll get run over if you just sit there."
-
-> —Will Rogers
+> "Even if you’re on the right track, you’ll get run over if you just sit there." — Will Rogers
