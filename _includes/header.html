@@ -1,8 +1,8 @@
 <header class="site-header">
 
   <div class="wrapper">
-    <a title="Defence against the Dark Arts" class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
+    <a title="Defence against the Dark Arts" class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}
+    <!-- <img src="{{site.logo}}" width="48px" style="padding:20px 0 20px 0"/> -->
     <nav class="site-nav">
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}

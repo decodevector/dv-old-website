@@ -4,26 +4,28 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'Fira Sans', sans-serif;
-$monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
-$body-font-family: 'Fira Sans', sans-serif;
-$base-font-size:   22px;
+$base-font-family: 'IBM Plex Sans','Fira Sans', sans-serif;
+$heading-font: 'IBM Plex Serif';
+$monospace-font-family: 'IBM Plex Mono', Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$body-font-family: 'IBM Plex Sans','Fira Sans', sans-serif;
+$base-font-size:   18px;
 $base-font-weight: 300;
+$heading-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       #37474F;
-$background-color: #fff;
-$brand-color:      #02b875;
+$text-color:       #000;
+$background-color: #FFF;
+$brand-color:      #29ABE2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    900px;
+$content-width:    1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -48,15 +50,15 @@ $on-laptop:        800px;
 @import "whiteglass";
 
 .site-header{
-    background-color:#37474F;
+    background-color:$brand-color;
     //#E8F5E9 ;
     width:100%;
     position:fixed;
     z-index: 100;
-    opacity: 0.9;
-    // -webkit-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);
-    // -moz-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);
-    // box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);
+    opacity: 1;
+    -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
 }
 
 .post-header{
@@ -66,18 +68,18 @@ $on-laptop:        800px;
     margin-top:50px;
 }
 .site-title, .site-title:visited{
-    color: white;
-    font-weight: 400;
+    color: #fff;
+    font-weight: $base-font-weight;
 }
 .site-nav{
-    line-height: 50px;
+    //line-height: 50px;
 }
 .site-nav .page-link{
-    color: white;
+    color: #fff;
     font-size: 14px;
     opacity: 1;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+    //text-transform: uppercase;
+    //letter-spacing: 1px;
 }
 
 a.level-7,a.level-7:visited{
@@ -114,17 +116,19 @@ a.level-0,a.level-0:visited{
 
 h1{
     color: black;
-    font-family: $base-font-family;
-    font-weight: 100;
+    //font-family: $base-font-family;
+    font-family: $heading-font;
+    font-weight: $heading-font-weight;
 }
 
 h1.page-heading{
     color: black;
-    font-family: $base-font-family;
+    font-family: $heading-font;
     font-size: 30px;
     letter-spacing: 0px;
     line-height: 1;
-    font-weight:300;
+    //font-weight: $base-font-weight;
+    font-weight: $heading-font-weight;
 }
 
 .page-content h4{
@@ -154,7 +158,7 @@ blockquote{
     font-style:normal;
     letter-spacing: 0px;
     color: $grey-color;
-    font-weight: 100;
+    font-weight: $base-font-weight;
     margin-top:10px;
     margin-bottom:10px;
     font-family: $base-font-family;
@@ -166,13 +170,17 @@ hr{
     height:2px;
     background-color: $grey-color-light;
 }
-h2, h3, h4, h5, h6{
-    font-weight:400;
+h2{
+    font-family: $heading-font;
+    font-weight: 300;
+}
+h3, h4, h5, h6{
+    font-weight:$base-font-weight;
 }
 
 body{
     font-family: $body-font-family;
-    font-weight:300;
+    font-weight:$base-font-weight;
 }
 
 a.button,a.button:visited{
@@ -199,7 +207,7 @@ a.button:hover{
     background-color:darken($brand-color,10%) ;
 }
 .site-footer{
-    font-size: $base-font-size*0.8;
+    font-size: $base-font-size;
 }
 #search-input {
     width: 100%;

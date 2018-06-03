@@ -5,7 +5,7 @@
   
   <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
-  <updated>2018-05-28T00:42:17+05:30</updated>
+  <updated>2018-06-03T22:53:19+05:30</updated>
   <id>http://decodevector.mathscapes.xyz///</id>
 
   
@@ -22,6 +22,112 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Week 30: Be resilient (and honest)!</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-30/" rel="alternate" type="text/html" title="Week 30: Be resilient (and honest)!" />
+      <published>2018-06-03T22:42:00+05:30</published>
+      <updated>2018-06-03T22:42:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-30</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-30/">&lt;p&gt;Finally, I’m starting to see the sprouts above the ground. Thank you for reciprocating after last week’s update. I hope you soon see a positive impact of efforts that you’re taking.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It’s not that I’m so smart, it’s just that I stay with problems longer.” - Albert Einstein&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Of course, it is difficult to keep up with DV on a daily basis, but that’s how it is. You have to put yourself in an uncomfortable position. And not putting enough efforts in DV daily will only make it harder for you and you will be helpless to complete the PSET problems in lesser time (and possibly adopt unfair means to do it). Be resilient and honest! All I want from you is to take genuine efforts on a regular basis to understand this lens of computation. As long as you continue to make efforts, you will keep solving the PSETs at the required pace.&lt;/p&gt;
+
+&lt;p&gt;I can see that sometimes you feel that you should know more, especially about the programming language (Python in this case) itself to solve PSET problem. But sooner or later you will realize that learning to code mostly involves the right attitude and problem-solving capabilities and everything else is secondary. The syntax and constructs of the language will be given to you as you progress and are apt at your level. All I’m saying is that sometimes you make your job difficult by learning something before you should have. I intend (through PSETs) that you have enough practice to understand and familiarize before you acquire a shortcut to do that. For instance, there is a sort method available in Python to sort your list variable, but I have avoided so far so that you can learn how it works and code it by yourself. I hope you’ll appreciate the thought behind this later on.&lt;/p&gt;
+
+&lt;h2 id=&quot;individual-feedback&quot;&gt;Individual Feedback&lt;/h2&gt;
+&lt;h3 id=&quot;simran&quot;&gt;Simran&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;You’re finally able to do DV daily. Continue with your efforts and focus on your streak.&lt;/li&gt;
+  &lt;li&gt;Good work on updating your progress on the wiki.&lt;/li&gt;
+  &lt;li&gt;Please add comments to your programs.&lt;/li&gt;
+  &lt;li&gt;Use meaningful names for the variables and functions.&lt;/li&gt;
+  &lt;li&gt;Add meaningful commit messages.&lt;/li&gt;
+  &lt;li&gt;Avoid &lt;code class=&quot;highlighter-rouge&quot;&gt;global&lt;/code&gt;. Instead, read the variables from function argument and return the values to update those variables.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;apoorva&quot;&gt;Apoorva&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good work on sustained efforts minus wiki.&lt;/li&gt;
+  &lt;li&gt;Please add comments to your programs.&lt;/li&gt;
+  &lt;li&gt;Use meaningful names for the variables and functions.&lt;/li&gt;
+  &lt;li&gt;Add meaningful commit messages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vineeta&quot;&gt;Vineeta&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;You’re queuing at the exit door. Good luck!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pranjal&quot;&gt;Pranjal&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good work on sustained efforts.&lt;/li&gt;
+  &lt;li&gt;Please add comments to your programs.&lt;/li&gt;
+  &lt;li&gt;Use meaningful names for the variables and functions.&lt;/li&gt;
+  &lt;li&gt;Add meaningful commit messages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whats-new&quot;&gt;What’s New?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I have been experimenting with look and feel of the website. You will see new changes (work in progress) in this week’s update.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most PSET problems solved (this week): Simran (6)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved (all-time): Simran (38)&lt;/li&gt;
+  &lt;li&gt;Most rating (this week): Simran (20)&lt;/li&gt;
+  &lt;li&gt;Most rating (all-time): Unknown&lt;/li&gt;
+  &lt;li&gt;Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;warning&quot;&gt;Warning!&lt;/h2&gt;
+&lt;p&gt;One or more of you is/are found to be copying the code from the internet, and this is super serious! Your small violation might cost you exit from DV. Whoever you are (of course, I know who), please accept your offense it on #decodevector on the slack and don’t repeat this within DV again. You are enforcing me to make the rating system even more stringent for all!&lt;/p&gt;
+
+&lt;p&gt;Anyways that’s all for this week. Happy Monsoon and Happy (de)coding!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It is our choices, Harry, that show what we truly are, far more than our abilities” - Albus Dumbledore&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Update" />
+      
+
+      
+
+      
+        <summary type="html">Finally, I’m starting to see the sprouts above the ground. Thank you for reciprocating after last week’s update. I hope you soon see a positive impact of efforts that you’re taking.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1033,57 +1139,6 @@
 &lt;p&gt;For example, the proper divisors of $220$ are $1, 2, 4, 5, 10, 11, 20, 22, 44, 55$ and $110$; therefore $d(220) = 284$. The proper divisors of $284$ are $1, 2, 4, 71$ and $142$; so $d(284) = 220$.&lt;/p&gt;
 
 &lt;p&gt;Evaluate the sum of all the amicable numbers under $10000$.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="2-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0066: Factorial Digit Sum</title>
-      
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0066/" rel="alternate" type="text/html" title="0066: Factorial Digit Sum" />
-      <published>2018-05-09T16:35:00+05:30</published>
-      <updated>2018-05-09T16:35:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0066</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0066/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;$n!$ means $n × (n − 1) × … × 3 × 2 × 1$&lt;/p&gt;
-
-&lt;p&gt;For example, $10! = 10 × 9 × … × 3 × 2 × 1 = 3628800$,
-and the sum of the digits in the number $10!$ is $3 + 6 + 2 + 8 + 8 + 0 + 0 = 27$.&lt;/p&gt;
-
-&lt;p&gt;Find the &lt;span title=&quot;The whole is more than the sum of its parts. - Aristotle,  Metaphysica 10f-1045a&quot;&gt;sum&lt;/span&gt; of the digits in the number $100!$.&lt;/p&gt;</content>
 
       
       

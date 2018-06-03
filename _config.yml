@@ -34,6 +34,7 @@ facebook_app_id:
 facebook_image:
 google_analytics:
 comments: false
+logo: logo.png
 
 
 # Markdown settings
