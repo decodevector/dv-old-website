@@ -4,10 +4,10 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'IBM Plex Sans','Fira Sans', sans-serif;
-$heading-font: 'IBM Plex Serif';
-$monospace-font-family: 'IBM Plex Mono', Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
-$body-font-family: 'IBM Plex Sans','Fira Sans', sans-serif;
+$base-font-family: 'Roboto', sans-serif;
+$heading-font: 'Roboto';
+$monospace-font-family: 'Roboto Mono', Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$body-font-family: 'Roboto', sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 300;
 $heading-font-weight: 400;
@@ -50,15 +50,15 @@ $on-laptop:        800px;
 @import "whiteglass";
 
 .site-header{
-    background-color:$brand-color;
+    background-color:#000;
     //#E8F5E9 ;
     width:100%;
     position:fixed;
     z-index: 100;
     opacity: 1;
-    -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
-    -moz-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
-    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
+    // -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
+    // -moz-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
+    // box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
 }
 
 .post-header{

@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
-  <updated>2018-06-03T22:53:19+05:30</updated>
-  <id>http://decodevector.mathscapes.xyz///</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-06-10T20:26:23+05:30</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">DecodeVector</title>
@@ -28,11 +28,11 @@
       
       <title type="html">Week 30: Be resilient (and honest)!</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-30/" rel="alternate" type="text/html" title="Week 30: Be resilient (and honest)!" />
+      <link href="http://localhost:4000/sub/weekly-update-30/" rel="alternate" type="text/html" title="Week 30: Be resilient (and honest)!" />
       <published>2018-06-03T22:42:00+05:30</published>
       <updated>2018-06-03T22:42:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-30</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-30/">&lt;p&gt;Finally, I’m starting to see the sprouts above the ground. Thank you for reciprocating after last week’s update. I hope you soon see a positive impact of efforts that you’re taking.&lt;/p&gt;
+      <id>http://localhost:4000/sub/weekly-update-30</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-30/">&lt;p&gt;Finally, I’m starting to see the sprouts above the ground. Thank you for reciprocating after last week’s update. I hope you soon see a positive impact of efforts that you’re taking.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“It’s not that I’m so smart, it’s just that I stay with problems longer.” - Albert Einstein&lt;/p&gt;
@@ -134,11 +134,11 @@
       
       <title type="html">Week 29: Mid-summersault</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-29/" rel="alternate" type="text/html" title="Week 29: Mid-summersault" />
+      <link href="http://localhost:4000/sub/weekly-update-29/" rel="alternate" type="text/html" title="Week 29: Mid-summersault" />
       <published>2018-05-27T23:25:00+05:30</published>
       <updated>2018-05-27T23:25:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-29</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-29/">&lt;p&gt;It is moments like these which make me question if I’m not doing enough to keep the energy alive. Repeating, it’s not going to come any easy. You’ll have to put in efforts, and only then you will reap its benefit. But, first, you have to start doing and do it daily. Well, the price you pay is a part of your time every day goes into this. And that will help you build the habit, habit of learning and practicing. Will you pay this price to reap the unknown? &lt;/p&gt;
+      <id>http://localhost:4000/sub/weekly-update-29</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-29/">&lt;p&gt;It is moments like these which make me question if I’m not doing enough to keep the energy alive. Repeating, it’s not going to come any easy. You’ll have to put in efforts, and only then you will reap its benefit. But, first, you have to start doing and do it daily. Well, the price you pay is a part of your time every day goes into this. And that will help you build the habit, habit of learning and practicing. Will you pay this price to reap the unknown? &lt;/p&gt;
 
 &lt;p&gt;This week was no different from the past, same old story of scarce attempts and continuation of ignoring my requests. Everyone seems quite involved in their own business and have forgotten their word. It’s not going to work this way. Three of you are just about to slip, and I hope you are aware what will it take to start all over again (from the screening) post-summer.&lt;/p&gt;
 
@@ -215,11 +215,11 @@
       
       <title type="html">0082: Star Pattern 2</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0082/" rel="alternate" type="text/html" title="0082: Star Pattern 2" />
+      <link href="http://localhost:4000/sub/pset-0082/" rel="alternate" type="text/html" title="0082: Star Pattern 2" />
       <published>2018-05-27T22:00:00+05:30</published>
       <updated>2018-05-27T22:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0082</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0082/">&lt;p&gt;Write a function starPattern(n) which prints following.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0082</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0082/">&lt;p&gt;Write a function starPattern(n) which prints following.&lt;/p&gt;
 
 &lt;p&gt;Example&lt;/p&gt;
 
@@ -276,11 +276,11 @@
       
       <title type="html">0081: 1-bit Full Adder 2</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit Full Adder 2" />
+      <link href="http://localhost:4000/sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit Full Adder 2" />
       <published>2018-05-27T22:00:00+05:30</published>
       <updated>2018-05-27T22:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0081</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (&lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt;).&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0081</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (&lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt;).&lt;/p&gt;</content>
 
       
       
@@ -320,11 +320,11 @@
       
       <title type="html">0080: Palindrome</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0080/" rel="alternate" type="text/html" title="0080: Palindrome" />
+      <link href="http://localhost:4000/sub/pset-0080/" rel="alternate" type="text/html" title="0080: Palindrome" />
       <published>2018-05-27T21:59:00+05:30</published>
       <updated>2018-05-27T21:59:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0080</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0080/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;checkPalindrome(x)&lt;/code&gt; which finds if the sum of digits of a number and sum of digits of same number reversed will be same.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0080</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0080/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;checkPalindrome(x)&lt;/code&gt; which finds if the sum of digits of a number and sum of digits of same number reversed will be same.&lt;/p&gt;</content>
 
       
       
@@ -364,11 +364,11 @@
       
       <title type="html">0079: Reverse</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0079/" rel="alternate" type="text/html" title="0079: Reverse" />
+      <link href="http://localhost:4000/sub/pset-0079/" rel="alternate" type="text/html" title="0079: Reverse" />
       <published>2018-05-27T21:58:00+05:30</published>
       <updated>2018-05-27T21:58:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0079</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0079/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;reverseNumber(x)&lt;/code&gt; which reverses the number x.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0079</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0079/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;reverseNumber(x)&lt;/code&gt; which reverses the number x.&lt;/p&gt;
 
 &lt;p&gt;Example&lt;/p&gt;
 
@@ -416,11 +416,11 @@
       
       <title type="html">0078: Sum of digits 2</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0078/" rel="alternate" type="text/html" title="0078: Sum of digits 2" />
+      <link href="http://localhost:4000/sub/pset-0078/" rel="alternate" type="text/html" title="0078: Sum of digits 2" />
       <published>2018-05-27T21:56:00+05:30</published>
       <updated>2018-05-27T21:56:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0078</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0078/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;findSumOfDigits(x)&lt;/code&gt; which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0078</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0078/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;findSumOfDigits(x)&lt;/code&gt; which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.&lt;/p&gt;</content>
 
       
       
@@ -460,11 +460,11 @@
       
       <title type="html">0077: Sum of digits</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0077/" rel="alternate" type="text/html" title="0077: Sum of digits" />
+      <link href="http://localhost:4000/sub/pset-0077/" rel="alternate" type="text/html" title="0077: Sum of digits" />
       <published>2018-05-27T21:54:00+05:30</published>
       <updated>2018-05-27T21:54:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0077</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0077/">&lt;p&gt;Write a program that reads a number and display the sum of its digits.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0077</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0077/">&lt;p&gt;Write a program that reads a number and display the sum of its digits.&lt;/p&gt;</content>
 
       
       
@@ -504,11 +504,11 @@
       
       <title type="html">0076: 1-bit Half Subtractor 2</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0076/" rel="alternate" type="text/html" title="0076: 1-bit Half Subtractor 2" />
+      <link href="http://localhost:4000/sub/pset-0076/" rel="alternate" type="text/html" title="0076: 1-bit Half Subtractor 2" />
       <published>2018-05-27T21:51:00+05:30</published>
       <updated>2018-05-27T21:51:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0076</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0076/">&lt;p&gt;Refer &lt;a href=&quot;sub/pset-0076&quot;&gt;PSET-0006&lt;/a&gt; and write a python function to implement 1-bit half Subtractor only by using logic operators &lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt; arithmetic operators. Program takes two input X,Y and output D and B.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0076</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0076/">&lt;p&gt;Refer PSET-0006 and write a python program to implement 1-bit half Subtractor only by using logic operators &lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt; arithmetic operators. Program takes two input X,Y and output D and B.&lt;/p&gt;</content>
 
       
       
@@ -535,7 +535,7 @@
       
 
       
-        <summary type="html">Refer PSET-0006 and write a python function to implement 1-bit half Subtractor only by using logic operators and,or and not arithmetic operators. Program takes two input X,Y and output D and B.</summary>
+        <summary type="html">Refer PSET-0006 and write a python program to implement 1-bit half Subtractor only by using logic operators and,or and not arithmetic operators. Program takes two input X,Y and output D and B.</summary>
       
 
       
@@ -548,11 +548,11 @@
       
       <title type="html">0075: Sign Function</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0075/" rel="alternate" type="text/html" title="0075: Sign Function" />
+      <link href="http://localhost:4000/sub/pset-0075/" rel="alternate" type="text/html" title="0075: Sign Function" />
       <published>2018-05-27T21:50:00+05:30</published>
       <updated>2018-05-27T21:50:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0075</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0075/">&lt;p&gt;Write sign function: returns +1 or -1 based on the sign of argument passed.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0075</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0075/">&lt;p&gt;Write sign function: returns +1 or -1 based on the sign of argument passed.&lt;/p&gt;</content>
 
       
       
@@ -592,11 +592,11 @@
       
       <title type="html">0074: Indicator Function</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0074/" rel="alternate" type="text/html" title="0074: Indicator Function" />
+      <link href="http://localhost:4000/sub/pset-0074/" rel="alternate" type="text/html" title="0074: Indicator Function" />
       <published>2018-05-27T21:48:00+05:30</published>
       <updated>2018-05-27T21:48:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0074</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0074/">&lt;p&gt;Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0074</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0074/">&lt;p&gt;Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def indicator(A, x):
 	…
@@ -640,11 +640,11 @@
       
       <title type="html">0073: Moving in Infinity</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0073/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
+      <link href="http://localhost:4000/sub/pset-0073/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
       <published>2018-05-27T16:28:00+05:30</published>
       <updated>2018-05-27T16:28:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0073</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0073/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
+      <id>http://localhost:4000/sub/pset-0073</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0073/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
 
       
       
@@ -684,11 +684,11 @@
       
       <title type="html">Week 28: Bad things will happen</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28: Bad things will happen" />
+      <link href="http://localhost:4000/sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28: Bad things will happen" />
       <published>2018-05-20T23:00:00+05:30</published>
       <updated>2018-05-20T23:00:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-28</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-28/">&lt;p&gt;The summer vacation is taking its impost. I know it is not easy to get going, but you are letting go of the time that would never return. All of you are very far from leveling up, and this is the time you can put hard work to lay a good foundation for your aspirations. Remember that the points you have accumulated are going in vain if you don’t work on a regular basis. Please please just get started, and you will realize that it was all that was required. You are not trying if have not yet begun.&lt;/p&gt;
+      <id>http://localhost:4000/sub/weekly-update-28</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-28/">&lt;p&gt;The summer vacation is taking its impost. I know it is not easy to get going, but you are letting go of the time that would never return. All of you are very far from leveling up, and this is the time you can put hard work to lay a good foundation for your aspirations. Remember that the points you have accumulated are going in vain if you don’t work on a regular basis. Please please just get started, and you will realize that it was all that was required. You are not trying if have not yet begun.&lt;/p&gt;
 
 &lt;p&gt;This week has been rather silent. I have not seen or heard much. None of you have solved even a single PSET problem. And I don’t think I should tell its severity if you don’t realize that it was you who wanted to learn this.&lt;/p&gt;
 
@@ -775,11 +775,11 @@
       
       <title type="html">Week 27: Deliberately naive</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27: Deliberately naive" />
+      <link href="http://localhost:4000/sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27: Deliberately naive" />
       <published>2018-05-13T17:15:00+05:30</published>
       <updated>2018-05-13T17:15:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-27</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-27/">&lt;p&gt;Its been 27 weeks(!) since we started this group, which we call as DecodeVector now. Honest efforts have been taken by all of the members to not just keeping it alive but making it stronger, which is great!&lt;/p&gt;
+      <id>http://localhost:4000/sub/weekly-update-27</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-27/">&lt;p&gt;Its been 27 weeks(!) since we started this group, which we call as DecodeVector now. Honest efforts have been taken by all of the members to not just keeping it alive but making it stronger, which is great!&lt;/p&gt;
 
 &lt;p&gt;Starting from now, I will be writing weekly logs to summarise the progress we make as a group and glimpse of the coming weeks to plan better and updating ourselves to keep aligned to our long-term roadmap.&lt;/p&gt;
 
@@ -854,11 +854,11 @@
       
       <title type="html">0072: Turtle</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
+      <link href="http://localhost:4000/sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
       <published>2018-05-09T17:15:00+05:30</published>
       <updated>2018-05-09T17:15:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0072</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0072</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://p5js.org/reference/#/p5/keyPressed&quot;&gt;P5JS Reference: &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -905,11 +905,11 @@
       
       <title type="html">0071: 1000 digit Fibonacci Number</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0071/" rel="alternate" type="text/html" title="0071: 1000 digit Fibonacci Number" />
+      <link href="http://localhost:4000/sub/pset-0071/" rel="alternate" type="text/html" title="0071: 1000 digit Fibonacci Number" />
       <published>2018-05-09T17:07:00+05:30</published>
       <updated>2018-05-09T17:07:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0071</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0071/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0071</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0071/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The Fibonacci sequence is defined by the recurrence relation:&lt;/p&gt;
 
@@ -972,11 +972,11 @@
       
       <title type="html">0070: Lexicographic Permutations</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0070/" rel="alternate" type="text/html" title="0070: Lexicographic Permutations" />
+      <link href="http://localhost:4000/sub/pset-0070/" rel="alternate" type="text/html" title="0070: Lexicographic Permutations" />
       <published>2018-05-09T16:40:00+05:30</published>
       <updated>2018-05-09T16:40:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0070</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0070/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0070</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0070/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A permutation is an ordered arrangement of objects. For example, $3124$ is one possible permutation of the digits $1, 2, 3$ and $4$. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of $0, 1$ and $2$ are:&lt;/p&gt;
 
@@ -1024,11 +1024,11 @@
       
       <title type="html">0069: Non Abundant Sums</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0069/" rel="alternate" type="text/html" title="0069: Non Abundant Sums" />
+      <link href="http://localhost:4000/sub/pset-0069/" rel="alternate" type="text/html" title="0069: Non Abundant Sums" />
       <published>2018-05-09T16:40:00+05:30</published>
       <updated>2018-05-09T16:40:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0069</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0069/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0069</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0069/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A perfect number is a number for which the sum of its proper divisors is exactly equal to the number. For example, the sum of the proper divisors of $28$ would be $1 + 2 + 4 + 7 + 14 = 28$, which means that $28$ is a perfect number.&lt;/p&gt;
 
@@ -1076,11 +1076,11 @@
       
       <title type="html">0068: Names Scores</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0068/" rel="alternate" type="text/html" title="0068: Names Scores" />
+      <link href="http://localhost:4000/sub/pset-0068/" rel="alternate" type="text/html" title="0068: Names Scores" />
       <published>2018-05-09T16:38:00+05:30</published>
       <updated>2018-05-09T16:38:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0068</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0068/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0068</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0068/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Using &lt;a href=&quot;https://projecteuler.net/project/resources/p022_names.txt&quot;&gt;names.txt&lt;/a&gt; (right click and ‘Save Link/Target As…’), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.&lt;/p&gt;
 
@@ -1126,11 +1126,11 @@
       
       <title type="html">0067: Amicable Numbers</title>
       
-      <link href="http://decodevector.mathscapes.xyz//sub/pset-0067/" rel="alternate" type="text/html" title="0067: Amicable Numbers" />
+      <link href="http://localhost:4000/sub/pset-0067/" rel="alternate" type="text/html" title="0067: Amicable Numbers" />
       <published>2018-05-09T16:37:00+05:30</published>
       <updated>2018-05-09T16:37:00+05:30</updated>
-      <id>http://decodevector.mathscapes.xyz//sub/pset-0067</id>
-      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0067/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://localhost:4000/sub/pset-0067</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0067/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Let $d(n)$ be defined as the sum of proper divisors of $n$ (numbers less than n which divide evenly into n).&lt;/p&gt;
 

@@ -7,4 +7,4 @@ tags: Python
 author: Gaurav Singh
 ---
 
-Refer [PSET-0006](sub/pset-0076) and write a python function to implement 1-bit half Subtractor only by using logic operators `and`,`or` and `not` arithmetic operators. Program takes two input X,Y and output D and B.
+Refer PSET-0006 and write a python program to implement 1-bit half Subtractor only by using logic operators `and`,`or` and `not` arithmetic operators. Program takes two input X,Y and output D and B.
