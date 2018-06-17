@@ -53,9 +53,10 @@ Good luck!
 ![Figure your pattern](/assets/images/week-32-chart.png)
 
 ## What's New?
-- Minor changes in look and feel of the website.
-- Minor bug fixes in the DV website.
+- Changes in look and feel of the website.
+- Updated underlying website dependencies.
 - Changed tag implementation in the DV website.
+- Fixed search to be able to search the post/page content.
 - Updated PSET issues pointed out on GitHub.
 - New PSET problems: 0083 - 0100.
 
