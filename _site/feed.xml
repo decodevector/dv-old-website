@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-06-11T00:12:39+05:30</updated>
+  <updated>2018-06-17T21:57:37+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,230 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">0084: Caeser’s Cipher</title>
+      
+      <link href="http://localhost:4000/sub/pset-0084/" rel="alternate" type="text/html" title="0084: Caeser's Cipher" />
+      <published>2018-06-17T19:05:00+05:30</published>
+      <updated>2018-06-17T19:05:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0084</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0084/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N2tjzHzWOjQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Caesar’s method is an encryption scheme involving shifting an alphabet (so $a \rightarrow c$, $b \rightarrow d$, $c \rightarrow e$, $d \rightarrow f$ , etc., $x \rightarrow z$, $y \rightarrow a$, $z \rightarrow b$). It is one of the most basic encryption methods, and is a specialized form of a transposition cipher.&lt;/p&gt;
+
+&lt;p&gt;Because the alphabet is rotated, the shift is consistent. A mapping of $a \rightarrow b$, $b \rightarrow c$, etc. is termed &lt;code class=&quot;highlighter-rouge&quot;&gt;ROT 1&lt;/code&gt; because the letters are shifted by one. Note that z would map to a due to the circular aspect of the rotation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mathworld.wolfram.com/images/eps-gif/CaesarsMethod_800.gif&quot; alt=&quot;CaesarsMethod_800&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Encrypting with &lt;code class=&quot;highlighter-rouge&quot;&gt;ROT alpha&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;ROT beta&lt;/code&gt; yields the same ciphertext if and only if &lt;code class=&quot;highlighter-rouge&quot;&gt;alpha=beta (mod 26)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ROT 13&lt;/code&gt; is a popular encryption method on the Internet since it obfuscates text sufficiently to prevent accidental reading of the text. It is commonly used to list answers of puzzles, for example.&lt;/p&gt;
+
+&lt;p&gt;Caesar’s method is a very weak encryption scheme, since there are 26 possibilities (of which one, &lt;code class=&quot;highlighter-rouge&quot;&gt;ROT 26&lt;/code&gt;, is trivial). These can be easily checked by hand.&lt;/p&gt;
+
+&lt;p&gt;Write two python programs –&lt;/p&gt;
+
+&lt;p&gt;(a) Reads a message and a caeser’s key (integer) and encrypts the message with the given key.&lt;/p&gt;
+
+&lt;p&gt;(b) Reads an encrypted message and a caeser’s key (integer) and decrypt the message with the given key.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Macura, Wiktor K. “Caesar’s Method.” From MathWorld–A Wolfram Web Resource, created by Eric W. Weisstein. http://mathworld.wolfram.com/CaesarsMethod.html&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="3 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0083: Pythagorean Triplet 2</title>
+      
+      <link href="http://localhost:4000/sub/pset-0083/" rel="alternate" type="text/html" title="0083: Pythagorean Triplet 2" />
+      <published>2018-06-17T19:00:00+05:30</published>
+      <updated>2018-06-17T19:00:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0083</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0083/">&lt;p&gt;A Pythagorean triplet is a set of three natural numbers, $a &amp;lt; b &amp;lt; c$, for which,&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;a^2 + b^2 = c^2&lt;/script&gt;
+
+&lt;p&gt;For example, $ 3^2 + 4^2 = 9 + 16 = 25 = 5^2 $.&lt;/p&gt;
+
+&lt;p&gt;Write a python program that reads three integers and returns &lt;code class=&quot;highlighter-rouge&quot;&gt;True&lt;/code&gt; if the integers forms a Pythagorean triplet and &lt;code class=&quot;highlighter-rouge&quot;&gt;False&lt;/code&gt; otherwise.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="1 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">A Pythagorean triplet is a set of three natural numbers, $a &amp;lt; b &amp;lt; c$, for which,</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Week 32: Balancing DV and everything else</title>
+      
+      <link href="http://localhost:4000/sub/weekly-update-32/" rel="alternate" type="text/html" title="Week 32: Balancing DV and everything else" />
+      <published>2018-06-17T04:45:00+05:30</published>
+      <updated>2018-06-17T04:45:00+05:30</updated>
+      <id>http://localhost:4000/sub/weekly-update-32</id>
+      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-32/">&lt;p&gt;I think it would be safe to say that last week’s update left each of us wanting to point our compasses back to dv,  because while it gets difficult to attain the same kind of focus and attention as we together achieve in our N5’s room of requirement, it does not formulate itself to be an excuse. We’re all very capable people and should be standing by our word, since DecodeVector is something we all want to learn from.&lt;/p&gt;
+
+&lt;p&gt;Having said that, I feel like I understand perspectives of us all working our way through summer, trying to sustain our scores to get back stronger and more confident. But I also get that it really doesn’t come easy. From getting caught up in work with the house, to traveling to different places or meeting up with people I’m bound to meet over the summer, to also finally finding some time and still being unproductive at it, it took me a little over a month to realise what I’m going to label ‘Debug’ to pull my way through it all. The balance is essential, and so is keeping yourself motivated. And I’ll tell you what helped me realise that.&lt;/p&gt;
+
+&lt;p&gt;I come from a family of CS engineers, people who are so enthusiastic about math and science that I feel the same energy in N5 every evening. I like to think that I surround myself with that like-mindedness and people open to discussing ideas and opinions and are generally appreciative of the same. But over the past few weeks, I didn’t have that around me. My sister and my dad both live in different cities, so the little motivation I could get, was only from getting in touch with my peers, Apoorva and Vineeta that has helped me so far.&lt;/p&gt;
+
+&lt;p&gt;Because of these little instances, I’ve come to realise that in addition to doing something I like, I’m a person driven by people around me, their belief in seeing potential in me. But that also comes up to expectations and the fear of disappointing them, which acts as a good motivator for me.&lt;/p&gt;
+
+&lt;p&gt;But that’s just me. Finding out what motivates you, or knowing what doesn’t, can really help you align your vector to productivity. I personally made sure I was either talking to my father or my roommate to keep myself reminded of why I’m working for this and what I want to achieve out of it.&lt;/p&gt;
+
+&lt;p&gt;Here’s my list of debugging tips, you could try and see if they work for you (I’m a struggler myself; let me know if I should do something differently!) :&lt;/p&gt;
+
+&lt;h2 id=&quot;general-programming-advice&quot;&gt;General programming advice&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Time yourself: Lowers the chances of procrastination&lt;/li&gt;
+  &lt;li&gt;Don’t push it if it’s not happening: By this I don’t mean give up altogether. Take a break. It’s okay if you don’t complete the problem in one go. It’s important you enjoy solving it!&lt;/li&gt;
+  &lt;li&gt;If you’ve been doing well lately, Streak it! : If you get into the habit of updating your score daily, you’ll see how much you can pull yourself up by doing so little regularly. It is motivating to see the numbers go up&lt;/li&gt;
+  &lt;li&gt;Don’t stop after solving one: I’ve seen from experience that solutions show up as a domino effect sometimes&lt;/li&gt;
+  &lt;li&gt;Don’t associate the difficulty of the problem with the points&lt;/li&gt;
+  &lt;li&gt;Pick more than just one problem and work on them simultaneously: Switch between them if they seem to meet a dead end, and come back to them later.&lt;/li&gt;
+  &lt;li&gt;Collaborate: Or ask fellow DVas. We’re all the same!&lt;/li&gt;
+  &lt;li&gt;Don’t worry about the score: Contrary to popular belief, keep sustained efforts in place and the score will go up on it’s own. Don’t solve the problems for points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;balancing-dv-and-everything-else&quot;&gt;Balancing DV and everything else&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Find your zone: I can’t emphasise enough how important this is! If it’s music, or your spot by the window, your your desk away from people. Find it. Reserve it. Utilise it. Use it to focus on your problem at hand.&lt;/li&gt;
+  &lt;li&gt;Cut out the distractions: I went back to my board examination habit of keeping my water bottle and snacks ready in place, and cellphone off.&lt;/li&gt;
+  &lt;li&gt;Assign a convenient time, with buffers around it to ensure you’re able to get it regularly&lt;/li&gt;
+  &lt;li&gt;Put yourself first! While other things seem important, prioritise. Is it really worth compromising this over?&lt;/li&gt;
+  &lt;li&gt;There’s fun associated to solving problems if you can find yourself doing them stress-free.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I would say this as a reminder to myself, or put it on a stickie in my room if I were home, but I’ll share it with my fellow DVas as well:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You are your own excuse, and your own motivator. Leverage this extra time as much as you can, there is still time till all the workload adds to this and takes the joy out of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Knowledge is power!&lt;/p&gt;
+
+&lt;p&gt;Also guys the world will be doomed if we don’t learn how to tackle AI lets save the world and DecodeVector.&lt;/p&gt;
+
+&lt;p&gt;Good luck!&lt;/p&gt;
+
+&lt;h2 id=&quot;rating-sawtooth&quot;&gt;Rating Sawtooth&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/week-32-chart.png&quot; alt=&quot;Figure your pattern&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-new&quot;&gt;What’s New?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Minor changes in look and feel of the website.&lt;/li&gt;
+  &lt;li&gt;Minor bug fixes in the DV website.&lt;/li&gt;
+  &lt;li&gt;Changed tag implementation in the DV website.&lt;/li&gt;
+  &lt;li&gt;Updated PSET issues pointed out on GitHub.&lt;/li&gt;
+  &lt;li&gt;New PSET problems: 0083 - 0100.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most PSET problems solved (this week): Apoorva (6)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved (all-time): Apoorva (52)&lt;/li&gt;
+  &lt;li&gt;Most rating (this week): Apoorva (52)&lt;/li&gt;
+  &lt;li&gt;Most rating (all-time): Apoorva (52)&lt;/li&gt;
+  &lt;li&gt;Best streak: Simran (13/06/2018-17/06/2018 .. 5 days), Apoorva (14/05/2018-18/05/2018 .. 5 days)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved in one day: Apoorva (29/04/2018 .. 14 problems)&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Simran Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Update" />
+      
+
+      
+
+      
+        <summary type="html">I think it would be safe to say that last week’s update left each of us wanting to point our compasses back to dv, because while it gets difficult to attain the same kind of focus and attention as we together achieve in our N5’s room of requirement, it does not formulate itself to be an excuse. We’re all very capable people and should be standing by our word, since DecodeVector is something we all want to learn from.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -345,7 +569,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -389,7 +613,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -433,7 +657,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -485,7 +709,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -529,7 +753,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -573,7 +797,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -617,7 +841,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -661,7 +885,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -709,7 +933,7 @@
       
         <category term="Pset" />
       
-        <category term="0-Point" />
+        <category term="0 Point" />
       
 
       
@@ -753,7 +977,7 @@
       
         <category term="Pset" />
       
-        <category term="1-Point" />
+        <category term="1 Point" />
       
 
       
@@ -974,7 +1198,7 @@
       
         <category term="Pset" />
       
-        <category term="1-Point" />
+        <category term="1 Point" />
       
 
       
@@ -1041,165 +1265,13 @@
       
         <category term="Pset" />
       
-        <category term="3-Point" />
+        <category term="3 Point" />
       
 
       
         <category term="Python" />
       
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0070: Lexicographic Permutations</title>
-      
-      <link href="http://localhost:4000/sub/pset-0070/" rel="alternate" type="text/html" title="0070: Lexicographic Permutations" />
-      <published>2018-05-09T16:40:00+05:30</published>
-      <updated>2018-05-09T16:40:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0070</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0070/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A permutation is an ordered arrangement of objects. For example, $3124$ is one possible permutation of the digits $1, 2, 3$ and $4$. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of $0, 1$ and $2$ are:&lt;/p&gt;
-
-&lt;p&gt;’’’
-012   021   102   120   201   210
-‘’’&lt;/p&gt;
-
-&lt;p&gt;What is the millionth lexicographic permutation of the digits $0, 1, 2, 3, 4, 5, 6, 7, 8$ and $9$?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="3-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0069: Non Abundant Sums</title>
-      
-      <link href="http://localhost:4000/sub/pset-0069/" rel="alternate" type="text/html" title="0069: Non Abundant Sums" />
-      <published>2018-05-09T16:40:00+05:30</published>
-      <updated>2018-05-09T16:40:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0069</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0069/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A perfect number is a number for which the sum of its proper divisors is exactly equal to the number. For example, the sum of the proper divisors of $28$ would be $1 + 2 + 4 + 7 + 14 = 28$, which means that $28$ is a perfect number.&lt;/p&gt;
-
-&lt;p&gt;A number $n$ is called deficient if the sum of its proper divisors is less than $n$ and it is called abundant if this sum exceeds $n$.&lt;/p&gt;
-
-&lt;p&gt;As $12$ is the smallest abundant number, $1 + 2 + 3 + 4 + 6 = 16$, the smallest number that can be written as the sum of two abundant numbers is $24$. By mathematical analysis, it can be shown that all integers greater than $28123$ can be written as the sum of two abundant numbers. However, this upper limit cannot be reduced any further by analysis even though it is known that the greatest number that cannot be expressed as the sum of two abundant numbers is less than this limit.&lt;/p&gt;
-
-&lt;p&gt;Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="3-Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0068: Names Scores</title>
-      
-      <link href="http://localhost:4000/sub/pset-0068/" rel="alternate" type="text/html" title="0068: Names Scores" />
-      <published>2018-05-09T16:38:00+05:30</published>
-      <updated>2018-05-09T16:38:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0068</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0068/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Using &lt;a href=&quot;https://projecteuler.net/project/resources/p022_names.txt&quot;&gt;names.txt&lt;/a&gt; (right click and ‘Save Link/Target As…’), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.&lt;/p&gt;
-
-&lt;p&gt;For example, when the list is sorted into alphabetical order, COLIN, which is worth $3 + 15 + 12 + 9 + 14 = 53$, is the $938th$ name in the list. So, COLIN would obtain a score of $938 × 53 = 49714$.&lt;/p&gt;
-
-&lt;p&gt;What is the total of all the name scores in the file?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="3-Point" />
-      
-
-      
-        <category term="Python" />
+        <category term="Project Euler" />
       
 
       

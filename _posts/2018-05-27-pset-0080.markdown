@@ -2,8 +2,8 @@
 layout: post
 title:  "0080: Palindrome"
 date:   2018-05-27 21:59:00 +0530
-categories: Pset 0-Point
-tags: Python
+categories: ['Pset', '0 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 

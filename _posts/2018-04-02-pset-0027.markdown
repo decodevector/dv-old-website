@@ -2,8 +2,8 @@
 layout: post
 title:  "0027: 8 Queens Puzzle"
 date:   2018-04-02 17:00:00 +0530
-categories: Pset 2-Point
-tags:
+categories: ['Pset', '2 Point']
+tags: ['Chess']
 author: Gaurav Singh
 ---
 

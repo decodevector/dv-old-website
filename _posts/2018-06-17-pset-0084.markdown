@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "0084: Caeser's Cipher"
+date:   2018-06-17 19:05:00 +0530
+categories: ['Pset', '3 Point']
+tags: ['Python']
+author: Gaurav Singh
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2tjzHzWOjQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Caesar's method is an encryption scheme involving shifting an alphabet (so $a \rightarrow c$, $b \rightarrow d$, $c \rightarrow e$, $d \rightarrow f$ , etc., $x \rightarrow z$, $y \rightarrow a$, $z \rightarrow b$). It is one of the most basic encryption methods, and is a specialized form of a transposition cipher.
+
+Because the alphabet is rotated, the shift is consistent. A mapping of $a \rightarrow b$, $b \rightarrow c$, etc. is termed `ROT 1` because the letters are shifted by one. Note that z would map to a due to the circular aspect of the rotation.
+
+![CaesarsMethod_800](http://mathworld.wolfram.com/images/eps-gif/CaesarsMethod_800.gif)
+
+Encrypting with `ROT alpha` and `ROT beta` yields the same ciphertext if and only if `alpha=beta (mod 26)`.
+
+`ROT 13` is a popular encryption method on the Internet since it obfuscates text sufficiently to prevent accidental reading of the text. It is commonly used to list answers of puzzles, for example.
+
+Caesar's method is a very weak encryption scheme, since there are 26 possibilities (of which one, `ROT 26`, is trivial). These can be easily checked by hand.
+
+Write two python programs --
+
+(a) Reads a message and a caeser's key (integer) and encrypts the message with the given key.
+
+(b) Reads an encrypted message and a caeser's key (integer) and decrypt the message with the given key.
+
+----
+Macura, Wiktor K. "Caesar's Method." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. http://mathworld.wolfram.com/CaesarsMethod.html

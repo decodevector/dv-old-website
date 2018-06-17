@@ -2,8 +2,8 @@
 layout: post
 title:  "0064: Number Letter Counts"
 date:   2018-05-09 16:30:00 +0530
-categories: Pset 2-Point
-tags: Python
+categories: ['Pset', '2 Point']
+tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---
 

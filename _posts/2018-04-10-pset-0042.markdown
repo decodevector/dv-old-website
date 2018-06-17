@@ -2,8 +2,8 @@
 layout: post
 title:  "0042: Set Operations"
 date:   2018-04-10 08:50:00 +0530
-categories: Pset 2-Point
-tags: Python Sets
+categories: ['Pset', '2 Point']
+tags: ['Python','Sets']
 author: Gaurav Singh
 ---
 Write the following set of Python functions.

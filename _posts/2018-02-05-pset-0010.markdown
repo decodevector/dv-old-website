@@ -2,8 +2,8 @@
 layout: post
 title:  "0010: Sine Wave"
 date:   2018-02-05 14:30:08 +0530
-categories: Pset 1-Point
-tags: p5.js
+categories: ['Pset', '1 Point']
+tags: ['p5.js']
 author: Gaurav Singh
 ---
 Plot sine wave in P5JS.

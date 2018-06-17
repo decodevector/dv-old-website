@@ -2,8 +2,8 @@
 layout: post
 title:  "0053: Cross and Naught"
 date:   2018-04-10 11:00:00 +0530
-categories: Pset 5-Point
-tags: Python
+categories: ['Pset', '5 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 Implement a (Command-line based) 2-player Cross and Naught game in Python.

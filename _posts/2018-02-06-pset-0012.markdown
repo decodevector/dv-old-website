@@ -2,8 +2,8 @@
 layout: post
 title:  "0012: Functions"
 date:   2018-02-06 14:30:08 +0530
-categories: Pset 1-Point
-tags:
+categories: ['Pset', '1 Point']
+tags: ['Functions']
 author: Gaurav Singh
 ---
 In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with a property that each input related to exactly one output. An example is a function that relates to each real number $x$ to its square $x^2$. The output of a function $f$ corresponding to an input $x$ is denoted by $f(x)$ (read as "$f$ of $x$"). In this example, if the input is $-3$, then the output is $9$, and we may write $f(-3)=0$. The input variable(s) are sometimes referred to as the argument(s) of the function.

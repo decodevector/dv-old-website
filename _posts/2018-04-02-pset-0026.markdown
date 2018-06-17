@@ -2,8 +2,8 @@
 layout: post
 title:  "0026: Uniform acceleration"
 date:   2018-04-02 14:25:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '1 Point']
+tags: ['p5.js','Project Euler']
 author: Gaurav Singh
 ---
 

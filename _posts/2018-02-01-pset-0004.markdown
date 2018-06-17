@@ -2,8 +2,8 @@
 layout: post
 title:  "0004: Standard Projectile motion"
 date:   2018-02-01 14:30:08 +0530
-categories: Pset 1-Point
-tags: Physics Kinematics p5.js
+categories: ['Pset', '1 Point']
+tags: ['p5.js', 'Kinematics']
 author: Gaurav Singh
 ---
 Given that an object is launched at an initial velocity $v$ with an angle from the horizontal in vacuum system placed on Earth. Gravity is experienced only downwards and may be represented by $a_g$. Derive the following kinematic quantities of a standard projectile motion.

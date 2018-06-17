@@ -2,8 +2,8 @@
 layout: post
 title:  "0052: Longest Collatz Sequence"
 date:   2018-04-10 10:00:00 +0530
-categories: Pset 5-Point
-tags: Python Collatz-Conjecture
+categories: ['Pset', '5 Point']
+tags: ['Python','Project Euler','Collatz Conjecture']
 author: Gaurav Singh
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LqKpkdRRLZw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

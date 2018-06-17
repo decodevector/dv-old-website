@@ -2,8 +2,8 @@
 layout: post
 title:  "0048: Summation of Primes"
 date:   2018-04-10 09:39:00 +0530
-categories: Pset 1-Point
-tags: Python Primes
+categories: ['Pset', '1 Point']
+tags: ['Python','Primes']
 author: Gaurav Singh
 ---
 _The following problem is taken from Project Euler._

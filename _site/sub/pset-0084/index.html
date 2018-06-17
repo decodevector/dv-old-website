@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=1024">
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=default'></script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  
+  
+  
+  <title>0084: Caeser&#39;s Cipher</title>
+  <meta name="description" content="">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/sub/pset-0084/">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://localhost:4000/feed.xml">
+
+  
+
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'IBM+Plex+Sans:300,400,600', 'IBM+Plex+Mono:300,400,600'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+
+
+  <!-- HTML elements for search -->
+  <script src="/assets/search.js"></script>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <a title="Defence against the Dark Arts" class="site-title" href="/">DecodeVector
+    <!-- <img src="logo.png" width="48px" style="padding:20px 0 20px 0"/> -->
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/join/">Join</a>
+      
+        
+        <a class="page-link" href="/categories/pset/">Pset</a>
+      
+        
+        <a class="page-link" href="/categories/notes/">Notes</a>
+      
+        
+        <a class="page-link" href="/members/">Members</a>
+      
+        
+        <a class="page-link" href="/search/">Search</a>
+      
+    </nav>
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">0084: Caeser&#39;s Cipher</h1>
+    
+    <p class="post-meta"><time datetime="2018-06-17T19:05:00+05:30" itemprop="datePublished">Jun 17, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/pset/">Pset</a>,
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/3-point/">3 Point</a>
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+
+ •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/tags/python/">Python</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N2tjzHzWOjQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+<p>Caesar’s method is an encryption scheme involving shifting an alphabet (so $a \rightarrow c$, $b \rightarrow d$, $c \rightarrow e$, $d \rightarrow f$ , etc., $x \rightarrow z$, $y \rightarrow a$, $z \rightarrow b$). It is one of the most basic encryption methods, and is a specialized form of a transposition cipher.</p>
+
+<p>Because the alphabet is rotated, the shift is consistent. A mapping of $a \rightarrow b$, $b \rightarrow c$, etc. is termed <code class="highlighter-rouge">ROT 1</code> because the letters are shifted by one. Note that z would map to a due to the circular aspect of the rotation.</p>
+
+<p><img src="http://mathworld.wolfram.com/images/eps-gif/CaesarsMethod_800.gif" alt="CaesarsMethod_800" /></p>
+
+<p>Encrypting with <code class="highlighter-rouge">ROT alpha</code> and <code class="highlighter-rouge">ROT beta</code> yields the same ciphertext if and only if <code class="highlighter-rouge">alpha=beta (mod 26)</code>.</p>
+
+<p><code class="highlighter-rouge">ROT 13</code> is a popular encryption method on the Internet since it obfuscates text sufficiently to prevent accidental reading of the text. It is commonly used to list answers of puzzles, for example.</p>
+
+<p>Caesar’s method is a very weak encryption scheme, since there are 26 possibilities (of which one, <code class="highlighter-rouge">ROT 26</code>, is trivial). These can be easily checked by hand.</p>
+
+<p>Write two python programs –</p>
+
+<p>(a) Reads a message and a caeser’s key (integer) and encrypts the message with the given key.</p>
+
+<p>(b) Reads an encrypted message and a caeser’s key (integer) and decrypt the message with the given key.</p>
+
+<hr />
+<p>Macura, Wiktor K. “Caesar’s Method.” From MathWorld–A Wolfram Web Resource, created by Eric W. Weisstein. http://mathworld.wolfram.com/CaesarsMethod.html</p>
+
+  </div>
+
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+
+<!-- <a href="mailto:grv@mathscapes.xyz"><i class="far fa-envelope"></i></a> ∙
+<a href="https://github.com/mathscapes/DecodeVector"><i class="fab fa-github"></i></a> ∙
+<a href="https://facebook.com/mathscapes"><i class="fab fa-facebook"></i></a> ∙
+<a href="https://instagram.com/mathscapesco"><i class="fab fa-instagram"></i></i></a> ∙
+<a href="https://medium.com/mathscapes"><i class="fab fa-medium-m"></i></a> ∙
+<a href="https://twitter.com/mathscapesco"><i class="fab fa-twitter"></i></a> -->
+<br>
+Mathscapes Research.  Ver.0.1-170618
+<br>
+<a href="https://github.com/mathscapes/DecodeVector/issues">Report a bug</a> ∙
+<a href="/sub/code-of-conduct/">Code of Conduct</a> ∙
+<a href="/sub/rating-system/">Rating System</a>
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

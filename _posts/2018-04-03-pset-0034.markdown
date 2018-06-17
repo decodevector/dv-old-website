@@ -2,8 +2,8 @@
 layout: post
 title:  "0034: Is divisible?"
 date:   2018-04-03 00:52:00 +0530
-categories: Pset 0-Point
-tags: Python
+categories: ['Pset', '0 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 

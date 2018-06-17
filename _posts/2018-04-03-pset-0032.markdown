@@ -2,8 +2,8 @@
 layout: post
 title:  "0032: 0/1 Knapsack"
 date:   2018-04-03 00:40:00 +0530
-categories: Pset 5-Point
-tags: Python Combinatorial-Optimization
+categories: ['Pset', '5 Point']
+tags: ['Python', 'Combinatorial Optimization']
 author: Gaurav Singh
 ---
 

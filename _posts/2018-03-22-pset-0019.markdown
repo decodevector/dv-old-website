@@ -2,8 +2,8 @@
 layout: post
 title:  "0019: Adding Fractions"
 date:   2018-03-22 15:14:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '1 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 

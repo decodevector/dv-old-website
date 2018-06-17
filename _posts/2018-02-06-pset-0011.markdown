@@ -2,8 +2,8 @@
 layout: post
 title:  "0011: 1-Bit Full Adder"
 date:   2018-02-06 14:30:08 +0530
-categories: Pset 1-Point
-tags: Logic-Gates
+categories: ['Pset', '1 Point']
+tags: ['Logic Gates']
 author: Gaurav Singh
 ---
 Design 1-bit full adder using the minimum number of logic gates.

@@ -2,8 +2,8 @@
 layout: post
 title:  "0065: Counting Sundays"
 date:   2018-05-09 16:34:00 +0530
-categories: Pset 2-Point
-tags: Python
+categories: ['Pset', '2 Point']
+tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---
 

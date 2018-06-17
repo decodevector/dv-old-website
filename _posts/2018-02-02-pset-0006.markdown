@@ -2,8 +2,8 @@
 layout: post
 title:  "0006: 1-Bit Half Subtractor"
 date:   2018-02-02 14:30:08 +0530
-categories: Pset 1-Point
-tags: Logic-Gates
+categories: ['Pset', '1 Point']
+tags: ['Logic Gates']
 author: Gaurav Singh
 ---
 

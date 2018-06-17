@@ -2,8 +2,8 @@
 layout: post
 title:  "0021: Largest Palindrome Product"
 date:   2018-03-24 14:25:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '1 Point']
+tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---
 _The following problem is taken from Project Euler._

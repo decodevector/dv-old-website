@@ -2,8 +2,8 @@
 layout: post
 title:  "0035: Curtains"
 date:   2018-04-03 00:55:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '1 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 Write a computer program that prints like following.

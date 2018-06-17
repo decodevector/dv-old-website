@@ -2,8 +2,8 @@
 layout: post
 title:  "0061: Repeated Numbers"
 date:   2018-04-10 11:25:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '2 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 Write a computer program to read 10 integers and prints the repeated integers (which have appeared two or more times).

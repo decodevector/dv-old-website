@@ -2,8 +2,8 @@
 layout: post
 title:  "0076: 1-bit Half Subtractor 2"
 date:   2018-05-27 21:51:00 +0530
-categories: Pset 0-Point
-tags: Python
+categories: ['Pset', '0 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 

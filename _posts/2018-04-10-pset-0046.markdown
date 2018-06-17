@@ -2,8 +2,8 @@
 layout: post
 title:  "0046: Largest product in a series"
 date:   2018-04-10 09:33:00 +0530
-categories: Pset 1-Point
-tags: Python Combinatorial-Optimization
+categories: ['Pset', '1 Point']
+tags: ['Python','Combinatorial Optimization']
 author: Gaurav Singh
 ---
 _The following problem is taken from Project Euler._

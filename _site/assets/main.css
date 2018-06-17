@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 300 18px/1.6 "Roboto", sans-serif;
+  font: 400 16px/1.6 "IBM Plex Sans", sans-serif;
   color: #000;
   background-color: #FFF;
   -webkit-text-size-adjust: 100%;
@@ -49,7 +49,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 15.75px; }
+  font-size: 14px; }
 
 /**
  * Lists
@@ -65,7 +65,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300; }
+  font-weight: 400; }
   h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
     font-size: inherit; }
 
@@ -73,10 +73,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #29ABE2;
+  color: #546E7A;
   text-decoration: none; }
   a:visited {
-    color: #1a8dbe; }
+    color: #3f535c; }
   a:hover {
     color: #000;
     text-decoration: underline; }
@@ -108,7 +108,7 @@ hr {
  */
 pre,
 code {
-  font-family: "Roboto Mono", Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+  font-family: "IBM Plex Mono", Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
   font-size: 13px;
   border: 1px solid #e8e8e8;
   border-radius: 0;
@@ -220,13 +220,13 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 15.75px;
+  font-size: 14px;
   color: #828282; }
 
 .post-link, .post-link:visited {
   color: #000; }
 .post-link:hover {
-  color: #29ABE2; }
+  color: #546E7A; }
 
 .post-continue a {
   padding: 8px 15px;
@@ -236,7 +236,7 @@ pre {
     background-color: #e8e8e8; }
   .post-continue a:hover {
     color: white;
-    background-color: #29ABE2; }
+    background-color: #546E7A; }
 
 /**
  * Posts
@@ -286,7 +286,7 @@ pre {
   .pagination a, .pagination a:visited {
     color: #828282; }
   .pagination a:hover {
-    color: #29ABE2; }
+    color: #546E7A; }
   .pagination .previous {
     float: left; }
   .pagination .next {
@@ -434,7 +434,7 @@ pre {
     color: #099; }
 
 .site-header {
-  background-color: #000;
+  background-color: #546E7A;
   width: 100%;
   position: fixed;
   z-index: 100;
@@ -448,7 +448,7 @@ pre {
 
 .site-title, .site-title:visited {
   color: #fff;
-  font-weight: 300; }
+  font-weight: 400; }
 
 .site-nav .page-link {
   color: #fff;
@@ -481,16 +481,16 @@ a.level-0, a.level-0:visited {
 
 h1 {
   color: black;
-  font-family: "Roboto";
-  font-weight: 400; }
+  font-family: "IBM Plex Sans";
+  font-weight: 600; }
 
 h1.page-heading {
   color: black;
-  font-family: "Roboto";
+  font-family: "IBM Plex Sans";
   font-size: 30px;
   letter-spacing: 0px;
   line-height: 1;
-  font-weight: 400; }
+  font-weight: 600; }
 
 .page-content h4 {
   color: #85929e;
@@ -500,13 +500,13 @@ h1.page-heading {
   font-size: 48px; }
 
 a, a:visited {
-  color: #29ABE2; }
+  color: #546E7A; }
 
 .site-footer a, .site-footer a:visited {
   color: black; }
 
 .site-footer a:hover, .site-footer a:hover {
-  color: #29ABE2; }
+  color: #546E7A; }
 
 blockquote {
   padding: 30px;
@@ -515,11 +515,11 @@ blockquote {
   font-style: normal;
   letter-spacing: 0px;
   color: #828282;
-  font-weight: 300;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-family: "Roboto", sans-serif;
-  font-size: 18px; }
+  font-weight: 400;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16px; }
 
 hr {
   margin: 30px 0;
@@ -527,18 +527,19 @@ hr {
   background-color: #e8e8e8; }
 
 h2 {
-  font-family: "Roboto";
-  font-weight: 300; }
+  font-family: "IBM Plex Sans";
+  font-weight: 400;
+  padding-top: 10px; }
 
 h3, h4, h5, h6 {
-  font-weight: 300; }
+  font-weight: 400; }
 
 body {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300; }
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400; }
 
 a.button, a.button:visited {
-  background-color: #29ABE2;
+  background-color: #546E7A;
   color: #fff;
   margin: 10px 0;
   padding: 10px 30px; }
@@ -557,10 +558,10 @@ a.secondary:hover {
 a.button:hover {
   text-decoration: none;
   color: #fff;
-  background-color: #1a8dbe; }
+  background-color: #3f535c; }
 
 .site-footer {
-  font-size: 18px; }
+  font-size: 16px; }
 
 #search-input {
   width: 100%;
@@ -568,4 +569,4 @@ a.button:hover {
   margin: 8px 0;
   box-sizing: border-box;
   font-size: 16px;
-  font-family: "Roboto", sans-serif; }
+  font-family: "IBM Plex Sans", sans-serif; }

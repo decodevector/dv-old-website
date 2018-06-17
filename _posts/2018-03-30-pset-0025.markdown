@@ -2,8 +2,8 @@
 layout: post
 title:  "0025: Sigma Function"
 date:   2018-03-30 15:10:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '1 Point']
+tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---
 

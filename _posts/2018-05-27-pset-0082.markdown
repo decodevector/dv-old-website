@@ -2,8 +2,8 @@
 layout: post
 title:  "0082: Star Pattern 2"
 date:   2018-05-27 22:00:00 +0530
-categories: Pset 0-Point
-tags: Python
+categories: ['Pset', '0 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 

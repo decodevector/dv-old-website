@@ -2,8 +2,8 @@
 layout: post
 title:  "0050: Highly Divisible Triangle Number"
 date:   2018-04-10 09:50:00 +0530
-categories: Pset 1-Point
-tags: Python
+categories: ['Pset', '1 Point']
+tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---
 _The following problem is taken from Project Euler._

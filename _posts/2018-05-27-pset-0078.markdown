@@ -2,8 +2,8 @@
 layout: post
 title:  "0078: Sum of digits 2"
 date:   2018-05-27 21:56:00 +0530
-categories: Pset 0-Point
-tags: Python
+categories: ['Pset', '0 Point']
+tags: ['Python']
 author: Gaurav Singh
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "0031: Bubble Sort"
 date:   2018-04-03 00:30:00 +0530
-categories: Pset 3-Point
-tags: Python Sorting
+categories: ['Pset', '3 Point']
+tags: ['Python','Sorting']
 author: Gaurav Singh
 ---
 

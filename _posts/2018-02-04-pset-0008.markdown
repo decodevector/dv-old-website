@@ -2,8 +2,8 @@
 layout: post
 title:  "0008: Caroll's Puzzles"
 date:   2018-02-04 14:30:08 +0530
-categories: Pset 1-Point
-tags: Propositional-Logic
+categories: ['Pset', '1 Point']
+tags: ['Propositional Logic']
 author: Gaurav Singh
 ---
 Lewis Carroll may have exaggerated a little, as math professors often do about the utility of their subject. Carroll is best known for his nonsensical books, including the infamous “Alice in Wonderland”, written for children of ages five to ninety; but his main line of work was as a professor of mathematics at Oxford University in England. He studied logic as a vocation, and he played with logic in his writings. His stories of little girls and strange creatures are filled with bad puns and other plays with words, absurd implications, contradictions, and numerous and various offenses to common sense. It is as though he were writing his silly stories as much to amuse himself as to entertain his audiences. As a teacher of logic and a lover of nonsense, Carroll designed entertaining puzzles to train people in systematic reasoning. In these puzzles he strings together a list of implications, purposefully inane so that the reader is not influenced by any preconceived opinions. The job of the reader is to use all the listed implications to arrive at an inescapable conclusion. You will get the general idea after the following example.

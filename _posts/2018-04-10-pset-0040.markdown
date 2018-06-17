@@ -2,8 +2,8 @@
 layout: post
 title:  "0040: Calculator"
 date:   2018-04-10 08:27:00 +0530
-categories: Pset 0-Point
-tags: Python Arithmetic
+categories: ['Pset', '0 Point']
+tags: ['Python','Arithmetic']
 author: Gaurav Singh
 ---
 Write the following set of Python functions.

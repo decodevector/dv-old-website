@@ -2,8 +2,8 @@
 layout: post
 title:  "0073: Moving in Infinity"
 date:   2018-05-27 16:28:00 +0530
-categories: Pset 1-Point
-tags: p5.js
+categories: ['Pset', '1 Point']
+tags: ['p5.js']
 author: Gaurav Singh
 ---
 

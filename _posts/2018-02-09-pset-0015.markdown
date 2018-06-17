@@ -2,8 +2,8 @@
 layout: post
 title:  "0015: Simple Harmonic Motion"
 date:   2018-02-09 14:30:08 +0530
-categories: Pset 1-Point
-tags: Kinematics p5.js
+categories: ['Pset', '1 Point']
+tags: ['p5.js', 'Kinematics']
 author: Gaurav Singh
 ---
 In mechanics and physics, simple harmonic motion is a special type of periodic motion or oscillation motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.

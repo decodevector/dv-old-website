@@ -4,13 +4,13 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'Roboto', sans-serif;
-$heading-font: 'Roboto';
-$monospace-font-family: 'Roboto Mono', Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
-$body-font-family: 'Roboto', sans-serif;
-$base-font-size:   18px;
-$base-font-weight: 300;
-$heading-font-weight: 400;
+$base-font-family: 'IBM Plex Sans', sans-serif;
+$heading-font: 'IBM Plex Sans';
+$monospace-font-family: 'IBM Plex Mono', Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$body-font-family: 'IBM Plex Sans', sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$heading-font-weight: 600;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6;
 
@@ -18,7 +18,7 @@ $spacing-unit:     30px;
 
 $text-color:       #000;
 $background-color: #FFF;
-$brand-color:      #29ABE2;
+$brand-color:      #546E7A;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -50,7 +50,7 @@ $on-laptop:        800px;
 @import "whiteglass";
 
 .site-header{
-    background-color:#000;
+    background-color:$brand-color;
     //#E8F5E9 ;
     width:100%;
     position:fixed;
@@ -159,8 +159,8 @@ blockquote{
     letter-spacing: 0px;
     color: $grey-color;
     font-weight: $base-font-weight;
-    margin-top:10px;
-    margin-bottom:10px;
+    margin-top:30px;
+    margin-bottom:30px;
     font-family: $base-font-family;
     font-size: $base-font-size;
 }
@@ -172,7 +172,8 @@ hr{
 }
 h2{
     font-family: $heading-font;
-    font-weight: 300;
+    font-weight: 400;
+    padding-top: 10px;
 }
 h3, h4, h5, h6{
     font-weight:$base-font-weight;
@@ -217,3 +218,14 @@ a.button:hover{
     font-size:16px;
     font-family: $body-font-family;
 }
+// ul.post-archives{
+//     list-style-type: none;
+//     -webkit-columns: 2;
+//     -moz-columns: 2;
+//     columns: 2;
+//     list-style-position: inside;
+// }
+// ul.post-archives li{
+//     float: left;
+//     // width: 50%;
+// }
