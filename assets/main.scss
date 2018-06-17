@@ -170,6 +170,12 @@ hr{
     height:2px;
     background-color: $grey-color-light;
 }
+.post-link{
+    font-family: $heading-font;
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 10px;
+}
 h2{
     font-family: $heading-font;
     font-weight: 400;
@@ -218,14 +224,14 @@ a.button:hover{
     font-size:16px;
     font-family: $body-font-family;
 }
-// ul.post-archives{
-//     list-style-type: none;
-//     -webkit-columns: 2;
-//     -moz-columns: 2;
-//     columns: 2;
-//     list-style-position: inside;
-// }
-// ul.post-archives li{
-//     float: left;
-//     // width: 50%;
-// }
+table.post-archives tr{
+    vertical-align:top;
+}
+.post-date, .post-author{
+    color: $brand-color;
+    font-size: 16px;
+}
+.post-title2{
+    color: #000;
+    font-size: 16px;
+}

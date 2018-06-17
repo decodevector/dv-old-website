@@ -526,6 +526,12 @@ hr {
   height: 2px;
   background-color: #e8e8e8; }
 
+.post-link {
+  font-family: "IBM Plex Sans";
+  font-size: 22px;
+  font-weight: 400;
+  padding-top: 10px; }
+
 h2 {
   font-family: "IBM Plex Sans";
   font-weight: 400;
@@ -570,3 +576,14 @@ a.button:hover {
   box-sizing: border-box;
   font-size: 16px;
   font-family: "IBM Plex Sans", sans-serif; }
+
+table.post-archives tr {
+  vertical-align: top; }
+
+.post-date, .post-author {
+  color: #546E7A;
+  font-size: 16px; }
+
+.post-title2 {
+  color: #000;
+  font-size: 16px; }

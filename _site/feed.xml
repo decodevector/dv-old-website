@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-06-17T21:57:37+05:30</updated>
+  <updated>2018-06-17T23:07:50+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -199,9 +199,10 @@
 
 &lt;h2 id=&quot;whats-new&quot;&gt;What’s New?&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Minor changes in look and feel of the website.&lt;/li&gt;
-  &lt;li&gt;Minor bug fixes in the DV website.&lt;/li&gt;
+  &lt;li&gt;Changes in look and feel of the website.&lt;/li&gt;
+  &lt;li&gt;Updated underlying website dependencies.&lt;/li&gt;
   &lt;li&gt;Changed tag implementation in the DV website.&lt;/li&gt;
+  &lt;li&gt;Fixed search to be able to search the post/page content.&lt;/li&gt;
   &lt;li&gt;Updated PSET issues pointed out on GitHub.&lt;/li&gt;
   &lt;li&gt;New PSET problems: 0083 - 0100.&lt;/li&gt;
 &lt;/ul&gt;
