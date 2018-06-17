@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0093: Newton Raphson"
+date:   2018-06-17 23:35:00 +0530
+categories: ['Pset', '3 Point']
+tags: ['Python']
+author: Gaurav Singh
+---
+​Write a computer program to compute square root by [newton raphson method](https://en.wikipedia.org/wiki/Newton%27s_method).

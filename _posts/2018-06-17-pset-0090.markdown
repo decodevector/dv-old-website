@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0090: Floating point average"
+date:   2018-06-17 23:30:00 +0530
+categories: ['Pset', '0 Point']
+tags: ['Python']
+author: Gaurav Singh
+---
+Write a program that calculates the average of an array of 10 floating-point values.

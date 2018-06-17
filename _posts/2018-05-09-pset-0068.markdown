@@ -2,7 +2,7 @@
 layout: post
 title:  "0068: Names Scores"
 date:   2018-05-09 16:38:00 +0530
-categories: ['Pset', '3 Point']
+categories: ['Pset', '5 Point']
 tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "0023: Sum Square Difference"
 date:   2018-03-30 14:35:00 +0530
-categories: ['Pset', '1 Point']
+categories: ['Pset', '2 Point']
 tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---

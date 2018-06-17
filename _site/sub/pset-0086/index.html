@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=1024">
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=default'></script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  
+  
+  
+  <title>0086: Binomial Expansion</title>
+  <meta name="description" content="In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/sub/pset-0086/">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://localhost:4000/feed.xml">
+
+  
+
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'IBM+Plex+Sans:300,400,600', 'IBM+Plex+Mono:300,400,600'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+
+
+  <!-- HTML elements for search -->
+  <script src="/assets/search.js"></script>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <a title="Defence against the Dark Arts" class="site-title" href="/">DecodeVector
+    <!-- <img src="logo.png" width="48px" style="padding:20px 0 20px 0"/> -->
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/join/">Join</a>
+      
+        
+        <a class="page-link" href="/categories/pset/">Pset</a>
+      
+        
+        <a class="page-link" href="/categories/notes/">Notes</a>
+      
+        
+        <a class="page-link" href="/members/">Members</a>
+      
+        
+        <a class="page-link" href="/search/">Search</a>
+      
+    </nav>
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">0086: Binomial Expansion</h1>
+    
+    <p class="post-meta"><time datetime="2018-06-17T23:15:00+05:30" itemprop="datePublished">Jun 17, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/pset/">Pset</a>,
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/5-point/">5 Point</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+
+ •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/tags/python/">Python</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.</p>
+
+<p>Write a program that reads an integer $n$ and prints out entire expansion.</p>
+
+<p><em>Input:</em>
+4</p>
+
+<p><em>Output:</em>
+<script type="math/tex">(x + y)^4 = x^4+4x^3y+6x^2y^2+4xy^3+y^4</script></p>
+
+  </div>
+
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+
+<!-- <a href="mailto:grv@mathscapes.xyz"><i class="far fa-envelope"></i></a> ∙
+<a href="https://github.com/mathscapes/DecodeVector"><i class="fab fa-github"></i></a> ∙
+<a href="https://facebook.com/mathscapes"><i class="fab fa-facebook"></i></a> ∙
+<a href="https://instagram.com/mathscapesco"><i class="fab fa-instagram"></i></i></a> ∙
+<a href="https://medium.com/mathscapes"><i class="fab fa-medium-m"></i></a> ∙
+<a href="https://twitter.com/mathscapesco"><i class="fab fa-twitter"></i></a> -->
+<br>
+Mathscapes Research.  Ver.0.1-180618
+<br>
+<a href="https://github.com/mathscapes/DecodeVector/issues">Report a bug</a> ∙
+<a href="/sub/code-of-conduct/">Code of Conduct</a> ∙
+<a href="/sub/rating-system/">Rating System</a>
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

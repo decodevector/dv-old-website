@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0091: Unique random numbers"
+date:   2018-06-17 23:31:00 +0530
+categories: ['Pset', '2 Point']
+tags: ['Python']
+author: Gaurav Singh
+---
+Write a program that generates 5 unique random numbers.

@@ -2,7 +2,7 @@
 layout: post
 title:  "0047: Special Pythagorean Triplet"
 date:   2018-04-10 09:36:00 +0530
-categories: ['Pset', '1 Point']
+categories: ['Pset', '2 Point']
 tags: ['Python','Pythagoras-Theorem']
 author: Gaurav Singh
 ---

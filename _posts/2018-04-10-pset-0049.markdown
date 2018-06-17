@@ -2,7 +2,7 @@
 layout: post
 title:  "0049: Largest Product in a Grid"
 date:   2018-04-10 09:40:00 +0530
-categories: ['Pset', '1 Point']
+categories: ['Pset', '3 Point']
 tags: ['Python','Combinatorial Optimization']
 author: Gaurav Singh
 ---

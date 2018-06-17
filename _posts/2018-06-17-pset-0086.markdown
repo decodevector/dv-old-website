@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "0086: Binomial Expansion"
+date:   2018-06-17 23:15:00 +0530
+categories: ['Pset', '5 Point']
+tags: ['Python']
+author: Gaurav Singh
+---
+
+In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.
+
+Write a program that reads an integer $n$ and prints out entire expansion.
+
+_Input:_
+4
+
+_Output:_
+$$ (x + y)^4 = x^4+4x^3y+6x^2y^2+4xy^3+y^4 $$

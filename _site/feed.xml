@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-06-17T23:07:50+05:30</updated>
+  <updated>2018-06-18T02:16:59+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -22,6 +22,546 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Change in PSET points</title>
+      
+      <link href="http://localhost:4000/sub/change-in-pset-points/" rel="alternate" type="text/html" title="Change in PSET points" />
+      <published>2018-06-18T01:45:00+05:30</published>
+      <updated>2018-06-18T01:45:00+05:30</updated>
+      <id>http://localhost:4000/sub/change-in-pset-points</id>
+      <content type="html" xml:base="http://localhost:4000/sub/change-in-pset-points/">&lt;p&gt;Following problems are now for more points after review.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-to-2-points&quot;&gt;1 to 2 points&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;0017&lt;/li&gt;
+  &lt;li&gt;0018&lt;/li&gt;
+  &lt;li&gt;0021&lt;/li&gt;
+  &lt;li&gt;0022&lt;/li&gt;
+  &lt;li&gt;0023&lt;/li&gt;
+  &lt;li&gt;0024&lt;/li&gt;
+  &lt;li&gt;0047&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1-to-3-points&quot;&gt;1 to 3 points&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;0016&lt;/li&gt;
+  &lt;li&gt;0049&lt;/li&gt;
+  &lt;li&gt;0050&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-to-5-points&quot;&gt;3 to 5 points&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;0037&lt;/li&gt;
+  &lt;li&gt;0071&lt;/li&gt;
+  &lt;li&gt;0070&lt;/li&gt;
+  &lt;li&gt;0069&lt;/li&gt;
+  &lt;li&gt;0068&lt;/li&gt;
+  &lt;li&gt;0044&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please adjust your DV Rating and progress wiki.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Important" />
+      
+        <category term="Update" />
+      
+
+      
+
+      
+        <summary type="html">Following problems are now for more points after review.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0093: Newton Raphson</title>
+      
+      <link href="http://localhost:4000/sub/pset-0093/" rel="alternate" type="text/html" title="0093: Newton Raphson" />
+      <published>2018-06-17T23:35:00+05:30</published>
+      <updated>2018-06-17T23:35:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0093</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0093/">&lt;p&gt;​Write a computer program to compute square root by &lt;a href=&quot;https://en.wikipedia.org/wiki/Newton%27s_method&quot;&gt;newton raphson method&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="3 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">​Write a computer program to compute square root by newton raphson method.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0092: Base Conversion 2</title>
+      
+      <link href="http://localhost:4000/sub/pset-0092/" rel="alternate" type="text/html" title="0092: Base Conversion 2" />
+      <published>2018-06-17T23:32:00+05:30</published>
+      <updated>2018-06-17T23:32:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0092</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0092/">&lt;p&gt;Write a computer program to convert binary (base 2) numbers numbers into decimal (base 10).&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program to convert binary (base 2) numbers numbers into decimal (base 10).</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0091: Unique random numbers</title>
+      
+      <link href="http://localhost:4000/sub/pset-0091/" rel="alternate" type="text/html" title="0091: Unique random numbers" />
+      <published>2018-06-17T23:31:00+05:30</published>
+      <updated>2018-06-17T23:31:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0091</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0091/">&lt;p&gt;Write a program that generates 5 unique random numbers.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="2 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a program that generates 5 unique random numbers.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0090: Floating point average</title>
+      
+      <link href="http://localhost:4000/sub/pset-0090/" rel="alternate" type="text/html" title="0090: Floating point average" />
+      <published>2018-06-17T23:30:00+05:30</published>
+      <updated>2018-06-17T23:30:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0090</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0090/">&lt;p&gt;Write a program that calculates the average of an array of 10 floating-point values.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a program that calculates the average of an array of 10 floating-point values.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0089: Base Conversion</title>
+      
+      <link href="http://localhost:4000/sub/pset-0089/" rel="alternate" type="text/html" title="0089: Base Conversion" />
+      <published>2018-06-17T23:25:00+05:30</published>
+      <updated>2018-06-17T23:25:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0089</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0089/">&lt;p&gt;Write a computer program to convert decimal (base 10) numbers into binary (base 2) numbers.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="0 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">Write a computer program to convert decimal (base 10) numbers into binary (base 2) numbers.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0088: Number Spiral Diagonal</title>
+      
+      <link href="http://localhost:4000/sub/pset-0088/" rel="alternate" type="text/html" title="0088: Number Spiral Diagonal" />
+      <published>2018-06-17T23:20:00+05:30</published>
+      <updated>2018-06-17T23:20:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0088</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0088/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting with the number 1 and moving to the right in a clockwise direction a 5 by 5 spiral is formed as follows:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[21] 22  23  24 [25]
+ 20 [07] 08 [09] 10
+ 19  06 [01] 02  11
+ 18 [05] 04 [03] 12
+[17] 16  15  14 [13]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;It can be verified that the sum of the numbers on the diagonals is 101.&lt;/p&gt;
+
+&lt;p&gt;What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed in the same way?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="15 Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Euler Project" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0087: Quadratic Primes</title>
+      
+      <link href="http://localhost:4000/sub/pset-0087/" rel="alternate" type="text/html" title="0087: Quadratic Primes" />
+      <published>2018-06-17T23:20:00+05:30</published>
+      <updated>2018-06-17T23:20:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0087</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0087/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Euler discovered the remarkable quadratic formula:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;n^2+n+41&lt;/script&gt;
+
+&lt;p&gt;It turns out that the formula will produce $40$ primes for the consecutive integer values $0≤n≤39$
+. However, when $n=40,402+40+41=40(40+1)+41$ is divisible by $41$, and certainly when $n=41,412+41+41$ is clearly divisible by $41$.&lt;/p&gt;
+
+&lt;p&gt;The incredible formula $n^2−79n+1601$ was discovered, which produces $80$ primes for the consecutive values $0≤n≤79$. The product of the coefficients, $−79$ and $1601$, is $−126479$.&lt;/p&gt;
+
+&lt;p&gt;Considering quadratics of the form:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;n^2+an+b&lt;/script&gt;
+
+&lt;p&gt;where $\mod{a}&amp;lt;1000$ and $\mod{b}≤1000$&lt;br /&gt;
+where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
+
+&lt;p&gt;e.g. $\mod{11}=11$ and $\mod{−4}=4$&lt;/p&gt;
+
+&lt;p&gt;Find the product of the coefficients, $a$ and $b$, for the quadratic expression that produces the maximum number of primes for consecutive values of $n$, starting with $n=0$.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="15 Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Euler Project" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0086: Binomial Expansion</title>
+      
+      <link href="http://localhost:4000/sub/pset-0086/" rel="alternate" type="text/html" title="0086: Binomial Expansion" />
+      <published>2018-06-17T23:15:00+05:30</published>
+      <updated>2018-06-17T23:15:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0086</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0086/">&lt;p&gt;In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.&lt;/p&gt;
+
+&lt;p&gt;Write a program that reads an integer $n$ and prints out entire expansion.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
+4&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;
+&lt;script type=&quot;math/tex&quot;&gt;(x + y)^4 = x^4+4x^3y+6x^2y^2+4xy^3+y^4&lt;/script&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="5 Point" />
+      
+
+      
+        <category term="Python" />
+      
+
+      
+        <summary type="html">In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">0085: Reciprocal Cycles</title>
+      
+      <link href="http://localhost:4000/sub/pset-0085/" rel="alternate" type="text/html" title="0085: Reciprocal Cycles" />
+      <published>2018-06-17T23:10:00+05:30</published>
+      <updated>2018-06-17T23:10:00+05:30</updated>
+      <id>http://localhost:4000/sub/pset-0085</id>
+      <content type="html" xml:base="http://localhost:4000/sub/pset-0085/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A unit fraction contains 1 in the numerator. The decimal representation of the unit fractions with denominators 2 to 10 are given:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{2}	= 	0.5&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{3}	= 	0.(3)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{4}	= 	0.25&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{5}	= 	0.2&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{6}	= 	0.1(6)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{7}	= 	0.(142857)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{8}	= 	0.125&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{9}	= 	0.(1)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{10}	= 	0.1&lt;/script&gt;
+
+&lt;p&gt;Where $0.1(6)$ means $0.166666…$, and has a 1-digit recurring cycle. It can be seen that $\frac{1}{7}$ has a 6-digit recurring cycle.&lt;/p&gt;
+
+&lt;p&gt;Find the value of $d \lt 1000$ for which $\frac{1}{d}$ contains the longest recurring cycle in its decimal fraction part.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Pset" />
+      
+        <category term="10 Point" />
+      
+
+      
+        <category term="Python" />
+      
+        <category term="Project Euler" />
+      
+
+      
+        <summary type="html">The following problem is taken from Project Euler.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -201,10 +741,10 @@
 &lt;ul&gt;
   &lt;li&gt;Changes in look and feel of the website.&lt;/li&gt;
   &lt;li&gt;Updated underlying website dependencies.&lt;/li&gt;
-  &lt;li&gt;Changed tag implementation in the DV website.&lt;/li&gt;
+  &lt;li&gt;Changed category/tag implementation in the DV website.&lt;/li&gt;
   &lt;li&gt;Fixed search to be able to search the post/page content.&lt;/li&gt;
   &lt;li&gt;Updated PSET issues pointed out on GitHub.&lt;/li&gt;
-  &lt;li&gt;New PSET problems: 0083 - 0100.&lt;/li&gt;
+  &lt;li&gt;New PSET problems! 0083 - 0093.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
@@ -719,564 +1259,6 @@
 
       
         <summary type="html">Write a function reverseNumber(x) which reverses the number x.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0078: Sum of digits 2</title>
-      
-      <link href="http://localhost:4000/sub/pset-0078/" rel="alternate" type="text/html" title="0078: Sum of digits 2" />
-      <published>2018-05-27T21:56:00+05:30</published>
-      <updated>2018-05-27T21:56:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0078</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0078/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;findSumOfDigits(x)&lt;/code&gt; which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="0 Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a function findSumOfDigits(x) which calculates the sum of its digits. Now write a computer program that reads two numbers and returns 1 if sum of their digits are equal and 0 otherwise.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0077: Sum of digits</title>
-      
-      <link href="http://localhost:4000/sub/pset-0077/" rel="alternate" type="text/html" title="0077: Sum of digits" />
-      <published>2018-05-27T21:54:00+05:30</published>
-      <updated>2018-05-27T21:54:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0077</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0077/">&lt;p&gt;Write a program that reads a number and display the sum of its digits.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="0 Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a program that reads a number and display the sum of its digits.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0076: 1-bit Half Subtractor 2</title>
-      
-      <link href="http://localhost:4000/sub/pset-0076/" rel="alternate" type="text/html" title="0076: 1-bit Half Subtractor 2" />
-      <published>2018-05-27T21:51:00+05:30</published>
-      <updated>2018-05-27T21:51:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0076</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0076/">&lt;p&gt;Refer PSET-0006 and write a python program to implement 1-bit half Subtractor only by using logic operators &lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt; arithmetic operators. Program takes two input X,Y and output D and B.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="0 Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Refer PSET-0006 and write a python program to implement 1-bit half Subtractor only by using logic operators and,or and not arithmetic operators. Program takes two input X,Y and output D and B.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0075: Sign Function</title>
-      
-      <link href="http://localhost:4000/sub/pset-0075/" rel="alternate" type="text/html" title="0075: Sign Function" />
-      <published>2018-05-27T21:50:00+05:30</published>
-      <updated>2018-05-27T21:50:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0075</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0075/">&lt;p&gt;Write sign function: returns +1 or -1 based on the sign of argument passed.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="0 Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write sign function: returns +1 or -1 based on the sign of argument passed.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0074: Indicator Function</title>
-      
-      <link href="http://localhost:4000/sub/pset-0074/" rel="alternate" type="text/html" title="0074: Indicator Function" />
-      <published>2018-05-27T21:48:00+05:30</published>
-      <updated>2018-05-27T21:48:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0074</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0074/">&lt;p&gt;Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def indicator(A, x):
-	…
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="0 Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write Indicator function: maps x to either 1 or 0, depending on whether or not x belongs to given set.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0073: Moving in Infinity</title>
-      
-      <link href="http://localhost:4000/sub/pset-0073/" rel="alternate" type="text/html" title="0073: Moving in Infinity" />
-      <published>2018-05-27T16:28:00+05:30</published>
-      <updated>2018-05-27T16:28:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0073</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0073/">&lt;p&gt;Write a P5JS program to move a ball in a track shaped like infinity symbol.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1 Point" />
-      
-
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">Write a P5JS program to move a ball in a track shaped like infinity symbol.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Week 28: Bad things will happen</title>
-      
-      <link href="http://localhost:4000/sub/weekly-update-28/" rel="alternate" type="text/html" title="Week 28: Bad things will happen" />
-      <published>2018-05-20T23:00:00+05:30</published>
-      <updated>2018-05-20T23:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/weekly-update-28</id>
-      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-28/">&lt;p&gt;The summer vacation is taking its impost. I know it is not easy to get going, but you are letting go of the time that would never return. All of you are very far from leveling up, and this is the time you can put hard work to lay a good foundation for your aspirations. Remember that the points you have accumulated are going in vain if you don’t work on a regular basis. Please please just get started, and you will realize that it was all that was required. You are not trying if have not yet begun.&lt;/p&gt;
-
-&lt;p&gt;This week has been rather silent. I have not seen or heard much. None of you have solved even a single PSET problem. And I don’t think I should tell its severity if you don’t realize that it was you who wanted to learn this.&lt;/p&gt;
-
-&lt;h2 id=&quot;bad-things-will-happen&quot;&gt;Bad things will happen&lt;/h2&gt;
-&lt;p&gt;Despite multiple requests, you are not addressing the GitHub issues. I’m thus closing all your previous issues (including peer reviews) without any resolution. And please keep all communication at one place (as I mentioned in last week update), it’s quite difficult otherwise.&lt;/p&gt;
-
-&lt;h2 id=&quot;nevertheless-some-suggestions&quot;&gt;Nevertheless, some suggestions&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Important! Slow and steady wins the race. Keep moving daily. Don’t break your schedule.&lt;/li&gt;
-  &lt;li&gt;Keep your programs/algorithms/solutions adequately organized in your computer and in GitHub to save time during future use.&lt;/li&gt;
-  &lt;li&gt;Adding problem/objective statement at the top of the program in comments can be useful during writing code and also for the future reference.&lt;/li&gt;
-  &lt;li&gt;Learn to comment your code to keep your code understandable by not just you but others. Adding comments help avoid situations when you’re too busy writing code, and you feel distracted by smallest of the interruptions.&lt;/li&gt;
-  &lt;li&gt;Develop your approach to solve problems. Should you do a flow chart first? Alternatively, solve the test cases on the paper? Evolve a system of solving that works for you.&lt;/li&gt;
-  &lt;li&gt;Declare/Initialize variables before you use. In this way, you avoid errors related to un-declaration of variables.&lt;/li&gt;
-  &lt;li&gt;Indent and format your code for readability.&lt;/li&gt;
-  &lt;li&gt;Use meaningful names for variables and functions or else forget reading your code in the future.&lt;/li&gt;
-  &lt;li&gt;Trace through your program to double check accuracy or fallacy.&lt;/li&gt;
-  &lt;li&gt;Keep a check on the different colors in your code editor that indicates what a pre-defined keyword, or which ones are variables or which one is a string, or anything else. Avoid common errors.&lt;/li&gt;
-  &lt;li&gt;Avoid copy/paste.&lt;/li&gt;
-  &lt;li&gt;Do not cheat yourself. Only you know if you understood the logic or not.&lt;/li&gt;
-  &lt;li&gt;You are not your code. Criticism of your code isn’t a criticism of you.&lt;/li&gt;
-  &lt;li&gt;Don’t go dark. Share your unfinished work with willingly.&lt;/li&gt;
-  &lt;li&gt;Test your work. Try writing tests before code.&lt;/li&gt;
-  &lt;li&gt;Be OK with you. You will never know everything - that is impossible. Keep learning, but don’t get caught up on what you don’t know.&lt;/li&gt;
-  &lt;li&gt;Multi-tasking is an illusion (or maybe not). However, computers get away with it because they can context switch fast (most of the time). Do one thing at a time, and do it well.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tell-me-something-good&quot;&gt;Tell me something good!&lt;/h2&gt;
-&lt;p&gt;Okay, there is some good news. Apoorva is gaining momentum in her project, and it is going well. Also, she has written an algorithm to list permutations of a given list for the Hamiltonian cycles, which is a brilliant attempt in itself and all of you should look how she developed it. Maybe Apoorva should tell us how she came up with this algorithm (and rating in her wiki).&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-new&quot;&gt;What’s new?&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;DecodeVector repository is now licensed under MIT License. That means anyone else can use the source code of our website for their community freely. These are small ways through which we can return a favor to developer community who distributes a lot of free and open software like Atom, P5.JS, and Python, etc. Read our license &lt;a href=&quot;https://github.com/mathscapes/DecodeVector/blob/master/LICENSE&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Code of Conduct is now integrated into our GitHub repo which will be shown to the members from time to time to ensure all of us are aware of it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Most PSET problems solved (this week): None&lt;/li&gt;
-  &lt;li&gt;Most PSET problems solved (all time): Simran (29)&lt;/li&gt;
-  &lt;li&gt;Most rating (this week): Apoorva (unknown)&lt;/li&gt;
-  &lt;li&gt;Most rating (all-time): Apoorva (unknown)&lt;/li&gt;
-  &lt;li&gt;Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)&lt;/li&gt;
-  &lt;li&gt;Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Even if you’re on the right track, you’ll get run over if you just sit there.” — Will Rogers&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Update" />
-      
-
-      
-
-      
-        <summary type="html">The summer vacation is taking its impost. I know it is not easy to get going, but you are letting go of the time that would never return. All of you are very far from leveling up, and this is the time you can put hard work to lay a good foundation for your aspirations. Remember that the points you have accumulated are going in vain if you don’t work on a regular basis. Please please just get started, and you will realize that it was all that was required. You are not trying if have not yet begun.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Week 27: Deliberately naive</title>
-      
-      <link href="http://localhost:4000/sub/weekly-update-27/" rel="alternate" type="text/html" title="Week 27: Deliberately naive" />
-      <published>2018-05-13T17:15:00+05:30</published>
-      <updated>2018-05-13T17:15:00+05:30</updated>
-      <id>http://localhost:4000/sub/weekly-update-27</id>
-      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-27/">&lt;p&gt;Its been 27 weeks(!) since we started this group, which we call as DecodeVector now. Honest efforts have been taken by all of the members to not just keeping it alive but making it stronger, which is great!&lt;/p&gt;
-
-&lt;p&gt;Starting from now, I will be writing weekly logs to summarise the progress we make as a group and glimpse of the coming weeks to plan better and updating ourselves to keep aligned to our long-term roadmap.&lt;/p&gt;
-
-&lt;h2 id=&quot;keeping-our-communication-organized&quot;&gt;Keeping our communication organized&lt;/h2&gt;
-&lt;p&gt;It is essential that we keep most (if not all) of our conversation related to DV at one place. We currently have GitHub Issues and #DecodeVector channel of HCD Slack workspace for communication, but it goes to Email/WhatsApp/Slack DMs which is not okay. The problem that I foresee is that we will be doing a lot of rework in future since we make a lot of one-on-one or closed group conversation which will eventually be required for others. I thus suggest if we try to keep our communication only over GitHub (for all important queries about PSET, review, website) and Slack for general correspondence.&lt;/p&gt;
-
-&lt;h2 id=&quot;peer-review-and-ghost-issues-in-github&quot;&gt;Peer review and ghost issues in GitHub&lt;/h2&gt;
-&lt;p&gt;Thank you Vineeta and Simran for thoroughly doing the review for Apoorva. Peer review will be helpful for both learnings and be scrutinized for any wrong-doings(if there are any). The others have not been yet reviewed, and this needs to be done as early as possible. Please please mark your daily progress on your wiki not to accumulate pending. There will be more peer reviews in future, so be ready!&lt;/p&gt;
-
-&lt;p&gt;And leverage GitHub issues feature! Assign a right person who you want to ask, appropriate labels and title. And others are expected to keep a check on their email and GitHub notifications to track if they have any pending issues. Most of the times, someone’s issue just lie there not responded, and that’s not okay. Let’s all of us be accountable towards each other and respond to the issues were assigned to help each other.&lt;/p&gt;
-
-&lt;h2 id=&quot;self-studying&quot;&gt;Self-studying&lt;/h2&gt;
-&lt;p&gt;I’m pleasantly surprised how you all are taking other courses or books to learn Python or other relevant subjects to gain more understanding. While it’s all good, only if you had paid more attention to the class, you would realize that you are already exposed to the information required to do PSETs. Nevertheless, I would encourage self-studying from other sources to gain more knowledge.&lt;/p&gt;
-
-&lt;h2 id=&quot;delay-in-the-project-timelines&quot;&gt;Delay in the project timelines&lt;/h2&gt;
-&lt;p&gt;The delay in your respective projects in unacceptable and since it was all voluntary, you are responsible for taking care of keeping up with the time. Please have a word with me, and let’s rethink your timelines to accomplish your goals within summer break.&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-new&quot;&gt;Whats new?&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;New PSET problems added (0062-0072).&lt;/li&gt;
-  &lt;li&gt;Fixed minor issues in PSET problems pointed out in GitHub issues.&lt;/li&gt;
-  &lt;li&gt;New issue templates on GitHub issues (try creating a new issue to learn more!)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Most PSET problems solved (this week): Pranjal (6)&lt;/li&gt;
-  &lt;li&gt;Most PSET problems solved (all time): Simran (29)&lt;/li&gt;
-  &lt;li&gt;Most rating (this week): Apoorva (unknown)&lt;/li&gt;
-  &lt;li&gt;Most rating (all time): Apoorva (unknown)&lt;/li&gt;
-  &lt;li&gt;Best streak: Simran (04/05/2018-08/05/2018 .. 5 days)&lt;/li&gt;
-  &lt;li&gt;Most PSET problems solved in one day: Simran (04/04/2018 .. 9 problems, 16/04/2018 .. 9 problems)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Mathematics is not yet capable of coping with the naivete of the mathematician himself.” — Abraham Kaplan, Sociology Learns the Language of Mathematics.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Notes" />
-      
-        <category term="Update" />
-      
-
-      
-
-      
-        <summary type="html">Its been 27 weeks(!) since we started this group, which we call as DecodeVector now. Honest efforts have been taken by all of the members to not just keeping it alive but making it stronger, which is great!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0072: Turtle</title>
-      
-      <link href="http://localhost:4000/sub/pset-0072/" rel="alternate" type="text/html" title="0072: Turtle" />
-      <published>2018-05-09T17:15:00+05:30</published>
-      <updated>2018-05-09T17:15:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0072</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0072/">&lt;p&gt;P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt; to start using in your programs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://p5js.org/reference/#/p5/keyPressed&quot;&gt;P5JS Reference: &lt;code class=&quot;highlighter-rouge&quot;&gt;keyPressed&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, write a program that shows a turtle at the center of the canvas and can be moved by up, down, left and right arrow keys on your keyboard.&lt;/p&gt;
-
-&lt;p&gt;You may require how to load images to get a image of a mini turtle.
-&lt;a href=&quot;https://p5js.org/reference/#/p5/image&quot;&gt;P5JS Reference: Images&lt;/a&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="1 Point" />
-      
-
-      
-        <category term="p5.js" />
-      
-
-      
-        <summary type="html">P5JS programs can handle keyboard interactions to allow you to map events/actions triggered by the keyboard inputs. Understand one of the important function keyPressed to start using in your programs.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0071: 1000 digit Fibonacci Number</title>
-      
-      <link href="http://localhost:4000/sub/pset-0071/" rel="alternate" type="text/html" title="0071: 1000 digit Fibonacci Number" />
-      <published>2018-05-09T17:07:00+05:30</published>
-      <updated>2018-05-09T17:07:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0071</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0071/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The Fibonacci sequence is defined by the recurrence relation:&lt;/p&gt;
-
-&lt;p&gt;$F_n = F_{n−1} + F_{n−2}$, where $F_1 = 1$ and $F_2 = 1$&lt;/p&gt;
-
-&lt;p&gt;Hence the first $12$ terms will be:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;F_1 = 1 \\
-    F_2 = 1 \\
-    F_3 = 2 \\
-    F_4 = 3 \\
-    F_5 = 5 \\
-    F_6 = 8 \\
-    F_7 = 13 \\
-    F_8 = 21 \\
-    F_9 = 34 \\
-    F_{10} = 55 \\
-    F_{11} = 89 \\
-    F_{12} = 144 \\&lt;/script&gt;
-
-&lt;p&gt;The $12$th term, $F_{12}$, is the first term to contain three digits.&lt;/p&gt;
-
-&lt;p&gt;What is the index of the first term in the Fibonacci sequence to contain $1000$ digits?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="3 Point" />
-      
-
-      
-        <category term="Python" />
-      
-        <category term="Project Euler" />
-      
-
-      
-        <summary type="html">The following problem is taken from Project Euler.</summary>
       
 
       

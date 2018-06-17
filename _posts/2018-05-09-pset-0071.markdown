@@ -2,7 +2,7 @@
 layout: post
 title:  "0071: 1000 digit Fibonacci Number"
 date:   2018-05-09 17:07:00 +0530
-categories: ['Pset', '3 Point']
+categories: ['Pset', '5 Point']
 tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---

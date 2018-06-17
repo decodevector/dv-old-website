@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0089: Base Conversion"
+date:   2018-06-17 23:25:00 +0530
+categories: ['Pset', '0 Point']
+tags: ['Python']
+author: Gaurav Singh
+---
+Write a computer program to convert decimal (base 10) numbers into binary (base 2) numbers.

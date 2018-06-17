@@ -2,7 +2,7 @@
 layout: post
 title:  "0017: Smallest Multiple"
 date:   2018-03-20 14:30:00 +0530
-categories: ['Pset', '1 Point']
+categories: ['Pset', '2 Point']
 tags: ['Python','Project Euler']
 author: Gaurav Singh
 ---

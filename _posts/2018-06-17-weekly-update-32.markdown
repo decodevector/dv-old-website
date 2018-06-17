@@ -55,10 +55,10 @@ Good luck!
 ## What's New?
 - Changes in look and feel of the website.
 - Updated underlying website dependencies.
-- Changed tag implementation in the DV website.
+- Changed category/tag implementation in the DV website.
 - Fixed search to be able to search the post/page content.
 - Updated PSET issues pointed out on GitHub.
-- New PSET problems: 0083 - 0100.
+- New PSET problems! 0083 - 0093.
 
 ## And so far…
 - Most PSET problems solved (this week): Apoorva (6)
