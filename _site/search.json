@@ -1067,6 +1067,17 @@
   
    {
      
+        "title"    : "Rating",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/rating/",
+        "date"     : "",
+        "content"   : "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>\n\n<script>\nfunction drawSheetName() {\n     var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');\n\n     var query = new google.visualization.Query(\n         'https://docs.google.com/spreadsheets/d/1_-Zuo6jsNTUf9DKK97JdpVR4LOcV5-JXQ5_BP42l9ww/edit#gid=294662724' + queryString);\n     query.send(handleSampleDataQueryResponse);\n   }\n\n\nfunction handleSampleDataQueryResponse(response) {\n if (response.isError()) {\n   alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());\n   return;\n }\n\n var data = response.getDataTable();\n var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));\n chart.draw(data, { height: 400 });\n}\n\n</script>\n\n<div id=\"chart_div\"></div>\n"
+     
+   } ,
+  
+   {
+     
    } ,
   
    {

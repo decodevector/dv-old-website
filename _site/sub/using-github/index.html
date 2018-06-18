@@ -23,7 +23,16 @@
   
   <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://localhost:4000/feed.xml">
 
-  
+  <script type="text/javascript">
+  function iframeLoaded() {
+    var iFrameID = document.getElementById('your_frame_id');
+    if(iFrameID) {
+        iFrameID.height = "";
+        iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+   }
+}
+</script> 
+
 
 
   <script type="text/javascript">
@@ -71,7 +80,7 @@
         <a class="page-link" href="/categories/notes/">Notes</a>
       
         
-        <a class="page-link" href="/members/">Members</a>
+        <a class="page-link" href="/rating/">Rating</a>
       
         
         <a class="page-link" href="/search/">Search</a>
@@ -499,7 +508,7 @@
 <a href="https://medium.com/mathscapes"><i class="fab fa-medium-m"></i></a> ∙
 <a href="https://twitter.com/mathscapesco"><i class="fab fa-twitter"></i></a> -->
 <br>
-Mathscapes Research.  Ver.0.1-180618
+Mathscapes Research.  Ver.0.1-190618
 <br>
 <a href="https://github.com/mathscapes/DecodeVector/issues">Report a bug</a> ∙
 <a href="/sub/code-of-conduct/">Code of Conduct</a> ∙

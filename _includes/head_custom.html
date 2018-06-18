@@ -1,0 +1,9 @@
+<script type="text/javascript">
+  function iframeLoaded() {
+    var iFrameID = document.getElementById('your_frame_id');
+    if(iFrameID) {
+        iFrameID.height = "";
+        iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+   }
+}
+</script> 
