@@ -11,7 +11,7 @@ main:
     url: /categories/pset/
   - title: "Notes"
     url: /categories/notes/
-  - title: "Rating"
-    url: /rating/
+  - title: "Stats"
+    url: /stats/
   - title: "Search"
     url: /search/

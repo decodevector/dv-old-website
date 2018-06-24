@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-06-19T01:04:33+05:30</updated>
-  <id>http://localhost:4000//</id>
+  <link href="http://decodevector.mathscapes.xyz//feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://decodevector.mathscapes.xyz//" rel="alternate" type="text/html" />
+  <updated>2018-06-25T00:04:23+05:30</updated>
+  <id>http://decodevector.mathscapes.xyz///</id>
 
   
     <title type="html">DecodeVector</title>
@@ -26,13 +26,109 @@
   
     <entry>
       
+      <title type="html">Week 33: Keep charged</title>
+      
+      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-33/" rel="alternate" type="text/html" title="Week 33: Keep charged" />
+      <published>2018-06-24T04:45:00+05:30</published>
+      <updated>2018-06-24T04:45:00+05:30</updated>
+      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-33</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-33/">&lt;p&gt;This week has been the best so far.  Simran and Apoorva have picked up their (much awaited) pace, and their rating is just soaring every day. Very happy to see this progress and hoping that they are also enjoying this process. You’re learning more every passing day, and this will build your fluency with maths and code. Next level is around the corner to bring you more challenges and will put you across more complex problems to solve. The future problems will need a sound understanding of newer concepts, but more importantly, their complexity will corner you. Indispensable advice for you both in getting ready for the next level:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go back and review all the feedback/suggestions given by me in the weekly updates and otherwise.&lt;/li&gt;
+  &lt;li&gt;Organise your conceptual understanding, and knowledge gained so far, by making notes, or in any way to track and organize all the information.&lt;/li&gt;
+  &lt;li&gt;Avoid modifying the global variables in your functions! Read input variables and change them and update the global variables by assigning the values returned by the functions. The idea of functions in programming languages is rooted in modularity and reusability, and keeping functions independent from any other part of the code enhances the readability and keeping things organized in your program.&lt;/li&gt;
+  &lt;li&gt;Same with the print() function inside the functions. Use it as less as possible, only for testing and when necessary.&lt;/li&gt;
+  &lt;li&gt;What you can instead do is to organize your python code as following.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While on the one hand, Apoorva and Simran are cruising, Vineeta and Pranjal are struggling to make time to put in DecodeVector. Please manage your time as the journey is becoming more stringent by every coming day. This is the topmost concern for all of us right now. Can I request Vineeta and Pranjal to write all your concerns that are making it harder to proceed and share with us on Slack and we will try to help as soon as possible? Let’s grow together as a community.&lt;/p&gt;
+
+&lt;h2 id=&quot;designing-the-next-chapter&quot;&gt;Designing the next chapter!&lt;/h2&gt;
+&lt;p&gt;Now is the right time to start thinking to plan the next chapter of DecodeVector that will come after the summer break. I’ve some pointers that you can share your thoughts on if you see gaps.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learning from experience so far and how we can streamline the overall process to determine best of our abilities. I personally like to keep things uncomfortable in DecodeVector since it is a learning space, but would happy to listen on any issues that you may have. We can together decide on tweaking certain things for the best.&lt;/li&gt;
+  &lt;li&gt;Difficulty keeping up with DV rating? This is also an aspect thought well enough to help you in a more extended run. Again, if you would need, I can elaborate on why it makes sense to have DV rating. Let me know if anyone has any thoughts around this.&lt;/li&gt;
+  &lt;li&gt;Progress log! I see that this is a tedious process and please bring in your ideas and solutions to do this in a better way. Unless you have any thoughts about maintaining a log, that feedback is also welcome.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s all for improving the existing schema of DV. The next step is making it welcoming for the new members we may have in the next month. For this, I have a long list of things to get done.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting on the same page on many things like the larger idea of why or why not programming makes sense for designers? Programming vs Development? Programming languages to choose for beginners? Wide spectrum within theoretical computer science? Learning to code at DecodeVector and elsewhere? It is okay to be not in consensus but being aware and critical of learning programming.&lt;/li&gt;
+  &lt;li&gt;I’m thinking of a one-day open workshop/event during your revisiting week (possibly on 18th July) which will be about giving an introduction to idea of learning programming, sharing your individual experiences, exhibiting your relevant work/ideas, open hour to take questions from students and answer them, a live coding session and a screening exercise in the evening. Please put across your ideas and thoughts, and we can plan.&lt;/li&gt;
+  &lt;li&gt;Reviewing the existing content on the website and updating it before the one-day event.&lt;/li&gt;
+  &lt;li&gt;Rethinking screening exercise, making it more exciting and tough.&lt;/li&gt;
+  &lt;li&gt;Discussing and planning the roadmap of DV for next few months and how we will balance this in between your busy semester.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s all for this week and keep up the spirit!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://imgs.xkcd.com/comics/spirit.png&quot; alt=&quot;Spirit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Courtesy: &lt;a href=&quot;https://xkcd.com/695/&quot;&gt;xkcd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And yes, great work by Apoorva and Simran to not just complete the 5 day GitHub streak but breaking the challenge! Motivated by your streaks, Can I give you one more challenge this week? Here is the challenge – Can you solve pset/0085 this week?&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-new&quot;&gt;What’s New?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stats page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-so-far&quot;&gt;And so far…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most PSET problems solved (this week): Simran (8)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved (all-time): Apoorva (55+)&lt;/li&gt;
+  &lt;li&gt;Most rating (this week): Apoorva (97)&lt;/li&gt;
+  &lt;li&gt;Most rating (all-time): Apoorva (97)&lt;/li&gt;
+  &lt;li&gt;Best streak: Simran (13/06/2018-24/06/2018 .. 12 days)&lt;/li&gt;
+  &lt;li&gt;Most PSET problems solved in one day: Apoorva (29/04/2018 .. 14 problems)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“One and one and one is three.” - The Beatles (Come together)&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Gaurav Singh</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="Notes" />
+      
+        <category term="Update" />
+      
+
+      
+
+      
+        <summary type="html">This week has been the best so far. Simran and Apoorva have picked up their (much awaited) pace, and their rating is just soaring every day. Very happy to see this progress and hoping that they are also enjoying this process. You’re learning more every passing day, and this will build your fluency with maths and code. Next level is around the corner to bring you more challenges and will put you across more complex problems to solve. The future problems will need a sound understanding of newer concepts, but more importantly, their complexity will corner you. Indispensable advice for you both in getting ready for the next level: Go back and review all the feedback/suggestions given by me in the weekly updates and otherwise. Organise your conceptual understanding, and knowledge gained so far, by making notes, or in any way to track and organize all the information. Avoid modifying the global variables in your functions! Read input variables and change them and update the global variables by assigning the values returned by the functions. The idea of functions in programming languages is rooted in modularity and reusability, and keeping functions independent from any other part of the code enhances the readability and keeping things organized in your program. Same with the print() function inside the functions. Use it as less as possible, only for testing and when necessary. What you can instead do is to organize your python code as following.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Change in PSET points</title>
       
-      <link href="http://localhost:4000/sub/change-in-pset-points/" rel="alternate" type="text/html" title="Change in PSET points" />
+      <link href="http://decodevector.mathscapes.xyz//sub/change-in-pset-points/" rel="alternate" type="text/html" title="Change in PSET points" />
       <published>2018-06-18T01:45:00+05:30</published>
       <updated>2018-06-18T01:45:00+05:30</updated>
-      <id>http://localhost:4000/sub/change-in-pset-points</id>
-      <content type="html" xml:base="http://localhost:4000/sub/change-in-pset-points/">&lt;p&gt;Following problems are now for more points after review.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/change-in-pset-points</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/change-in-pset-points/">&lt;p&gt;Following problems are now for more points after review.&lt;/p&gt;
 
 &lt;h2 id=&quot;1-to-2-points&quot;&gt;1 to 2 points&lt;/h2&gt;
 &lt;ul&gt;
@@ -102,11 +198,11 @@
       
       <title type="html">0093: Newton Raphson</title>
       
-      <link href="http://localhost:4000/sub/pset-0093/" rel="alternate" type="text/html" title="0093: Newton Raphson" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0093/" rel="alternate" type="text/html" title="0093: Newton Raphson" />
       <published>2018-06-17T23:35:00+05:30</published>
       <updated>2018-06-17T23:35:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0093</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0093/">&lt;p&gt;​Write a computer program to compute square root by &lt;a href=&quot;https://en.wikipedia.org/wiki/Newton%27s_method&quot;&gt;newton raphson method&lt;/a&gt;.&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0093</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0093/">&lt;p&gt;​Write a computer program to compute square root by &lt;a href=&quot;https://en.wikipedia.org/wiki/Newton%27s_method&quot;&gt;newton raphson method&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -146,11 +242,11 @@
       
       <title type="html">0092: Base Conversion 2</title>
       
-      <link href="http://localhost:4000/sub/pset-0092/" rel="alternate" type="text/html" title="0092: Base Conversion 2" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0092/" rel="alternate" type="text/html" title="0092: Base Conversion 2" />
       <published>2018-06-17T23:32:00+05:30</published>
       <updated>2018-06-17T23:32:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0092</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0092/">&lt;p&gt;Write a computer program to convert binary (base 2) numbers numbers into decimal (base 10).&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0092</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0092/">&lt;p&gt;Write a computer program to convert binary (base 2) numbers numbers into decimal (base 10).&lt;/p&gt;</content>
 
       
       
@@ -190,11 +286,11 @@
       
       <title type="html">0091: Unique random numbers</title>
       
-      <link href="http://localhost:4000/sub/pset-0091/" rel="alternate" type="text/html" title="0091: Unique random numbers" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0091/" rel="alternate" type="text/html" title="0091: Unique random numbers" />
       <published>2018-06-17T23:31:00+05:30</published>
       <updated>2018-06-17T23:31:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0091</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0091/">&lt;p&gt;Write a program that generates 5 unique random numbers.&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0091</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0091/">&lt;p&gt;Write a program that generates 5 unique random numbers.&lt;/p&gt;</content>
 
       
       
@@ -234,11 +330,11 @@
       
       <title type="html">0090: Floating point average</title>
       
-      <link href="http://localhost:4000/sub/pset-0090/" rel="alternate" type="text/html" title="0090: Floating point average" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0090/" rel="alternate" type="text/html" title="0090: Floating point average" />
       <published>2018-06-17T23:30:00+05:30</published>
       <updated>2018-06-17T23:30:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0090</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0090/">&lt;p&gt;Write a program that calculates the average of an array of 10 floating-point values.&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0090</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0090/">&lt;p&gt;Write a program that calculates the average of an array of 10 floating-point values.&lt;/p&gt;</content>
 
       
       
@@ -278,11 +374,11 @@
       
       <title type="html">0089: Base Conversion</title>
       
-      <link href="http://localhost:4000/sub/pset-0089/" rel="alternate" type="text/html" title="0089: Base Conversion" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0089/" rel="alternate" type="text/html" title="0089: Base Conversion" />
       <published>2018-06-17T23:25:00+05:30</published>
       <updated>2018-06-17T23:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0089</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0089/">&lt;p&gt;Write a computer program to convert decimal (base 10) numbers into binary (base 2) numbers.&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0089</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0089/">&lt;p&gt;Write a computer program to convert decimal (base 10) numbers into binary (base 2) numbers.&lt;/p&gt;</content>
 
       
       
@@ -322,11 +418,11 @@
       
       <title type="html">0088: Number Spiral Diagonal</title>
       
-      <link href="http://localhost:4000/sub/pset-0088/" rel="alternate" type="text/html" title="0088: Number Spiral Diagonal" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0088/" rel="alternate" type="text/html" title="0088: Number Spiral Diagonal" />
       <published>2018-06-17T23:20:00+05:30</published>
       <updated>2018-06-17T23:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0088</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0088/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0088</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0088/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Starting with the number 1 and moving to the right in a clockwise direction a 5 by 5 spiral is formed as follows:&lt;/p&gt;
 
@@ -380,11 +476,11 @@
       
       <title type="html">0087: Quadratic Primes</title>
       
-      <link href="http://localhost:4000/sub/pset-0087/" rel="alternate" type="text/html" title="0087: Quadratic Primes" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0087/" rel="alternate" type="text/html" title="0087: Quadratic Primes" />
       <published>2018-06-17T23:20:00+05:30</published>
       <updated>2018-06-17T23:20:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0087</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0087/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0087</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0087/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Euler discovered the remarkable quadratic formula:&lt;/p&gt;
 
@@ -446,11 +542,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0086: Binomial Expansion</title>
       
-      <link href="http://localhost:4000/sub/pset-0086/" rel="alternate" type="text/html" title="0086: Binomial Expansion" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0086/" rel="alternate" type="text/html" title="0086: Binomial Expansion" />
       <published>2018-06-17T23:15:00+05:30</published>
       <updated>2018-06-17T23:15:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0086</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0086/">&lt;p&gt;In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0086</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0086/">&lt;p&gt;In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$.&lt;/p&gt;
 
 &lt;p&gt;Write a program that reads an integer $n$ and prints out entire expansion.&lt;/p&gt;
 
@@ -498,11 +594,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0085: Reciprocal Cycles</title>
       
-      <link href="http://localhost:4000/sub/pset-0085/" rel="alternate" type="text/html" title="0085: Reciprocal Cycles" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0085/" rel="alternate" type="text/html" title="0085: Reciprocal Cycles" />
       <published>2018-06-17T23:10:00+05:30</published>
       <updated>2018-06-17T23:10:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0085</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0085/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0085</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0085/">&lt;p&gt;&lt;em&gt;The following problem is taken from Project Euler.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A unit fraction contains 1 in the numerator. The decimal representation of the unit fractions with denominators 2 to 10 are given:&lt;/p&gt;
 
@@ -568,11 +664,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0084: Caeser’s Cipher</title>
       
-      <link href="http://localhost:4000/sub/pset-0084/" rel="alternate" type="text/html" title="0084: Caeser's Cipher" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0084/" rel="alternate" type="text/html" title="0084: Caeser's Cipher" />
       <published>2018-06-17T19:05:00+05:30</published>
       <updated>2018-06-17T19:05:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0084</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0084/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N2tjzHzWOjQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0084</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0084/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N2tjzHzWOjQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Caesar’s method is an encryption scheme involving shifting an alphabet (so $a \rightarrow c$, $b \rightarrow d$, $c \rightarrow e$, $d \rightarrow f$ , etc., $x \rightarrow z$, $y \rightarrow a$, $z \rightarrow b$). It is one of the most basic encryption methods, and is a specialized form of a transposition cipher.&lt;/p&gt;
 
@@ -633,11 +729,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0083: Pythagorean Triplet 2</title>
       
-      <link href="http://localhost:4000/sub/pset-0083/" rel="alternate" type="text/html" title="0083: Pythagorean Triplet 2" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0083/" rel="alternate" type="text/html" title="0083: Pythagorean Triplet 2" />
       <published>2018-06-17T19:00:00+05:30</published>
       <updated>2018-06-17T19:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0083</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0083/">&lt;p&gt;A Pythagorean triplet is a set of three natural numbers, $a &amp;lt; b &amp;lt; c$, for which,&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0083</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0083/">&lt;p&gt;A Pythagorean triplet is a set of three natural numbers, $a &amp;lt; b &amp;lt; c$, for which,&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;a^2 + b^2 = c^2&lt;/script&gt;
 
@@ -683,11 +779,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">Week 32: Balancing DV and everything else</title>
       
-      <link href="http://localhost:4000/sub/weekly-update-32/" rel="alternate" type="text/html" title="Week 32: Balancing DV and everything else" />
+      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-32/" rel="alternate" type="text/html" title="Week 32: Balancing DV and everything else" />
       <published>2018-06-17T04:45:00+05:30</published>
       <updated>2018-06-17T04:45:00+05:30</updated>
-      <id>http://localhost:4000/sub/weekly-update-32</id>
-      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-32/">&lt;p&gt;I think it would be safe to say that last week’s update left each of us wanting to point our compasses back to dv,  because while it gets difficult to attain the same kind of focus and attention as we together achieve in our N5’s room of requirement, it does not formulate itself to be an excuse. We’re all very capable people and should be standing by our word, since DecodeVector is something we all want to learn from.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-32</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-32/">&lt;p&gt;I think it would be safe to say that last week’s update left each of us wanting to point our compasses back to dv,  because while it gets difficult to attain the same kind of focus and attention as we together achieve in our N5’s room of requirement, it does not formulate itself to be an excuse. We’re all very capable people and should be standing by our word, since DecodeVector is something we all want to learn from.&lt;/p&gt;
 
 &lt;p&gt;Having said that, I feel like I understand perspectives of us all working our way through summer, trying to sustain our scores to get back stronger and more confident. But I also get that it really doesn’t come easy. From getting caught up in work with the house, to traveling to different places or meeting up with people I’m bound to meet over the summer, to also finally finding some time and still being unproductive at it, it took me a little over a month to realise what I’m going to label ‘Debug’ to pull my way through it all. The balance is essential, and so is keeping yourself motivated. And I’ll tell you what helped me realise that.&lt;/p&gt;
 
@@ -793,11 +889,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">Week 31: Talking to Computers</title>
       
-      <link href="http://localhost:4000/sub/weekly-update-31/" rel="alternate" type="text/html" title="Week 31: Talking to Computers" />
+      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-31/" rel="alternate" type="text/html" title="Week 31: Talking to Computers" />
       <published>2018-06-10T23:45:00+05:30</published>
       <updated>2018-06-10T23:45:00+05:30</updated>
-      <id>http://localhost:4000/sub/weekly-update-31</id>
-      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-31/">&lt;p&gt;After seeing some hope last week, I was excited about this week but this week has been complete drought. I’m tired of repeating myself now if you do not take efforts, I don’t care. Despite, I will continue with what least I can do.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-31</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-31/">&lt;p&gt;After seeing some hope last week, I was excited about this week but this week has been complete drought. I’m tired of repeating myself now if you do not take efforts, I don’t care. Despite, I will continue with what least I can do.&lt;/p&gt;
 
 &lt;p&gt;This week, I’m writing my account of ups and downs in learning computer science. Hopefully, you might take a lesson or two from my experience.&lt;/p&gt;
 
@@ -883,11 +979,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">Week 30: Be resilient (and honest)!</title>
       
-      <link href="http://localhost:4000/sub/weekly-update-30/" rel="alternate" type="text/html" title="Week 30: Be resilient (and honest)!" />
+      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-30/" rel="alternate" type="text/html" title="Week 30: Be resilient (and honest)!" />
       <published>2018-06-03T22:42:00+05:30</published>
       <updated>2018-06-03T22:42:00+05:30</updated>
-      <id>http://localhost:4000/sub/weekly-update-30</id>
-      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-30/">&lt;p&gt;Finally, I’m starting to see the sprouts above the ground. Thank you for reciprocating after last week’s update. I hope you soon see a positive impact of efforts that you’re taking.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-30</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-30/">&lt;p&gt;Finally, I’m starting to see the sprouts above the ground. Thank you for reciprocating after last week’s update. I hope you soon see a positive impact of efforts that you’re taking.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“It’s not that I’m so smart, it’s just that I stay with problems longer.” - Albert Einstein&lt;/p&gt;
@@ -989,11 +1085,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">Week 29: Mid-summersault</title>
       
-      <link href="http://localhost:4000/sub/weekly-update-29/" rel="alternate" type="text/html" title="Week 29: Mid-summersault" />
+      <link href="http://decodevector.mathscapes.xyz//sub/weekly-update-29/" rel="alternate" type="text/html" title="Week 29: Mid-summersault" />
       <published>2018-05-27T23:25:00+05:30</published>
       <updated>2018-05-27T23:25:00+05:30</updated>
-      <id>http://localhost:4000/sub/weekly-update-29</id>
-      <content type="html" xml:base="http://localhost:4000/sub/weekly-update-29/">&lt;p&gt;It is moments like these which make me question if I’m not doing enough to keep the energy alive. Repeating, it’s not going to come any easy. You’ll have to put in efforts, and only then you will reap its benefit. But, first, you have to start doing and do it daily. Well, the price you pay is a part of your time every day goes into this. And that will help you build the habit, habit of learning and practicing. Will you pay this price to reap the unknown? &lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/weekly-update-29</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/weekly-update-29/">&lt;p&gt;It is moments like these which make me question if I’m not doing enough to keep the energy alive. Repeating, it’s not going to come any easy. You’ll have to put in efforts, and only then you will reap its benefit. But, first, you have to start doing and do it daily. Well, the price you pay is a part of your time every day goes into this. And that will help you build the habit, habit of learning and practicing. Will you pay this price to reap the unknown? &lt;/p&gt;
 
 &lt;p&gt;This week was no different from the past, same old story of scarce attempts and continuation of ignoring my requests. Everyone seems quite involved in their own business and have forgotten their word. It’s not going to work this way. Three of you are just about to slip, and I hope you are aware what will it take to start all over again (from the screening) post-summer.&lt;/p&gt;
 
@@ -1070,11 +1166,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0082: Star Pattern 2</title>
       
-      <link href="http://localhost:4000/sub/pset-0082/" rel="alternate" type="text/html" title="0082: Star Pattern 2" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0082/" rel="alternate" type="text/html" title="0082: Star Pattern 2" />
       <published>2018-05-27T22:00:00+05:30</published>
       <updated>2018-05-27T22:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0082</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0082/">&lt;p&gt;Write a function starPattern(n) which prints following.&lt;/p&gt;
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0082</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0082/">&lt;p&gt;Write a function starPattern(n) which prints following.&lt;/p&gt;
 
 &lt;p&gt;Example&lt;/p&gt;
 
@@ -1131,11 +1227,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0081: 1-bit Full Adder 2</title>
       
-      <link href="http://localhost:4000/sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit Full Adder 2" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0081/" rel="alternate" type="text/html" title="0081: 1-bit Full Adder 2" />
       <published>2018-05-27T22:00:00+05:30</published>
       <updated>2018-05-27T22:00:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0081</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (&lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt;).&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0081</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0081/">&lt;p&gt;Write a computer program that implements 1-bit full adder using only logical operations (&lt;code class=&quot;highlighter-rouge&quot;&gt;and&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;not&lt;/code&gt;).&lt;/p&gt;</content>
 
       
       
@@ -1175,11 +1271,11 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
       
       <title type="html">0080: Palindrome</title>
       
-      <link href="http://localhost:4000/sub/pset-0080/" rel="alternate" type="text/html" title="0080: Palindrome" />
+      <link href="http://decodevector.mathscapes.xyz//sub/pset-0080/" rel="alternate" type="text/html" title="0080: Palindrome" />
       <published>2018-05-27T21:59:00+05:30</published>
       <updated>2018-05-27T21:59:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0080</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0080/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;checkPalindrome(x)&lt;/code&gt; which finds if the sum of digits of a number and sum of digits of same number reversed will be same.&lt;/p&gt;</content>
+      <id>http://decodevector.mathscapes.xyz//sub/pset-0080</id>
+      <content type="html" xml:base="http://decodevector.mathscapes.xyz//sub/pset-0080/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;checkPalindrome(x)&lt;/code&gt; which finds if the sum of digits of a number and sum of digits of same number reversed will be same.&lt;/p&gt;</content>
 
       
       
@@ -1207,58 +1303,6 @@ where $\mod{n}$ is the modulus/absolute value of $n$\&lt;/p&gt;
 
       
         <summary type="html">Write a function checkPalindrome(x) which finds if the sum of digits of a number and sum of digits of same number reversed will be same.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">0079: Reverse</title>
-      
-      <link href="http://localhost:4000/sub/pset-0079/" rel="alternate" type="text/html" title="0079: Reverse" />
-      <published>2018-05-27T21:58:00+05:30</published>
-      <updated>2018-05-27T21:58:00+05:30</updated>
-      <id>http://localhost:4000/sub/pset-0079</id>
-      <content type="html" xml:base="http://localhost:4000/sub/pset-0079/">&lt;p&gt;Write a function &lt;code class=&quot;highlighter-rouge&quot;&gt;reverseNumber(x)&lt;/code&gt; which reverses the number x.&lt;/p&gt;
-
-&lt;p&gt;Example&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt;
-698&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt;
-896&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Gaurav Singh</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="Pset" />
-      
-        <category term="0 Point" />
-      
-
-      
-        <category term="Python" />
-      
-
-      
-        <summary type="html">Write a function reverseNumber(x) which reverses the number x.</summary>
       
 
       

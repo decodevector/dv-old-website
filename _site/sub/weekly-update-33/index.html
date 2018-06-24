@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=1024">
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=default'></script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  
+  
+  
+  <title>Week 33: Keep charged</title>
+  <meta name="description" content="This week has been the best so far. Simran and Apoorva have picked up their (much awaited) pace, and their rating is just soaring every day. Very happy to see this progress and hoping that they are also enjoying this process. You’re learning more every passing day, and this will build your fluency with maths and code. Next level is around the corner to bring you more challenges and will put you across more complex problems to solve. The future problems will need a sound understanding of newer concepts, but more importantly, their complexity will corner you. Indispensable advice for you both in getting ready for the next level: Go back and review all the feedback/suggestions given by me in the weekly updates and otherwise. Organise your conceptual understanding, and knowledge gained so far, by making notes, or in any way to track and organize all the information. Avoid modifying the global variables in your functions! Read input variables and change them and update the global variables by assigning the values returned by the functions. The idea of functions in programming languages is rooted in modularity and reusability, and keeping functions independent from any other part of the code enhances the readability and keeping things organized in your program. Same with the print() function inside the functions. Use it as less as possible, only for testing and when necessary. What you can instead do is to organize your python code as following.">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://decodevector.mathscapes.xyz//sub/weekly-update-33/">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="DecodeVector" href="http://decodevector.mathscapes.xyz//feed.xml">
+
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    // Load the Visualization API and the corechart package.
+    google.charts.load('current', {
+        'packages': ['corechart','annotationchart']
+    });
+
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.charts.setOnLoadCallback(drawGID);
+
+    // Callback that creates and populates a data table,
+    // instantiates the pie chart, passes in the data and
+    // draws it.
+
+    function drawGID() {
+       //var queryString = encodeURIComponent('SELECT A, C, D, E, F');
+
+       var query = new google.visualization.Query(
+           'https://docs.google.com/spreadsheets/d/1_-Zuo6jsNTUf9DKK97JdpVR4LOcV5-JXQ5_BP42l9ww/edit?range=B1:F1011&gid=0&headers=1');
+       query.send(handleQueryResponse);
+     }
+
+     function handleQueryResponse(response) {
+       if (response.isError()) {
+         alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+         return;
+       }
+
+       var data = response.getDataTable();
+       // var options = {
+       //    title: 'DV Rating',
+       //    // curveType: 'function',
+       //    legend: { position: 'bottom' },
+       //    width:900,
+       //    height: 600,
+       //  };
+
+        // trendlines: {
+        //     0: {
+        //         type: 'polynomial',
+        //         degree: 3,
+        //         visibleInLegend: true
+        //     }, 1: {
+        //         type: 'polynomial',
+        //         degree: 3,
+        //         visibleInLegend: true
+        //     }, 2: {
+        //         type: 'polynomial',
+        //         degree: 3,
+        //         visibleInLegend: true
+        //     }, 3: {
+        //         type: 'polynomial',
+        //         degree: 3,
+        //         visibleInLegend: true
+        //     }
+        // }
+        var options = {
+          displayAnnotations: true
+        };
+       var chart = new google.visualization.AnnotationChart(document.getElementById('chart_div'));
+       chart.draw(data);
+
+
+     }
+
+
+    function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        data.addRows([
+            ['Mushrooms', 3],
+            ['Onions', 1],
+            ['Olives', 1],
+            ['Zucchini', 1],
+            ['Pepperoni', 2]
+        ]);
+
+        // Set chart options
+        var options = {
+            'title': 'How Much Pizza I Ate Last Night',
+            'width': 400,
+            'height': 300
+        };
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+    }
+</script>
+
+
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'IBM+Plex+Sans:300,400,600', 'IBM+Plex+Mono:300,400,600'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+
+
+  <!-- HTML elements for search -->
+  <script src="/assets/search.js"></script>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+    <a title="Defence against the Dark Arts" class="site-title" href="/">DecodeVector
+    <!-- <img src="logo.png" width="48px" style="padding:20px 0 20px 0"/> -->
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/join/">Join</a>
+      
+        
+        <a class="page-link" href="/categories/pset/">Pset</a>
+      
+        
+        <a class="page-link" href="/categories/notes/">Notes</a>
+      
+        
+        <a class="page-link" href="/stats/">Stats</a>
+      
+        
+        <a class="page-link" href="/search/">Search</a>
+      
+    </nav>
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">Week 33: Keep charged</h1>
+    
+    <p class="post-meta"><time datetime="2018-06-24T04:45:00+05:30" itemprop="datePublished">Jun 24, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Gaurav Singh</span></span> •
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/notes/">Notes</a>,
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="/categories/update/">Update</a>
+      
+    
+      
+    
+      
+    
+  
+
+
+
+</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>This week has been the best so far.  Simran and Apoorva have picked up their (much awaited) pace, and their rating is just soaring every day. Very happy to see this progress and hoping that they are also enjoying this process. You’re learning more every passing day, and this will build your fluency with maths and code. Next level is around the corner to bring you more challenges and will put you across more complex problems to solve. The future problems will need a sound understanding of newer concepts, but more importantly, their complexity will corner you. Indispensable advice for you both in getting ready for the next level:</p>
+<ul>
+  <li>Go back and review all the feedback/suggestions given by me in the weekly updates and otherwise.</li>
+  <li>Organise your conceptual understanding, and knowledge gained so far, by making notes, or in any way to track and organize all the information.</li>
+  <li>Avoid modifying the global variables in your functions! Read input variables and change them and update the global variables by assigning the values returned by the functions. The idea of functions in programming languages is rooted in modularity and reusability, and keeping functions independent from any other part of the code enhances the readability and keeping things organized in your program.</li>
+  <li>Same with the print() function inside the functions. Use it as less as possible, only for testing and when necessary.</li>
+  <li>What you can instead do is to organize your python code as following.</li>
+</ul>
+
+<p>While on the one hand, Apoorva and Simran are cruising, Vineeta and Pranjal are struggling to make time to put in DecodeVector. Please manage your time as the journey is becoming more stringent by every coming day. This is the topmost concern for all of us right now. Can I request Vineeta and Pranjal to write all your concerns that are making it harder to proceed and share with us on Slack and we will try to help as soon as possible? Let’s grow together as a community.</p>
+
+<h2 id="designing-the-next-chapter">Designing the next chapter!</h2>
+<p>Now is the right time to start thinking to plan the next chapter of DecodeVector that will come after the summer break. I’ve some pointers that you can share your thoughts on if you see gaps.</p>
+<ul>
+  <li>Learning from experience so far and how we can streamline the overall process to determine best of our abilities. I personally like to keep things uncomfortable in DecodeVector since it is a learning space, but would happy to listen on any issues that you may have. We can together decide on tweaking certain things for the best.</li>
+  <li>Difficulty keeping up with DV rating? This is also an aspect thought well enough to help you in a more extended run. Again, if you would need, I can elaborate on why it makes sense to have DV rating. Let me know if anyone has any thoughts around this.</li>
+  <li>Progress log! I see that this is a tedious process and please bring in your ideas and solutions to do this in a better way. Unless you have any thoughts about maintaining a log, that feedback is also welcome.</li>
+</ul>
+
+<p>That’s all for improving the existing schema of DV. The next step is making it welcoming for the new members we may have in the next month. For this, I have a long list of things to get done.</p>
+
+<ul>
+  <li>Getting on the same page on many things like the larger idea of why or why not programming makes sense for designers? Programming vs Development? Programming languages to choose for beginners? Wide spectrum within theoretical computer science? Learning to code at DecodeVector and elsewhere? It is okay to be not in consensus but being aware and critical of learning programming.</li>
+  <li>I’m thinking of a one-day open workshop/event during your revisiting week (possibly on 18th July) which will be about giving an introduction to idea of learning programming, sharing your individual experiences, exhibiting your relevant work/ideas, open hour to take questions from students and answer them, a live coding session and a screening exercise in the evening. Please put across your ideas and thoughts, and we can plan.</li>
+  <li>Reviewing the existing content on the website and updating it before the one-day event.</li>
+  <li>Rethinking screening exercise, making it more exciting and tough.</li>
+  <li>Discussing and planning the roadmap of DV for next few months and how we will balance this in between your busy semester.</li>
+</ul>
+
+<p>That’s all for this week and keep up the spirit!</p>
+
+<p><img src="https://imgs.xkcd.com/comics/spirit.png" alt="Spirit" /></p>
+
+<p>Courtesy: <a href="https://xkcd.com/695/">xkcd</a></p>
+
+<p>And yes, great work by Apoorva and Simran to not just complete the 5 day GitHub streak but breaking the challenge! Motivated by your streaks, Can I give you one more challenge this week? Here is the challenge – Can you solve pset/0085 this week?</p>
+
+<h2 id="whats-new">What’s New?</h2>
+<ul>
+  <li>Stats page</li>
+</ul>
+
+<h2 id="and-so-far">And so far…</h2>
+<ul>
+  <li>Most PSET problems solved (this week): Simran (8)</li>
+  <li>Most PSET problems solved (all-time): Apoorva (55+)</li>
+  <li>Most rating (this week): Apoorva (97)</li>
+  <li>Most rating (all-time): Apoorva (97)</li>
+  <li>Best streak: Simran (13/06/2018-24/06/2018 .. 12 days)</li>
+  <li>Most PSET problems solved in one day: Apoorva (29/04/2018 .. 14 problems)</li>
+</ul>
+
+<blockquote>
+  <p>“One and one and one is three.” - The Beatles (Come together)</p>
+</blockquote>
+
+  </div>
+
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+
+<!-- <a href="mailto:grv@mathscapes.xyz"><i class="far fa-envelope"></i></a> ∙
+<a href="https://github.com/mathscapes/DecodeVector"><i class="fab fa-github"></i></a> ∙
+<a href="https://facebook.com/mathscapes"><i class="fab fa-facebook"></i></a> ∙
+<a href="https://instagram.com/mathscapesco"><i class="fab fa-instagram"></i></i></a> ∙
+<a href="https://medium.com/mathscapes"><i class="fab fa-medium-m"></i></a> ∙
+<a href="https://twitter.com/mathscapesco"><i class="fab fa-twitter"></i></a> -->
+<br>
+Mathscapes Research.  Ver.0.1-250618
+<br>
+<a href="https://github.com/mathscapes/DecodeVector/issues">Report a bug</a> ∙
+<a href="/sub/code-of-conduct/">Code of Conduct</a> ∙
+<a href="/sub/rating-system/">Rating System</a>
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Week 33: Keep charged",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/sub/weekly-update-33/",
+      "date"     : "2018-06-24 04:45:00 +0530",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]\n"
+    } ,
+  
+    {
       "title"    : "Change in PSET points",
       "category" : "",
       "tags"     : "",
@@ -1067,17 +1076,6 @@
   
    {
      
-        "title"    : "Rating",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/rating/",
-        "date"     : "",
-        "content"   : "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>\n\n<script>\nfunction drawSheetName() {\n     var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');\n\n     var query = new google.visualization.Query(\n         'https://docs.google.com/spreadsheets/d/1_-Zuo6jsNTUf9DKK97JdpVR4LOcV5-JXQ5_BP42l9ww/edit#gid=294662724' + queryString);\n     query.send(handleSampleDataQueryResponse);\n   }\n\n\nfunction handleSampleDataQueryResponse(response) {\n if (response.isError()) {\n   alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());\n   return;\n }\n\n var data = response.getDataTable();\n var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));\n chart.draw(data, { height: 400 });\n}\n\n</script>\n\n<div id=\"chart_div\"></div>\n"
-     
-   } ,
-  
-   {
-     
    } ,
   
    {
@@ -1088,6 +1086,17 @@
         "url"      : "/search/",
         "date"     : "",
         "content"   : "<div>\n<input type=\"text\" id=\"search-input\" placeholder=\"Search anything..\">\n\n<ul id=\"results-container\"></ul>\n\n<script>\n    var sjs = SimpleJekyllSearch({\n    searchInput: document.getElementById('search-input'),\n    resultsContainer: document.getElementById('results-container'),\n    json: '/search.json'\n  })\n</script>\n</div>\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Stats",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/stats/",
+        "date"     : "",
+        "content"   : "<div id=\"chart_div\" style=\"width:100%; height:600px\"></div>\n\n\\\\\nThis page is updated about once daily. In case of any incorrect marking, please report under GitHub issues.\n"
      
    } ,
   
