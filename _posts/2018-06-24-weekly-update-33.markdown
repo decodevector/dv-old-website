@@ -14,6 +14,24 @@ This week has been the best so far.  Simran and Apoorva have picked up their (mu
 - Same with the print() function inside the functions. Use it as less as possible, only for testing and when necessary.
 - What you can instead do is to organize your python code as following.
 
+```python
+
+def function1():
+    # function code goes here..
+
+def function2():
+    # function code goes here..
+.
+.
+
+def main():
+    # main code goes here..
+
+if __name__ == '__main__':
+    main()
+
+```
+
 While on the one hand, Apoorva and Simran are cruising, Vineeta and Pranjal are struggling to make time to put in DecodeVector. Please manage your time as the journey is becoming more stringent by every coming day. This is the topmost concern for all of us right now. Can I request Vineeta and Pranjal to write all your concerns that are making it harder to proceed and share with us on Slack and we will try to help as soon as possible? Let's grow together as a community.
 
 ## Designing the next chapter!
