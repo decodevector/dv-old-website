@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 34: Don't ____"
+title:  "Week 34: Reflections of a fledgeling Decode Vectorian"
 date:   2018-07-02 00:47:00 +0530
 categories: Notes Update
 tags:
